@@ -1,0 +1,1011 @@
+Nome,Número,Peso,Altura,Tipos
+Bulbasaur,,6.9 kg (15.2 lbs),0.7 m (2′04″),"['Grass', 'Poison']"
+Sandslash,,29.5 kg (65.0 lbs),1.0 m (3′03″),"['Ground', 'Ice', 'Steel']"
+Nidorino,,19.5 kg (43.0 lbs),0.9 m (2′11″),['Poison']
+Raichu,,30.0 kg (66.1 lbs),0.8 m (2′07″),"['Electric', 'Electric', 'Psychic']"
+Nidoran♀ (female),,7.0 kg (15.4 lbs),0.4 m (1′04″),['Poison']
+Sandshrew,,12.0 kg (26.5 lbs),0.6 m (2′00″),"['Ground', 'Ice', 'Steel']"
+Pikachu,,6.0 kg (13.2 lbs),0.4 m (1′04″),"['Electric', 'Electric']"
+Arbok,,65.0 kg (143.3 lbs),3.5 m (11′06″),['Poison']
+Ekans,,6.9 kg (15.2 lbs),2.0 m (6′07″),['Poison']
+Spearow,,2.0 kg (4.4 lbs),0.3 m (1′00″),"['Normal', 'Flying']"
+Fearow,,38.0 kg (83.8 lbs),1.2 m (3′11″),"['Normal', 'Flying']"
+Rattata,,3.5 kg (7.7 lbs),0.3 m (1′00″),"['Normal', 'Dark', 'Normal']"
+Raticate,,18.5 kg (40.8 lbs),0.7 m (2′04″),"['Normal', 'Dark', 'Normal']"
+Tropius,,100.0 kg (220.5 lbs),2.0 m (6′07″),"['Grass', 'Flying']"
+Nidoqueen,,60.0 kg (132.3 lbs),1.3 m (4′03″),"['Poison', 'Ground']"
+Nidoran♂ (male),,9.0 kg (19.8 lbs),0.5 m (1′08″),['Poison']
+Dusclops,,30.6 kg (67.5 lbs),1.6 m (5′03″),['Ghost']
+Zapdos,,52.6 kg (116.0 lbs),1.6 m (5′03″),"['Electric', 'Flying', 'Fighting', 'Flying']"
+Honchkrow,,27.3 kg (60.2 lbs),0.9 m (2′11″),"['Dark', 'Flying']"
+Glameow,,3.9 kg (8.6 lbs),0.5 m (1′08″),['Normal']
+Metagross,,550.0 kg (1212.5 lbs),1.6 m (5′03″),"['Steel', 'Psychic', 'Steel', 'Psychic']"
+Purugly,,43.8 kg (96.6 lbs),1.0 m (3′03″),['Normal']
+Duskull,,15.0 kg (33.1 lbs),0.8 m (2′07″),['Ghost']
+Banette,,12.5 kg (27.6 lbs),1.1 m (3′07″),"['Ghost', 'Ghost']"
+Chingling,,0.6 kg (1.3 lbs),0.2 m (0′08″),['Psychic']
+Bisharp,,70.0 kg (154.3 lbs),1.6 m (5′03″),"['Dark', 'Steel']"
+Mismagius,,4.4 kg (9.7 lbs),0.9 m (2′11″),['Ghost']
+Mienshao,,35.5 kg (78.3 lbs),1.4 m (4′07″),['Fighting']
+Pawniard,,10.2 kg (22.5 lbs),0.5 m (1′08″),"['Dark', 'Steel']"
+Golett,,92.0 kg (202.8 lbs),1.0 m (3′03″),"['Ground', 'Ghost']"
+Druddigon,,139.0 kg (306.4 lbs),1.6 m (5′03″),['Dragon']
+Golurk,,330.0 kg (727.5 lbs),2.8 m (9′02″),"['Ground', 'Ghost']"
+Nidorina,,20.0 kg (44.1 lbs),0.8 m (2′07″),['Poison']
+Mienfoo,,20.0 kg (44.1 lbs),0.9 m (2′11″),['Fighting']
+Aegislash,,53.0 kg (116.8 lbs),1.7 m (5′07″),"['Steel', 'Ghost', 'Steel', 'Ghost']"
+Honedge,,2.0 kg (4.4 lbs),0.8 m (2′07″),"['Steel', 'Ghost']"
+Swirlix,,3.5 kg (7.7 lbs),0.4 m (1′04″),['Fairy']
+Spritzee,,0.5 kg (1.1 lbs),0.2 m (0′08″),['Fairy']
+Doublade,,4.5 kg (9.9 lbs),0.8 m (2′07″),"['Steel', 'Ghost']"
+Aromatisse,,15.5 kg (34.2 lbs),0.8 m (2′07″),['Fairy']
+Dottler,,19.5 kg (43.0 lbs),0.4 m (1′04″),"['Bug', 'Psychic']"
+Blipbug,,8.0 kg (17.6 lbs),0.4 m (1′04″),['Bug']
+Corviknight,,75.0 kg (165.3 lbs),2.2 m (7′03″),"['Flying', 'Steel']"
+Meowstic,,8.5 kg (18.7 lbs),0.6 m (2′00″),"['Psychic', 'Psychic']"
+Corvisquire,,16.0 kg (35.3 lbs),0.8 m (2′07″),['Flying']
+Rookidee,,1.8 kg (4.0 lbs),0.2 m (0′08″),['Flying']
+Greedent,,6.0 kg (13.2 lbs),0.6 m (2′00″),['Normal']
+Tarountula,,4.0 kg (8.8 lbs),0.3 m (1′00″),['Bug']
+Oinkologne,,120.0 kg (264.6 lbs),1.0 m (3′03″),"['Normal', 'Normal']"
+Spidops,,16.5 kg (36.4 lbs),1.0 m (3′03″),['Bug']
+Orbeetle,,40.8 kg (89.9 lbs),0.4 m (1′04″),"['Bug', 'Psychic']"
+Quaquaval,,61.9 kg (136.5 lbs),1.8 m (5′11″),"['Water', 'Fighting']"
+Lechonk,,10.2 kg (22.5 lbs),0.5 m (1′08″),['Normal']
+Quaxwell,,21.5 kg (47.4 lbs),1.2 m (3′11″),['Water']
+Veluza,,90.0 kg (198.4 lbs),2.5 m (8′02″),"['Water', 'Psychic']"
+Cetitan,,700.0 kg (1543.2 lbs),4.5 m (14′09″),['Ice']
+Quaxly,,6.1 kg (13.4 lbs),0.5 m (1′08″),['Water']
+Dubwool,,43.0 kg (94.8 lbs),1.3 m (4′03″),['Normal']
+Cetoddle,,45.0 kg (99.2 lbs),1.2 m (3′11″),['Ice']
+Dondozo,,220.0 kg (485.0 lbs),12.0 m (39′04″),['Water']
+Flamigo,,37.0 kg (81.6 lbs),1.6 m (5′03″),"['Flying', 'Fighting']"
+Iron Valiant,,35.0 kg (77.2 lbs),1.4 m (4′07″),"['Fairy', 'Fighting']"
+Iron Leaves,,125.0 kg (275.6 lbs),1.5 m (4′11″),"['Grass', 'Psychic']"
+Walking Wake,,280.0 kg (617.3 lbs),3.5 m (11′06″),"['Water', 'Dragon']"
+Miraidon,,240.0 kg (529.1 lbs),3.5 m (11′06″),"['Electric', 'Dragon']"
+Koraidon,,303.0 kg (668.0 lbs),2.5 m (8′02″),"['Fighting', 'Dragon']"
+Roaring Moon,,380.0 kg (837.8 lbs),2.0 m (6′07″),"['Dragon', 'Dark']"
+Chi-Yu,,4.9 kg (10.8 lbs),0.4 m (1′04″),"['Dark', 'Fire']"
+Chien-Pao,,152.2 kg (335.5 lbs),1.9 m (6′03″),"['Dark', 'Ice']"
+Ting-Lu,,699.7 kg (1542.6 lbs),2.7 m (8′10″),"['Dark', 'Ground']"
+Wo-Chien,,74.2 kg (163.6 lbs),1.5 m (4′11″),"['Dark', 'Grass']"
+Gholdengo,,30.0 kg (66.1 lbs),1.2 m (3′11″),"['Steel', 'Ghost']"
+Gimmighoul,,5.0 kg (11.0 lbs),0.3 m (1′00″),"['Ghost', 'Ghost']"
+Iron Jugulis,,111.0 kg (244.7 lbs),1.3 m (4′03″),"['Dark', 'Flying']"
+Baxcalibur,,210.0 kg (463.0 lbs),2.1 m (6′11″),"['Dragon', 'Ice']"
+Iron Moth,,36.0 kg (79.4 lbs),1.2 m (3′11″),"['Fire', 'Poison']"
+Frigibax,,17.0 kg (37.5 lbs),0.5 m (1′08″),"['Dragon', 'Ice']"
+Arctibax,,30.0 kg (66.1 lbs),0.8 m (2′07″),"['Dragon', 'Ice']"
+Iron Thorns,,303.0 kg (668.0 lbs),1.6 m (5′03″),"['Rock', 'Electric']"
+Houndstone,,15.0 kg (33.1 lbs),2.0 m (6′07″),['Ghost']
+Greavard,,35.0 kg (77.2 lbs),0.6 m (2′00″),['Ghost']
+Iron Treads,,240.0 kg (529.1 lbs),0.9 m (2′11″),"['Ground', 'Steel']"
+Iron Bundle,,11.0 kg (24.3 lbs),0.6 m (2′00″),"['Ice', 'Water']"
+Sandy Shocks,,60.0 kg (132.3 lbs),2.3 m (7′07″),"['Electric', 'Ground']"
+Flutter Mane,,4.0 kg (8.8 lbs),1.4 m (4′07″),"['Ghost', 'Fairy']"
+Iron Hands,,380.7 kg (839.3 lbs),1.8 m (5′11″),"['Fighting', 'Electric']"
+Slither Wing,,92.0 kg (202.8 lbs),3.2 m (10′06″),"['Bug', 'Fighting']"
+Annihilape,,56.0 kg (123.5 lbs),1.2 m (3′11″),"['Fighting', 'Ghost']"
+Kingambit,,120.0 kg (264.6 lbs),2.0 m (6′07″),"['Dark', 'Steel']"
+Great Tusk,,320.0 kg (705.5 lbs),2.2 m (7′03″),"['Ground', 'Fighting']"
+Farigiraf,,160.0 kg (352.7 lbs),3.2 m (10′06″),"['Normal', 'Psychic']"
+Glimmet,,8.0 kg (17.6 lbs),0.7 m (2′04″),"['Rock', 'Poison']"
+Glimmora,,45.0 kg (99.2 lbs),1.5 m (4′11″),"['Rock', 'Poison']"
+Tatsugiri,,8.0 kg (17.6 lbs),0.3 m (1′00″),"['Dragon', 'Water', 'Dragon', 'Water', 'Dragon', 'Water']"
+Orthworm,,310.0 kg (683.4 lbs),2.5 m (8′02″),['Steel']
+Brute Bonnet,,21.0 kg (46.3 lbs),1.2 m (3′11″),"['Grass', 'Dark']"
+Revavroom,,120.0 kg (264.6 lbs),1.8 m (5′11″),"['Steel', 'Poison']"
+Varoom,,35.0 kg (77.2 lbs),1.0 m (3′03″),"['Steel', 'Poison']"
+Cyclizar,,63.0 kg (138.9 lbs),1.6 m (5′03″),"['Dragon', 'Normal']"
+Palafin,,60.2 kg (132.7 lbs),1.3 m (4′03″),"['Water', 'Water']"
+Scream Tail,,8.0 kg (17.6 lbs),1.2 m (3′11″),"['Fairy', 'Psychic']"
+Bombirdier,,42.9 kg (94.6 lbs),1.5 m (4′11″),"['Flying', 'Dark']"
+Wugtrio,,5.4 kg (11.9 lbs),1.2 m (3′11″),['Water']
+Tinkaton,,112.8 kg (248.7 lbs),0.7 m (2′04″),"['Fairy', 'Steel']"
+Wiglett,,1.8 kg (4.0 lbs),1.2 m (3′11″),['Water']
+Dudunsparce,,39.2 kg (86.4 lbs),3.6 m (11′10″),"['Normal', 'Normal']"
+Rabsca,,3.5 kg (7.7 lbs),0.3 m (1′00″),"['Bug', 'Psychic']"
+Espathra,,90.0 kg (198.4 lbs),1.9 m (6′03″),['Psychic']
+Scovillain,,15.0 kg (33.1 lbs),0.9 m (2′11″),"['Grass', 'Fire']"
+Tinkatink,,8.9 kg (19.6 lbs),0.4 m (1′04″),"['Fairy', 'Steel']"
+Capsakid,,3.0 kg (6.6 lbs),0.3 m (1′00″),['Grass']
+Rellor,,1.0 kg (2.2 lbs),0.2 m (0′08″),['Bug']
+Toedscruel,,58.0 kg (127.9 lbs),1.9 m (6′03″),"['Ground', 'Grass']"
+Klawf,,79.0 kg (174.2 lbs),1.3 m (4′03″),['Rock']
+Brambleghast,,6.0 kg (13.2 lbs),1.2 m (3′11″),"['Grass', 'Ghost']"
+Finizen,,60.2 kg (132.7 lbs),1.3 m (4′03″),['Water']
+Bramblin,,0.6 kg (1.3 lbs),0.6 m (2′00″),"['Grass', 'Ghost']"
+Flittle,,1.5 kg (3.3 lbs),0.2 m (0′08″),['Psychic']
+Maschiff,,16.0 kg (35.3 lbs),0.5 m (1′08″),['Dark']
+Mabosstiff,,61.0 kg (134.5 lbs),1.1 m (3′07″),['Dark']
+Toedscool,,33.0 kg (72.8 lbs),0.9 m (2′11″),"['Ground', 'Grass']"
+Grafaiai,,27.2 kg (60.0 lbs),0.7 m (2′04″),"['Poison', 'Normal']"
+Tinkatuff,,59.1 kg (130.3 lbs),0.7 m (2′04″),"['Fairy', 'Steel']"
+Shroodle,,0.7 kg (1.5 lbs),0.2 m (0′08″),"['Poison', 'Normal']"
+Wattrel,,3.6 kg (7.9 lbs),0.4 m (1′04″),"['Electric', 'Flying']"
+Kilowattrel,,38.6 kg (85.1 lbs),1.4 m (4′07″),"['Electric', 'Flying']"
+Bellibolt,,113.0 kg (249.1 lbs),1.2 m (3′11″),['Electric']
+Armarouge,,85.0 kg (187.4 lbs),1.5 m (4′11″),"['Fire', 'Psychic']"
+Ceruledge,,62.0 kg (136.7 lbs),1.6 m (5′03″),"['Fire', 'Ghost']"
+Tadbulb,,0.4 kg (0.9 lbs),0.3 m (1′00″),['Electric']
+Charcadet,,10.5 kg (23.1 lbs),0.6 m (2′00″),['Fire']
+Garganacl,,240.0 kg (529.1 lbs),2.3 m (7′07″),['Rock']
+Squawkabilly,,2.4 kg (5.3 lbs),0.6 m (2′00″),"['Normal', 'Flying', 'Normal', 'Flying', 'Normal', 'Flying', 'Normal', 'Flying']"
+Naclstack,,105.0 kg (231.5 lbs),0.6 m (2′00″),['Rock']
+Smoliv,,6.5 kg (14.3 lbs),0.3 m (1′00″),"['Grass', 'Normal']"
+Dolliv,,11.9 kg (26.2 lbs),0.6 m (2′00″),"['Grass', 'Normal']"
+Arboliva,,48.2 kg (106.3 lbs),1.4 m (4′07″),"['Grass', 'Normal']"
+Clodsire,,223.0 kg (491.6 lbs),1.8 m (5′11″),"['Poison', 'Ground']"
+Dachsbun,,14.9 kg (32.8 lbs),0.5 m (1′08″),['Fairy']
+Fidough,,10.9 kg (24.0 lbs),0.3 m (1′00″),['Fairy']
+Pawmot,,41.0 kg (90.4 lbs),0.9 m (2′11″),"['Electric', 'Fighting']"
+Pawmo,,6.5 kg (14.3 lbs),0.4 m (1′04″),"['Electric', 'Fighting']"
+Pawmi,,2.5 kg (5.5 lbs),0.3 m (1′00″),['Electric']
+Tandemaus,,1.8 kg (4.0 lbs),0.3 m (1′00″),['Normal']
+Lokix,,17.5 kg (38.6 lbs),1.0 m (3′03″),"['Bug', 'Dark']"
+Maushold,,2.8 kg (6.2 lbs),0.3 m (1′00″),"['Normal', 'Normal']"
+Nacli,,16.0 kg (35.3 lbs),0.4 m (1′04″),['Rock']
+Crocalor,,30.7 kg (67.7 lbs),1.0 m (3′03″),['Fire']
+Fuecoco,,9.8 kg (21.6 lbs),0.4 m (1′04″),['Fire']
+Nymble,,1.0 kg (2.2 lbs),0.2 m (0′08″),['Bug']
+Skeledirge,,326.5 kg (719.8 lbs),1.6 m (5′03″),"['Fire', 'Ghost']"
+Floragato,,12.2 kg (26.9 lbs),0.9 m (2′11″),['Grass']
+Sprigatito,,4.1 kg (9.0 lbs),0.4 m (1′04″),['Grass']
+Kleavor,,89.0 kg (196.2 lbs),1.8 m (5′11″),"['Bug', 'Rock']"
+Overqwil,,60.5 kg (133.4 lbs),2.5 m (8′02″),"['Dark', 'Poison']"
+Ursaluna,,290.0 kg (639.3 lbs),2.4 m (7′10″),"['Ground', 'Normal', 'Ground', 'Normal']"
+Basculegion,,110.0 kg (242.5 lbs),3.0 m (9′10″),"['Water', 'Ghost', 'Water', 'Ghost']"
+Regidrago,,200.0 kg (440.9 lbs),2.1 m (6′11″),['Dragon']
+Glastrier,,800.0 kg (1763.7 lbs),2.2 m (7′03″),['Ice']
+Spectrier,,44.5 kg (98.1 lbs),2.0 m (6′07″),['Ghost']
+Meowscarada,,31.2 kg (68.8 lbs),1.5 m (4′11″),"['Grass', 'Dark']"
+Regieleki,,145.0 kg (319.7 lbs),1.2 m (3′11″),['Electric']
+Enamorus,,48.0 kg (105.8 lbs),1.6 m (5′03″),"['Fairy', 'Flying', 'Fairy', 'Flying']"
+Zarude,,70.0 kg (154.3 lbs),1.8 m (5′11″),"['Dark', 'Grass']"
+Urshifu,,105.0 kg (231.5 lbs),1.9 m (6′03″),"['Fighting', 'Dark', 'Fighting', 'Water']"
+Kubfu,,12.0 kg (26.5 lbs),0.6 m (2′00″),['Fighting']
+Wyrdeer,,95.1 kg (209.7 lbs),1.8 m (5′11″),"['Normal', 'Psychic']"
+Calyrex,,7.7 kg (17.0 lbs),1.1 m (3′07″),"['Psychic', 'Grass', 'Psychic', 'Ice', 'Psychic', 'Ghost']"
+Zacian,,110.0 kg (242.5 lbs),2.8 m (9′02″),"['Fairy', 'Fairy', 'Steel']"
+Zamazenta,,210.0 kg (463.0 lbs),2.9 m (9′06″),"['Fighting', 'Fighting', 'Steel']"
+Dragapult,,50.0 kg (110.2 lbs),3.0 m (9′10″),"['Dragon', 'Ghost']"
+Eternatus,,950.0 kg (2094.4 lbs),20.0 m (65′07″),"['Poison', 'Dragon', 'Poison', 'Dragon']"
+Dreepy,,2.0 kg (4.4 lbs),0.5 m (1′08″),"['Dragon', 'Ghost']"
+Dracovish,,215.0 kg (474.0 lbs),2.3 m (7′07″),"['Water', 'Dragon']"
+Dracozolt,,190.0 kg (418.9 lbs),1.8 m (5′11″),"['Electric', 'Dragon']"
+Arctozolt,,150.0 kg (330.7 lbs),2.3 m (7′07″),"['Electric', 'Ice']"
+Drakloak,,11.0 kg (24.3 lbs),1.4 m (4′07″),"['Dragon', 'Ghost']"
+Indeedee,,28.0 kg (61.7 lbs),0.9 m (2′11″),"['Psychic', 'Normal', 'Psychic', 'Normal']"
+Duraludon,,40.0 kg (88.2 lbs),1.8 m (5′11″),"['Steel', 'Dragon']"
+Morpeko,,3.0 kg (6.6 lbs),0.3 m (1′00″),"['Electric', 'Dark', 'Electric', 'Dark']"
+Eiscue,,89.0 kg (196.2 lbs),1.4 m (4′07″),"['Ice', 'Ice']"
+Arctovish,,175.0 kg (385.8 lbs),2.0 m (6′07″),"['Water', 'Ice']"
+Frosmoth,,42.0 kg (92.6 lbs),1.3 m (4′03″),"['Ice', 'Bug']"
+Snom,,3.8 kg (8.4 lbs),0.3 m (1′00″),"['Ice', 'Bug']"
+Copperajah,,650.0 kg (1433.0 lbs),3.0 m (9′10″),['Steel']
+Stonjourner,,520.0 kg (1146.4 lbs),2.5 m (8′02″),['Rock']
+Cufant,,100.0 kg (220.5 lbs),1.2 m (3′11″),['Steel']
+Alcremie,,0.5 kg (1.1 lbs),0.3 m (1′00″),['Fairy']
+Runerigus,,66.6 kg (146.8 lbs),1.6 m (5′03″),"['Ground', 'Ghost']"
+Milcery,,0.3 kg (0.7 lbs),0.2 m (0′08″),['Fairy']
+Perrserker,,28.0 kg (61.7 lbs),0.8 m (2′07″),['Steel']
+Cursola,,0.4 kg (0.9 lbs),1.0 m (3′03″),['Ghost']
+Grimmsnarl,,61.0 kg (134.5 lbs),1.5 m (4′11″),"['Dark', 'Fairy']"
+Sneasler,,43.0 kg (94.8 lbs),1.3 m (4′03″),"['Fighting', 'Poison']"
+Impidimp,,5.5 kg (12.1 lbs),0.4 m (1′04″),"['Dark', 'Fairy']"
+Obstagoon,,46.0 kg (101.4 lbs),1.6 m (5′03″),"['Dark', 'Normal']"
+Morgrem,,12.5 kg (27.6 lbs),0.8 m (2′07″),"['Dark', 'Fairy']"
+Pincurchin,,1.0 kg (2.2 lbs),0.3 m (1′00″),['Electric']
+Hatenna,,3.4 kg (7.5 lbs),0.4 m (1′04″),['Psychic']
+Falinks,,62.0 kg (136.7 lbs),3.0 m (9′10″),['Fighting']
+Hatterene,,5.1 kg (11.2 lbs),2.1 m (6′11″),"['Psychic', 'Fairy']"
+Mr. Rime,,58.2 kg (128.3 lbs),1.5 m (4′11″),"['Ice', 'Psychic']"
+Hattrem,,4.8 kg (10.6 lbs),0.6 m (2′00″),['Psychic']
+Polteageist,,0.4 kg (0.9 lbs),0.2 m (0′08″),['Ghost']
+Toxtricity,,40.0 kg (88.2 lbs),1.6 m (5′03″),"['Electric', 'Poison', 'Electric', 'Poison']"
+Sizzlipede,,1.0 kg (2.2 lbs),0.7 m (2′04″),"['Fire', 'Bug']"
+Centiskorch,,120.0 kg (264.6 lbs),3.0 m (9′10″),"['Fire', 'Bug']"
+Toxel,,11.0 kg (24.3 lbs),0.4 m (1′04″),"['Electric', 'Poison']"
+Arrokuda,,1.0 kg (2.2 lbs),0.5 m (1′08″),['Water']
+Barraskewda,,30.0 kg (66.1 lbs),1.3 m (4′03″),['Water']
+Sandaconda,,65.5 kg (144.4 lbs),3.8 m (12′06″),['Ground']
+Cramorant,,18.0 kg (39.7 lbs),0.8 m (2′07″),"['Flying', 'Water']"
+Sinistea,,0.2 kg (0.4 lbs),0.1 m (0′04″),['Ghost']
+Clobbopus,,4.0 kg (8.8 lbs),0.6 m (2′00″),['Fighting']
+Applin,,0.5 kg (1.1 lbs),0.2 m (0′08″),"['Grass', 'Dragon']"
+Silicobra,,7.6 kg (16.8 lbs),2.2 m (7′03″),['Ground']
+Appletun,,13.0 kg (28.7 lbs),0.4 m (1′04″),"['Grass', 'Dragon']"
+Grapploct,,39.0 kg (86.0 lbs),1.6 m (5′03″),['Fighting']
+Flapple,,1.0 kg (2.2 lbs),0.3 m (1′00″),"['Grass', 'Dragon']"
+Carkol,,78.0 kg (172.0 lbs),1.1 m (3′07″),"['Rock', 'Fire']"
+Coalossal,,310.5 kg (684.5 lbs),2.8 m (9′02″),"['Rock', 'Fire']"
+Eldegoss,,2.5 kg (5.5 lbs),0.5 m (1′08″),['Grass']
+Wooloo,,6.0 kg (13.2 lbs),0.6 m (2′00″),['Normal']
+Chewtle,,8.5 kg (18.7 lbs),0.3 m (1′00″),['Water']
+Boltund,,34.0 kg (75.0 lbs),1.0 m (3′03″),['Electric']
+Drednaw,,115.5 kg (254.6 lbs),1.0 m (3′03″),"['Water', 'Rock']"
+Rolycoly,,12.0 kg (26.5 lbs),0.3 m (1′00″),['Rock']
+Sirfetch'd,,117.0 kg (257.9 lbs),0.8 m (2′07″),['Fighting']
+Gossifleur,,2.2 kg (4.9 lbs),0.4 m (1′04″),['Grass']
+Skwovet,,2.5 kg (5.5 lbs),0.3 m (1′00″),['Normal']
+Inteleon,,45.2 kg (99.6 lbs),1.9 m (6′03″),['Water']
+Drizzile,,11.5 kg (25.4 lbs),0.7 m (2′04″),['Water']
+Thievul,,19.9 kg (43.9 lbs),1.2 m (3′11″),['Dark']
+Scorbunny,,4.5 kg (9.9 lbs),0.3 m (1′00″),['Fire']
+Sobble,,4.0 kg (8.8 lbs),0.3 m (1′00″),['Water']
+Raboot,,9.0 kg (19.8 lbs),0.6 m (2′00″),['Fire']
+Yamper,,13.5 kg (29.8 lbs),0.3 m (1′00″),['Electric']
+Rillaboom,,90.0 kg (198.4 lbs),2.1 m (6′11″),['Grass']
+Grookey,,5.0 kg (11.0 lbs),0.3 m (1′00″),['Grass']
+Thwackey,,14.0 kg (30.9 lbs),0.7 m (2′04″),['Grass']
+Nickit,,8.9 kg (19.6 lbs),0.6 m (2′00″),['Dark']
+Meltan,,8.0 kg (17.6 lbs),0.2 m (0′08″),['Steel']
+Cinderace,,33.0 kg (72.8 lbs),1.4 m (4′07″),['Fire']
+Zeraora,,44.5 kg (98.1 lbs),1.5 m (4′11″),['Electric']
+Naganadel,,150.0 kg (330.7 lbs),3.6 m (11′10″),"['Poison', 'Dragon']"
+Blacephalon,,13.0 kg (28.7 lbs),1.8 m (5′11″),"['Fire', 'Ghost']"
+Marshadow,,22.2 kg (48.9 lbs),0.7 m (2′04″),"['Fighting', 'Ghost']"
+Magearna,,80.5 kg (177.5 lbs),1.0 m (3′03″),"['Steel', 'Fairy']"
+Kartana,,0.1 kg (0.2 lbs),0.3 m (1′00″),"['Grass', 'Steel']"
+Guzzlord,,888.0 kg (1957.7 lbs),5.5 m (18′01″),"['Dark', 'Dragon']"
+Melmetal,,800.0 kg (1763.7 lbs),2.5 m (8′02″),['Steel']
+Celesteela,,999.9 kg (2204.4 lbs),9.2 m (30′02″),"['Steel', 'Flying']"
+Xurkitree,,100.0 kg (220.5 lbs),3.8 m (12′06″),['Electric']
+Necrozma,,230.0 kg (507.1 lbs),2.4 m (7′10″),"['Psychic', 'Psychic', 'Steel', 'Psychic', 'Ghost', 'Psychic', 'Dragon']"
+Stakataka,,820.0 kg (1807.8 lbs),5.5 m (18′01″),"['Rock', 'Steel']"
+Buzzwole,,333.6 kg (735.5 lbs),2.4 m (7′10″),"['Bug', 'Fighting']"
+Solgaleo,,230.0 kg (507.1 lbs),3.4 m (11′02″),"['Psychic', 'Steel']"
+Nihilego,,55.5 kg (122.4 lbs),1.2 m (3′11″),"['Rock', 'Poison']"
+Tapu Fini,,21.2 kg (46.7 lbs),1.3 m (4′03″),"['Water', 'Fairy']"
+Cosmog,,0.1 kg (0.2 lbs),0.2 m (0′08″),['Psychic']
+Poipole,,1.8 kg (4.0 lbs),0.6 m (2′00″),['Poison']
+Tapu Bulu,,45.5 kg (100.3 lbs),1.9 m (6′03″),"['Grass', 'Fairy']"
+Kommo-o,,78.2 kg (172.4 lbs),1.6 m (5′03″),"['Dragon', 'Fighting']"
+Tapu Koko,,20.5 kg (45.2 lbs),1.8 m (5′11″),"['Electric', 'Fairy']"
+Hakamo-o,,47.0 kg (103.6 lbs),1.2 m (3′11″),"['Dragon', 'Fighting']"
+Jangmo-o,,29.7 kg (65.5 lbs),0.6 m (2′00″),['Dragon']
+Dhelmise,,210.0 kg (463.0 lbs),3.9 m (12′10″),"['Ghost', 'Grass']"
+Lunala,,120.0 kg (264.6 lbs),4.0 m (13′01″),"['Psychic', 'Ghost']"
+Cosmoem,,999.9 kg (2204.4 lbs),0.1 m (0′04″),['Psychic']
+Pheromosa,,25.0 kg (55.1 lbs),1.8 m (5′11″),"['Bug', 'Fighting']"
+Tapu Lele,,18.6 kg (41.0 lbs),1.2 m (3′11″),"['Psychic', 'Fairy']"
+Bruxish,,19.0 kg (41.9 lbs),0.9 m (2′11″),"['Water', 'Psychic']"
+Drampa,,185.0 kg (407.9 lbs),3.0 m (9′10″),"['Normal', 'Dragon']"
+Turtonator,,212.0 kg (467.4 lbs),2.0 m (6′07″),"['Fire', 'Dragon']"
+Mimikyu,,0.7 kg (1.5 lbs),0.2 m (0′08″),"['Ghost', 'Fairy']"
+Pyukumuku,,1.2 kg (2.6 lbs),0.3 m (1′00″),['Water']
+Type: Null,,120.5 kg (265.7 lbs),1.9 m (6′03″),['Normal']
+Komala,,19.9 kg (43.9 lbs),0.4 m (1′04″),['Normal']
+Minior,,40.0 kg (88.2 lbs),0.3 m (1′00″),"['Rock', 'Flying', 'Rock', 'Flying']"
+Wimpod,,12.0 kg (26.5 lbs),0.5 m (1′08″),"['Bug', 'Water']"
+Passimian,,82.8 kg (182.5 lbs),2.0 m (6′07″),['Fighting']
+Sandygast,,70.0 kg (154.3 lbs),0.5 m (1′08″),"['Ghost', 'Ground']"
+Golisopod,,108.0 kg (238.1 lbs),2.0 m (6′07″),"['Bug', 'Water']"
+Togedemaru,,3.3 kg (7.3 lbs),0.3 m (1′00″),"['Electric', 'Steel']"
+Silvally,,100.5 kg (221.6 lbs),2.3 m (7′07″),"['Normal', 'Type: Null']"
+Tsareena,,21.4 kg (47.2 lbs),1.2 m (3′11″),['Grass']
+Comfey,,0.3 kg (0.7 lbs),0.1 m (0′04″),['Fairy']
+Bounsweet,,3.2 kg (7.1 lbs),0.3 m (1′00″),['Grass']
+Stufful,,6.8 kg (15.0 lbs),0.5 m (1′08″),"['Normal', 'Fighting']"
+Salandit,,4.8 kg (10.6 lbs),0.6 m (2′00″),"['Poison', 'Fire']"
+Salazzle,,22.2 kg (48.9 lbs),1.2 m (3′11″),"['Poison', 'Fire']"
+Shiinotic,,11.5 kg (25.4 lbs),1.0 m (3′03″),"['Grass', 'Fairy']"
+Palossand,,250.0 kg (551.2 lbs),1.3 m (4′03″),"['Ghost', 'Ground']"
+Morelull,,1.5 kg (3.3 lbs),0.2 m (0′08″),"['Grass', 'Fairy']"
+Oranguru,,76.0 kg (167.6 lbs),1.5 m (4′11″),"['Normal', 'Psychic']"
+Fomantis,,1.5 kg (3.3 lbs),0.3 m (1′00″),['Grass']
+Steenee,,8.2 kg (18.1 lbs),0.7 m (2′04″),['Grass']
+Lurantis,,18.5 kg (40.8 lbs),0.9 m (2′11″),['Grass']
+Araquanid,,82.0 kg (180.8 lbs),1.8 m (5′11″),"['Water', 'Bug']"
+Dewpider,,4.0 kg (8.8 lbs),0.3 m (1′00″),"['Water', 'Bug']"
+Bewear,,135.0 kg (297.6 lbs),2.1 m (6′11″),"['Normal', 'Fighting']"
+Lycanroc,,25.0 kg (55.1 lbs),0.8 m (2′07″),"['Rock', 'Rock', 'Rock']"
+Mareanie,,8.0 kg (17.6 lbs),0.4 m (1′04″),"['Poison', 'Water']"
+Wishiwashi,,0.3 kg (0.7 lbs),0.2 m (0′08″),"['Water', 'Water']"
+Mudsdale,,920.0 kg (2028.3 lbs),2.5 m (8′02″),['Ground']
+Mudbray,,110.0 kg (242.5 lbs),1.0 m (3′03″),['Ground']
+Toxapex,,14.5 kg (32.0 lbs),0.7 m (2′04″),"['Poison', 'Water']"
+Charjabug,,10.5 kg (23.1 lbs),0.5 m (1′08″),"['Bug', 'Electric']"
+Oricorio,,3.4 kg (7.5 lbs),0.6 m (2′00″),"['Fire', 'Flying', 'Electric', 'Flying', 'Psychic', 'Flying', 'Ghost', 'Flying']"
+Cutiefly,,0.2 kg (0.4 lbs),0.1 m (0′04″),"['Bug', 'Fairy']"
+Crabrawler,,7.0 kg (15.4 lbs),0.6 m (2′00″),['Fighting']
+Crabominable,,180.0 kg (396.8 lbs),1.7 m (5′07″),"['Fighting', 'Ice']"
+Vikavolt,,45.0 kg (99.2 lbs),1.5 m (4′11″),"['Bug', 'Electric']"
+Gumshoos,,14.2 kg (31.3 lbs),0.7 m (2′04″),['Normal']
+Grubbin,,4.4 kg (9.7 lbs),0.4 m (1′04″),['Bug']
+Toucannon,,26.0 kg (57.3 lbs),1.1 m (3′07″),"['Normal', 'Flying']"
+Rockruff,,9.2 kg (20.3 lbs),0.5 m (1′08″),"['Rock', 'Rock']"
+Yungoos,,6.0 kg (13.2 lbs),0.4 m (1′04″),['Normal']
+Ribombee,,0.5 kg (1.1 lbs),0.2 m (0′08″),"['Bug', 'Fairy']"
+Primarina,,44.0 kg (97.0 lbs),1.8 m (5′11″),"['Water', 'Fairy']"
+Popplio,,7.5 kg (16.5 lbs),0.4 m (1′04″),['Water']
+Incineroar,,83.0 kg (183.0 lbs),1.8 m (5′11″),"['Fire', 'Dark']"
+Brionne,,17.5 kg (38.6 lbs),0.6 m (2′00″),['Water']
+Litten,,4.3 kg (9.5 lbs),0.4 m (1′04″),['Fire']
+Decidueye,,36.6 kg (80.7 lbs),1.6 m (5′03″),"['Grass', 'Ghost', 'Grass', 'Fighting']"
+Volcanion,,195.0 kg (429.9 lbs),1.7 m (5′07″),"['Fire', 'Water']"
+Trumbeak,,14.8 kg (32.6 lbs),0.6 m (2′00″),"['Normal', 'Flying']"
+Rowlet,,1.5 kg (3.3 lbs),0.3 m (1′00″),"['Grass', 'Flying']"
+Pikipek,,1.2 kg (2.6 lbs),0.3 m (1′00″),"['Normal', 'Flying']"
+Dartrix,,16.0 kg (35.3 lbs),0.7 m (2′04″),"['Grass', 'Flying']"
+Noibat,,8.0 kg (17.6 lbs),0.5 m (1′08″),"['Flying', 'Dragon']"
+Noivern,,85.0 kg (187.4 lbs),1.5 m (4′11″),"['Flying', 'Dragon']"
+Xerneas,,215.0 kg (474.0 lbs),3.0 m (9′10″),['Fairy']
+Torracat,,25.0 kg (55.1 lbs),0.7 m (2′04″),['Fire']
+Zygarde,,305.0 kg (672.4 lbs),5.0 m (16′05″),"['Dragon', 'Ground', 'Dragon', 'Ground', 'Dragon', 'Ground']"
+Pumpkaboo,,5.0 kg (11.0 lbs),0.4 m (1′04″),"['Ghost', 'Grass', 'Ghost', 'Grass', 'Ghost', 'Grass', 'Ghost', 'Grass']"
+Bergmite,,99.5 kg (219.4 lbs),1.0 m (3′03″),['Ice']
+Phantump,,7.0 kg (15.4 lbs),0.4 m (1′04″),"['Ghost', 'Grass']"
+Gourgeist,,12.5 kg (27.6 lbs),0.9 m (2′11″),"['Ghost', 'Grass', 'Ghost', 'Grass', 'Ghost', 'Grass', 'Ghost', 'Grass']"
+Trevenant,,71.0 kg (156.5 lbs),1.5 m (4′11″),"['Ghost', 'Grass']"
+Yveltal,,203.0 kg (447.5 lbs),5.8 m (19′00″),"['Dark', 'Flying']"
+Hoopa,,9.0 kg (19.8 lbs),0.5 m (1′08″),"['Psychic', 'Ghost', 'Psychic', 'Dark']"
+Avalugg,,505.0 kg (1113.3 lbs),2.0 m (6′07″),"['Ice', 'Ice', 'Rock']"
+Klefki,,3.0 kg (6.6 lbs),0.2 m (0′08″),"['Steel', 'Fairy']"
+Goodra,,150.5 kg (331.8 lbs),2.0 m (6′07″),"['Dragon', 'Steel', 'Dragon']"
+Diancie,,8.8 kg (19.4 lbs),0.7 m (2′04″),"['Rock', 'Fairy', 'Rock', 'Fairy']"
+Goomy,,2.8 kg (6.2 lbs),0.3 m (1′00″),['Dragon']
+Sliggoo,,17.5 kg (38.6 lbs),0.8 m (2′07″),"['Dragon', 'Steel', 'Dragon']"
+Carbink,,5.7 kg (12.6 lbs),0.3 m (1′00″),"['Rock', 'Fairy']"
+Tyrunt,,26.0 kg (57.3 lbs),0.8 m (2′07″),"['Rock', 'Dragon']"
+Hawlucha,,21.5 kg (47.4 lbs),0.8 m (2′07″),"['Fighting', 'Flying']"
+Sylveon,,23.5 kg (51.8 lbs),1.0 m (3′03″),['Fairy']
+Aurorus,,225.0 kg (496.0 lbs),2.7 m (8′10″),"['Rock', 'Ice']"
+Heliolisk,,21.0 kg (46.3 lbs),1.0 m (3′03″),"['Electric', 'Normal']"
+Tyrantrum,,270.0 kg (595.2 lbs),2.5 m (8′02″),"['Rock', 'Dragon']"
+Amaura,,25.2 kg (55.6 lbs),1.3 m (4′03″),"['Rock', 'Ice']"
+Dedenne,,2.2 kg (4.9 lbs),0.2 m (0′08″),"['Electric', 'Fairy']"
+Clawitzer,,35.3 kg (77.8 lbs),1.3 m (4′03″),['Water']
+Skrelp,,7.3 kg (16.1 lbs),0.5 m (1′08″),"['Poison', 'Water']"
+Clauncher,,8.3 kg (18.3 lbs),0.5 m (1′08″),['Water']
+Dragalge,,81.5 kg (179.7 lbs),1.8 m (5′11″),"['Poison', 'Dragon']"
+Binacle,,31.0 kg (68.3 lbs),0.5 m (1′08″),"['Rock', 'Water']"
+Barbaracle,,96.0 kg (211.6 lbs),1.3 m (4′03″),"['Rock', 'Water']"
+Helioptile,,6.0 kg (13.2 lbs),0.5 m (1′08″),"['Electric', 'Normal']"
+Inkay,,3.5 kg (7.7 lbs),0.4 m (1′04″),"['Dark', 'Psychic']"
+Slurpuff,,5.0 kg (11.0 lbs),0.8 m (2′07″),['Fairy']
+Pangoro,,136.0 kg (299.8 lbs),2.1 m (6′11″),"['Fighting', 'Dark']"
+Espurr,,3.5 kg (7.7 lbs),0.3 m (1′00″),['Psychic']
+Furfrou,,28.0 kg (61.7 lbs),1.2 m (3′11″),['Normal']
+Pancham,,8.0 kg (17.6 lbs),0.6 m (2′00″),['Fighting']
+Gogoat,,91.0 kg (200.6 lbs),1.7 m (5′07″),['Grass']
+Litleo,,13.5 kg (29.8 lbs),0.6 m (2′00″),"['Fire', 'Normal']"
+Florges,,10.0 kg (22.0 lbs),1.1 m (3′07″),['Fairy']
+Floette,,0.9 kg (2.0 lbs),0.2 m (0′08″),['Fairy']
+Skiddo,,31.0 kg (68.3 lbs),0.9 m (2′11″),['Grass']
+Pyroar,,81.5 kg (179.7 lbs),1.5 m (4′11″),"['Fire', 'Normal']"
+Malamar,,47.0 kg (103.6 lbs),1.5 m (4′11″),"['Dark', 'Psychic']"
+Scatterbug,,2.5 kg (5.5 lbs),0.3 m (1′00″),['Bug']
+Fletchling,,1.7 kg (3.7 lbs),0.3 m (1′00″),"['Normal', 'Flying']"
+Talonflame,,24.5 kg (54.0 lbs),1.2 m (3′11″),"['Fire', 'Flying']"
+Fletchinder,,16.0 kg (35.3 lbs),0.7 m (2′04″),"['Fire', 'Flying']"
+Bunnelby,,5.0 kg (11.0 lbs),0.4 m (1′04″),['Normal']
+Greninja,,40.0 kg (88.2 lbs),1.5 m (4′11″),"['Water', 'Dark', 'Water', 'Dark']"
+Froakie,,7.0 kg (15.4 lbs),0.3 m (1′00″),['Water']
+Flabébé,,0.1 kg (0.2 lbs),0.1 m (0′04″),['Fairy']
+Frogadier,,10.9 kg (24.0 lbs),0.6 m (2′00″),['Water']
+Vivillon,,17.0 kg (37.5 lbs),1.2 m (3′11″),"['Bug', 'Flying']"
+Braixen,,14.5 kg (32.0 lbs),1.0 m (3′03″),['Fire']
+Quilladin,,29.0 kg (63.9 lbs),0.7 m (2′04″),['Grass']
+Spewpa,,8.4 kg (18.5 lbs),0.3 m (1′00″),['Bug']
+Fennekin,,9.4 kg (20.7 lbs),0.4 m (1′04″),['Fire']
+Chesnaught,,90.0 kg (198.4 lbs),1.6 m (5′03″),"['Grass', 'Fighting']"
+Delphox,,39.0 kg (86.0 lbs),1.5 m (4′11″),"['Fire', 'Psychic']"
+Diggersby,,42.4 kg (93.5 lbs),1.0 m (3′03″),"['Normal', 'Ground']"
+Genesect,,82.5 kg (181.9 lbs),1.5 m (4′11″),"['Bug', 'Steel']"
+Meloetta,,6.5 kg (14.3 lbs),0.6 m (2′00″),"['Normal', 'Psychic', 'Normal', 'Fighting']"
+Keldeo,,48.5 kg (106.9 lbs),1.4 m (4′07″),"['Water', 'Fighting', 'Water', 'Fighting']"
+Reshiram,,330.0 kg (727.5 lbs),3.2 m (10′06″),"['Dragon', 'Fire']"
+Volcarona,,46.0 kg (101.4 lbs),1.6 m (5′03″),"['Bug', 'Fire']"
+Thundurus,,61.0 kg (134.5 lbs),1.5 m (4′11″),"['Electric', 'Flying', 'Electric', 'Flying']"
+Terrakion,,260.0 kg (573.2 lbs),1.9 m (6′03″),"['Rock', 'Fighting']"
+Cobalion,,250.0 kg (551.2 lbs),2.1 m (6′11″),"['Steel', 'Fighting']"
+Zekrom,,345.0 kg (760.6 lbs),2.9 m (9′06″),"['Dragon', 'Electric']"
+Landorus,,68.0 kg (149.9 lbs),1.5 m (4′11″),"['Ground', 'Flying', 'Ground', 'Flying']"
+Virizion,,200.0 kg (440.9 lbs),2.0 m (6′07″),"['Grass', 'Fighting']"
+Tornadus,,63.0 kg (138.9 lbs),1.5 m (4′11″),"['Flying', 'Flying']"
+Kyurem,,325.0 kg (716.5 lbs),3.0 m (9′10″),"['Dragon', 'Ice', 'Dragon', 'Ice', 'Dragon', 'Ice']"
+Chespin,,9.0 kg (19.8 lbs),0.4 m (1′04″),['Grass']
+Deino,,17.3 kg (38.1 lbs),0.8 m (2′07″),"['Dark', 'Dragon']"
+Larvesta,,28.8 kg (63.5 lbs),1.1 m (3′07″),"['Bug', 'Fire']"
+Heatmor,,58.0 kg (127.9 lbs),1.4 m (4′07″),['Fire']
+Mandibuzz,,39.5 kg (87.1 lbs),1.2 m (3′11″),"['Dark', 'Flying']"
+Zweilous,,50.0 kg (110.2 lbs),1.4 m (4′07″),"['Dark', 'Dragon']"
+Hydreigon,,160.0 kg (352.7 lbs),1.8 m (5′11″),"['Dark', 'Dragon']"
+Durant,,33.0 kg (72.8 lbs),0.3 m (1′00″),"['Bug', 'Steel']"
+Vullaby,,9.0 kg (19.8 lbs),0.5 m (1′08″),"['Dark', 'Flying']"
+Bouffalant,,94.6 kg (208.6 lbs),1.6 m (5′03″),['Normal']
+Shelmet,,7.7 kg (17.0 lbs),0.4 m (1′04″),['Bug']
+Braviary,,41.0 kg (90.4 lbs),1.5 m (4′11″),"['Normal', 'Flying', 'Psychic', 'Flying']"
+Accelgor,,25.3 kg (55.8 lbs),0.8 m (2′07″),['Bug']
+Cryogonal,,148.0 kg (326.3 lbs),1.1 m (3′07″),['Ice']
+Stunfisk,,11.0 kg (24.3 lbs),0.7 m (2′04″),"['Ground', 'Electric', 'Ground', 'Steel']"
+Rufflet,,10.5 kg (23.1 lbs),0.5 m (1′08″),"['Normal', 'Flying']"
+Chandelure,,34.3 kg (75.6 lbs),1.0 m (3′03″),"['Ghost', 'Fire']"
+Axew,,18.0 kg (39.7 lbs),0.6 m (2′00″),['Dragon']
+Litwick,,3.1 kg (6.8 lbs),0.3 m (1′00″),"['Ghost', 'Fire']"
+Lampent,,13.0 kg (28.7 lbs),0.6 m (2′00″),"['Ghost', 'Fire']"
+Fraxure,,36.0 kg (79.4 lbs),1.0 m (3′03″),['Dragon']
+Haxorus,,105.5 kg (232.6 lbs),1.8 m (5′11″),['Dragon']
+Beheeyem,,34.5 kg (76.1 lbs),1.0 m (3′03″),['Psychic']
+Eelektross,,80.5 kg (177.5 lbs),2.1 m (6′11″),['Electric']
+Klinklang,,81.0 kg (178.6 lbs),0.6 m (2′00″),['Steel']
+Tynamo,,0.3 kg (0.7 lbs),0.2 m (0′08″),['Electric']
+Eelektrik,,22.0 kg (48.5 lbs),1.2 m (3′11″),['Electric']
+Beartic,,260.0 kg (573.2 lbs),2.6 m (8′06″),['Ice']
+Cubchoo,,8.5 kg (18.7 lbs),0.5 m (1′08″),['Ice']
+Ferroseed,,18.8 kg (41.4 lbs),0.6 m (2′00″),"['Grass', 'Steel']"
+Ferrothorn,,110.0 kg (242.5 lbs),1.0 m (3′03″),"['Grass', 'Steel']"
+Klink,,21.0 kg (46.3 lbs),0.3 m (1′00″),['Steel']
+Galvantula,,14.3 kg (31.5 lbs),0.8 m (2′07″),"['Bug', 'Electric']"
+Klang,,51.0 kg (112.4 lbs),0.6 m (2′00″),['Steel']
+Joltik,,0.6 kg (1.3 lbs),0.1 m (0′04″),"['Bug', 'Electric']"
+Elgyem,,9.0 kg (19.8 lbs),0.5 m (1′08″),['Psychic']
+Jellicent,,135.0 kg (297.6 lbs),2.2 m (7′03″),"['Water', 'Ghost']"
+Escavalier,,33.0 kg (72.8 lbs),1.0 m (3′03″),"['Bug', 'Steel']"
+Foongus,,1.0 kg (2.2 lbs),0.2 m (0′08″),"['Grass', 'Poison']"
+Amoonguss,,10.5 kg (23.1 lbs),0.6 m (2′00″),"['Grass', 'Poison']"
+Frillish,,33.0 kg (72.8 lbs),1.2 m (3′11″),"['Water', 'Ghost']"
+Emolga,,5.0 kg (11.0 lbs),0.4 m (1′04″),"['Electric', 'Flying']"
+Sawsbuck,,92.5 kg (203.9 lbs),1.9 m (6′03″),"['Normal', 'Grass']"
+Deerling,,19.5 kg (43.0 lbs),0.6 m (2′00″),"['Normal', 'Grass']"
+Vanilluxe,,57.5 kg (126.8 lbs),1.3 m (4′03″),['Ice']
+Vanillite,,5.7 kg (12.6 lbs),0.4 m (1′04″),['Ice']
+Vanillish,,41.0 kg (90.4 lbs),1.1 m (3′07″),['Ice']
+Alomomola,,31.6 kg (69.7 lbs),1.2 m (3′11″),['Water']
+Swanna,,24.2 kg (53.4 lbs),1.3 m (4′03″),"['Water', 'Flying']"
+Reuniclus,,20.1 kg (44.3 lbs),1.0 m (3′03″),['Psychic']
+Gothitelle,,44.0 kg (97.0 lbs),1.5 m (4′11″),['Psychic']
+Ducklett,,5.5 kg (12.1 lbs),0.5 m (1′08″),"['Water', 'Flying']"
+Karrablast,,5.9 kg (13.0 lbs),0.5 m (1′08″),['Bug']
+Minccino,,5.8 kg (12.8 lbs),0.4 m (1′04″),['Normal']
+Cinccino,,7.5 kg (16.5 lbs),0.5 m (1′08″),['Normal']
+Zoroark,,81.1 kg (178.8 lbs),1.6 m (5′03″),"['Dark', 'Normal', 'Ghost']"
+Gothita,,5.8 kg (12.8 lbs),0.4 m (1′04″),['Psychic']
+Solosis,,1.0 kg (2.2 lbs),0.3 m (1′00″),['Psychic']
+Garbodor,,107.3 kg (236.6 lbs),1.9 m (6′03″),['Poison']
+Duosion,,8.0 kg (17.6 lbs),0.6 m (2′00″),['Psychic']
+Archeops,,32.0 kg (70.5 lbs),1.4 m (4′07″),"['Rock', 'Flying']"
+Trubbish,,31.0 kg (68.3 lbs),0.6 m (2′00″),['Poison']
+Carracosta,,81.0 kg (178.6 lbs),1.2 m (3′11″),"['Water', 'Rock']"
+Sigilyph,,14.0 kg (30.9 lbs),1.4 m (4′07″),"['Psychic', 'Flying']"
+Archen,,9.5 kg (20.9 lbs),0.5 m (1′08″),"['Rock', 'Flying']"
+Gothorita,,18.0 kg (39.7 lbs),0.7 m (2′04″),['Psychic']
+Tirtouga,,16.5 kg (36.4 lbs),0.7 m (2′04″),"['Water', 'Rock']"
+Cofagrigus,,76.5 kg (168.7 lbs),1.7 m (5′07″),['Ghost']
+Yamask,,1.5 kg (3.3 lbs),0.5 m (1′08″),"['Ghost', 'Ground', 'Ghost']"
+Crustle,,200.0 kg (440.9 lbs),1.4 m (4′07″),"['Bug', 'Rock']"
+Maractus,,28.0 kg (61.7 lbs),1.0 m (3′03″),['Grass']
+Scraggy,,11.8 kg (26.0 lbs),0.6 m (2′00″),"['Dark', 'Fighting']"
+Dwebble,,14.5 kg (32.0 lbs),0.3 m (1′00″),"['Bug', 'Rock']"
+Darmanitan,,92.9 kg (204.8 lbs),1.3 m (4′03″),"['Fire', 'Fire', 'Psychic', 'Ice', 'Ice', 'Fire']"
+Zorua,,12.5 kg (27.6 lbs),0.7 m (2′04″),"['Dark', 'Normal', 'Ghost']"
+Darumaka,,37.5 kg (82.7 lbs),0.6 m (2′00″),"['Fire', 'Ice']"
+Scrafty,,30.0 kg (66.1 lbs),1.1 m (3′07″),"['Dark', 'Fighting']"
+Krookodile,,96.3 kg (212.3 lbs),1.5 m (4′11″),"['Ground', 'Dark']"
+Krokorok,,33.4 kg (73.6 lbs),1.0 m (3′03″),"['Ground', 'Dark']"
+Sandile,,15.2 kg (33.5 lbs),0.7 m (2′04″),"['Ground', 'Dark']"
+Petilil,,6.6 kg (14.6 lbs),0.5 m (1′08″),['Grass']
+Cottonee,,0.6 kg (1.3 lbs),0.3 m (1′00″),"['Grass', 'Fairy']"
+Basculin,,18.0 kg (39.7 lbs),1.0 m (3′03″),"['Water', 'Water', 'Water']"
+Lilligant,,16.3 kg (35.9 lbs),1.1 m (3′07″),"['Grass', 'Grass', 'Fighting']"
+Whirlipede,,58.5 kg (129.0 lbs),1.2 m (3′11″),"['Bug', 'Poison']"
+Scolipede,,200.5 kg (442.0 lbs),2.5 m (8′02″),"['Bug', 'Poison']"
+Sawk,,51.0 kg (112.4 lbs),1.4 m (4′07″),['Fighting']
+Swadloon,,7.3 kg (16.1 lbs),0.5 m (1′08″),"['Bug', 'Grass']"
+Leavanny,,20.5 kg (45.2 lbs),1.2 m (3′11″),"['Bug', 'Grass']"
+Sewaddle,,2.5 kg (5.5 lbs),0.3 m (1′00″),"['Bug', 'Grass']"
+Venipede,,5.3 kg (11.7 lbs),0.4 m (1′04″),"['Bug', 'Poison']"
+Whimsicott,,6.6 kg (14.6 lbs),0.7 m (2′04″),"['Grass', 'Fairy']"
+Timburr,,12.5 kg (27.6 lbs),0.6 m (2′00″),['Fighting']
+Tympole,,4.5 kg (9.9 lbs),0.5 m (1′08″),['Water']
+Gurdurr,,40.0 kg (88.2 lbs),1.2 m (3′11″),['Fighting']
+Conkeldurr,,87.0 kg (191.8 lbs),1.4 m (4′07″),['Fighting']
+Excadrill,,40.4 kg (89.1 lbs),0.7 m (2′04″),"['Ground', 'Steel']"
+Swoobat,,10.5 kg (23.1 lbs),0.9 m (2′11″),"['Psychic', 'Flying']"
+Woobat,,2.1 kg (4.6 lbs),0.4 m (1′04″),"['Psychic', 'Flying']"
+Seismitoad,,62.0 kg (136.7 lbs),1.5 m (4′11″),"['Water', 'Ground']"
+Drilbur,,8.5 kg (18.7 lbs),0.3 m (1′00″),['Ground']
+Zebstrika,,79.5 kg (175.3 lbs),1.6 m (5′03″),['Electric']
+Palpitoad,,17.0 kg (37.5 lbs),0.8 m (2′07″),"['Water', 'Ground']"
+Audino,,31.0 kg (68.3 lbs),1.1 m (3′07″),"['Normal', 'Normal', 'Fairy']"
+Boldore,,102.0 kg (224.9 lbs),0.9 m (2′11″),['Rock']
+Gigalith,,260.0 kg (573.2 lbs),1.7 m (5′07″),['Rock']
+Roggenrola,,18.0 kg (39.7 lbs),0.4 m (1′04″),['Rock']
+Tranquill,,15.0 kg (33.1 lbs),0.6 m (2′00″),"['Normal', 'Flying']"
+Unfezant,,29.0 kg (63.9 lbs),1.2 m (3′11″),"['Normal', 'Flying']"
+Simipour,,29.0 kg (63.9 lbs),1.0 m (3′03″),['Water']
+Musharna,,60.5 kg (133.4 lbs),1.1 m (3′07″),['Psychic']
+Pidove,,2.1 kg (4.6 lbs),0.3 m (1′00″),"['Normal', 'Flying']"
+Simisear,,28.0 kg (61.7 lbs),1.0 m (3′03″),['Fire']
+Pansear,,11.0 kg (24.3 lbs),0.6 m (2′00″),['Fire']
+Pansage,,10.5 kg (23.1 lbs),0.6 m (2′00″),['Grass']
+Purrloin,,10.1 kg (22.3 lbs),0.4 m (1′04″),['Dark']
+Stoutland,,61.0 kg (134.5 lbs),1.2 m (3′11″),['Normal']
+Liepard,,37.5 kg (82.7 lbs),1.1 m (3′07″),['Dark']
+Blitzle,,29.8 kg (65.7 lbs),0.8 m (2′07″),['Electric']
+Munna,,23.3 kg (51.4 lbs),0.6 m (2′00″),['Psychic']
+Watchog,,27.0 kg (59.5 lbs),1.1 m (3′07″),['Normal']
+Panpour,,13.5 kg (29.8 lbs),0.6 m (2′00″),['Water']
+Lillipup,,4.1 kg (9.0 lbs),0.4 m (1′04″),['Normal']
+Samurott,,94.6 kg (208.6 lbs),1.5 m (4′11″),"['Water', 'Water', 'Dark']"
+Patrat,,11.6 kg (25.6 lbs),0.5 m (1′08″),['Normal']
+Simisage,,30.5 kg (67.2 lbs),1.1 m (3′07″),['Grass']
+Oshawott,,5.9 kg (13.0 lbs),0.5 m (1′08″),['Water']
+Dewott,,24.5 kg (54.0 lbs),0.8 m (2′07″),['Water']
+Pignite,,55.5 kg (122.4 lbs),1.0 m (3′03″),"['Fire', 'Fighting']"
+Emboar,,150.0 kg (330.7 lbs),1.6 m (5′03″),"['Fire', 'Fighting']"
+Serperior,,63.0 kg (138.9 lbs),3.3 m (10′10″),['Grass']
+Tepig,,9.9 kg (21.8 lbs),0.5 m (1′08″),['Fire']
+Herdier,,14.7 kg (32.4 lbs),0.9 m (2′11″),['Normal']
+Throh,,55.5 kg (122.4 lbs),1.3 m (4′03″),['Fighting']
+Arceus,,320.0 kg (705.5 lbs),3.2 m (10′06″),['Normal']
+Snivy,,8.1 kg (17.9 lbs),0.6 m (2′00″),['Grass']
+Shaymin,,2.1 kg (4.6 lbs),0.2 m (0′08″),"['Grass', 'Grass', 'Flying']"
+Servine,,16.0 kg (35.3 lbs),0.8 m (2′07″),['Grass']
+Darkrai,,50.5 kg (111.3 lbs),1.5 m (4′11″),['Dark']
+Victini,,4.0 kg (8.8 lbs),0.4 m (1′04″),"['Psychic', 'Fire']"
+Cresselia,,85.6 kg (188.7 lbs),1.5 m (4′11″),['Psychic']
+Rotom,,0.3 kg (0.7 lbs),0.3 m (1′00″),"['Electric', 'Ghost', 'Electric', 'Fire', 'Electric', 'Water', 'Electric', 'Ice', 'Electric', 'Flying', 'Electric', 'Grass']"
+Manaphy,,1.4 kg (3.1 lbs),0.3 m (1′00″),['Water']
+Regigigas,,420.0 kg (925.9 lbs),3.7 m (12′02″),['Normal']
+Heatran,,430.0 kg (948.0 lbs),1.7 m (5′07″),"['Fire', 'Steel']"
+Dialga,,683.0 kg (1505.8 lbs),5.4 m (17′09″),"['Steel', 'Dragon', 'Steel', 'Dragon']"
+Mesprit,,0.3 kg (0.7 lbs),0.3 m (1′00″),['Psychic']
+Uxie,,0.3 kg (0.7 lbs),0.3 m (1′00″),['Psychic']
+Froslass,,26.6 kg (58.6 lbs),1.3 m (4′03″),"['Ice', 'Ghost']"
+Phione,,3.1 kg (6.8 lbs),0.4 m (1′04″),['Water']
+Probopass,,340.0 kg (749.6 lbs),1.4 m (4′07″),"['Rock', 'Steel']"
+Palkia,,336.0 kg (740.8 lbs),4.2 m (13′09″),"['Water', 'Dragon', 'Water', 'Dragon']"
+Porygon-Z,,34.0 kg (75.0 lbs),0.9 m (2′11″),['Normal']
+Gallade,,52.0 kg (114.6 lbs),1.6 m (5′03″),"['Psychic', 'Fighting', 'Psychic', 'Fighting']"
+Dusknoir,,106.6 kg (235.0 lbs),2.2 m (7′03″),['Ghost']
+Giratina,,750.0 kg (1653.5 lbs),4.5 m (14′09″),"['Ghost', 'Dragon', 'Ghost', 'Dragon']"
+Glaceon,,25.9 kg (57.1 lbs),0.8 m (2′07″),['Ice']
+Gliscor,,42.5 kg (93.7 lbs),2.0 m (6′07″),"['Ground', 'Flying']"
+Yanmega,,51.5 kg (113.5 lbs),1.9 m (6′03″),"['Bug', 'Flying']"
+Leafeon,,25.5 kg (56.2 lbs),1.0 m (3′03″),['Grass']
+Togekiss,,38.0 kg (83.8 lbs),1.5 m (4′11″),"['Fairy', 'Flying']"
+Magmortar,,68.0 kg (149.9 lbs),1.6 m (5′03″),['Fire']
+Tangrowth,,128.6 kg (283.5 lbs),2.0 m (6′07″),['Grass']
+Rhyperior,,282.8 kg (623.5 lbs),2.4 m (7′10″),"['Ground', 'Rock']"
+Electivire,,138.6 kg (305.6 lbs),1.8 m (5′11″),['Electric']
+Lickilicky,,140.0 kg (308.6 lbs),1.7 m (5′07″),['Normal']
+Magnezone,,180.0 kg (396.8 lbs),1.2 m (3′11″),"['Electric', 'Steel']"
+Mamoswine,,291.0 kg (641.5 lbs),2.5 m (8′02″),"['Ice', 'Ground']"
+Weavile,,34.0 kg (75.0 lbs),1.1 m (3′07″),"['Dark', 'Ice']"
+Azelf,,0.3 kg (0.7 lbs),0.3 m (1′00″),['Psychic']
+Mantyke,,65.0 kg (143.3 lbs),1.0 m (3′03″),"['Water', 'Flying']"
+Finneon,,7.0 kg (15.4 lbs),0.4 m (1′04″),['Water']
+Lumineon,,24.0 kg (52.9 lbs),1.2 m (3′11″),['Water']
+Abomasnow,,135.5 kg (298.7 lbs),2.2 m (7′03″),"['Grass', 'Ice', 'Grass', 'Ice']"
+Toxicroak,,44.4 kg (97.9 lbs),1.3 m (4′03″),"['Poison', 'Fighting']"
+Snover,,50.5 kg (111.3 lbs),1.0 m (3′03″),"['Grass', 'Ice']"
+Carnivine,,27.0 kg (59.5 lbs),1.4 m (4′07″),['Grass']
+Hippopotas,,49.5 kg (109.1 lbs),0.8 m (2′07″),['Ground']
+Drapion,,61.5 kg (135.6 lbs),1.3 m (4′03″),"['Poison', 'Dark']"
+Skorupi,,12.0 kg (26.5 lbs),0.8 m (2′07″),"['Poison', 'Bug']"
+Hippowdon,,300.0 kg (661.4 lbs),2.0 m (6′07″),['Ground']
+Munchlax,,105.0 kg (231.5 lbs),0.6 m (2′00″),['Normal']
+Lucario,,54.0 kg (119.0 lbs),1.2 m (3′11″),"['Fighting', 'Steel', 'Fighting', 'Steel']"
+Garchomp,,95.0 kg (209.4 lbs),1.9 m (6′03″),"['Dragon', 'Ground', 'Dragon', 'Ground']"
+Chatot,,1.9 kg (4.2 lbs),0.5 m (1′08″),"['Normal', 'Flying']"
+Gible,,20.5 kg (45.2 lbs),0.7 m (2′04″),"['Dragon', 'Ground']"
+Happiny,,24.4 kg (53.8 lbs),0.6 m (2′00″),['Normal']
+Croagunk,,23.0 kg (50.7 lbs),0.7 m (2′04″),"['Poison', 'Fighting']"
+Riolu,,20.2 kg (44.5 lbs),0.7 m (2′04″),['Fighting']
+Mime Jr.,,13.0 kg (28.7 lbs),0.6 m (2′00″),"['Psychic', 'Fairy']"
+Bonsly,,15.0 kg (33.1 lbs),0.5 m (1′08″),['Rock']
+Spiritomb,,108.0 kg (238.1 lbs),1.0 m (3′03″),"['Ghost', 'Dark']"
+Buneary,,5.5 kg (12.1 lbs),0.4 m (1′04″),['Normal']
+Bronzong,,187.0 kg (412.3 lbs),1.3 m (4′03″),"['Steel', 'Psychic']"
+Stunky,,19.2 kg (42.3 lbs),0.4 m (1′04″),"['Poison', 'Dark']"
+Lopunny,,33.3 kg (73.4 lbs),1.2 m (3′11″),"['Normal', 'Normal', 'Fighting']"
+Gabite,,56.0 kg (123.5 lbs),1.4 m (4′07″),"['Dragon', 'Ground']"
+Drifblim,,15.0 kg (33.1 lbs),1.2 m (3′11″),"['Ghost', 'Flying']"
+Bronzor,,60.5 kg (133.4 lbs),0.5 m (1′08″),"['Steel', 'Psychic']"
+Gastrodon,,29.9 kg (65.9 lbs),0.9 m (2′11″),"['Water', 'Ground']"
+Floatzel,,33.5 kg (73.9 lbs),1.1 m (3′07″),['Water']
+Shellos,,6.3 kg (13.9 lbs),0.3 m (1′00″),['Water']
+Cherrim,,9.3 kg (20.5 lbs),0.5 m (1′08″),['Grass']
+Cherubi,,3.3 kg (7.3 lbs),0.4 m (1′04″),['Grass']
+Vespiquen,,38.5 kg (84.9 lbs),1.2 m (3′11″),"['Bug', 'Flying']"
+Pachirisu,,3.9 kg (8.6 lbs),0.4 m (1′04″),['Electric']
+Buizel,,29.5 kg (65.0 lbs),0.7 m (2′04″),['Water']
+Burmy,,3.4 kg (7.5 lbs),0.2 m (0′08″),"['Bug', 'Bug', 'Bug']"
+Shieldon,,57.0 kg (125.7 lbs),0.5 m (1′08″),"['Rock', 'Steel']"
+Ambipom,,20.3 kg (44.8 lbs),1.2 m (3′11″),['Normal']
+Rampardos,,102.5 kg (226.0 lbs),1.6 m (5′03″),['Rock']
+Bastiodon,,149.5 kg (329.6 lbs),1.3 m (4′03″),"['Rock', 'Steel']"
+Combee,,5.5 kg (12.1 lbs),0.3 m (1′00″),"['Bug', 'Flying']"
+Mothim,,23.3 kg (51.4 lbs),0.9 m (2′11″),"['Bug', 'Flying']"
+Cranidos,,31.5 kg (69.4 lbs),0.9 m (2′11″),['Rock']
+Skuntank,,38.0 kg (83.8 lbs),1.0 m (3′03″),"['Poison', 'Dark']"
+Kricketune,,25.5 kg (56.2 lbs),1.0 m (3′03″),['Bug']
+Wormadam,,6.5 kg (14.3 lbs),0.5 m (1′08″),"['Bug', 'Grass', 'Bug', 'Ground', 'Bug', 'Steel']"
+Budew,,1.2 kg (2.6 lbs),0.2 m (0′08″),"['Grass', 'Poison']"
+Shinx,,9.5 kg (20.9 lbs),0.5 m (1′08″),['Electric']
+Luxray,,42.0 kg (92.6 lbs),1.4 m (4′07″),['Electric']
+Roserade,,14.5 kg (32.0 lbs),0.9 m (2′11″),"['Grass', 'Poison']"
+Luxio,,30.5 kg (67.2 lbs),0.9 m (2′11″),['Electric']
+Kricketot,,2.2 kg (4.9 lbs),0.3 m (1′00″),['Bug']
+Empoleon,,84.5 kg (186.3 lbs),1.7 m (5′07″),"['Water', 'Steel']"
+Bibarel,,31.5 kg (69.4 lbs),1.0 m (3′03″),"['Normal', 'Water']"
+Starly,,2.0 kg (4.4 lbs),0.3 m (1′00″),"['Normal', 'Flying']"
+Staraptor,,24.9 kg (54.9 lbs),1.2 m (3′11″),"['Normal', 'Flying']"
+Bidoof,,20.0 kg (44.1 lbs),0.5 m (1′08″),['Normal']
+Staravia,,15.5 kg (34.2 lbs),0.6 m (2′00″),"['Normal', 'Flying']"
+Infernape,,55.0 kg (121.3 lbs),1.2 m (3′11″),"['Fire', 'Fighting']"
+Piplup,,5.2 kg (11.5 lbs),0.4 m (1′04″),['Water']
+Torterra,,310.0 kg (683.4 lbs),2.2 m (7′03″),"['Grass', 'Ground']"
+Chimchar,,6.2 kg (13.7 lbs),0.5 m (1′08″),['Fire']
+Monferno,,22.0 kg (48.5 lbs),0.9 m (2′11″),"['Fire', 'Fighting']"
+Rayquaza,,206.5 kg (455.3 lbs),7.0 m (23′00″),"['Dragon', 'Flying', 'Dragon', 'Flying']"
+Jirachi,,1.1 kg (2.4 lbs),0.3 m (1′00″),"['Steel', 'Psychic']"
+Deoxys,,60.8 kg (134.0 lbs),1.7 m (5′07″),"['Psychic', 'Psychic', 'Psychic', 'Psychic']"
+Registeel,,205.0 kg (451.9 lbs),1.9 m (6′03″),['Steel']
+Latios,,60.0 kg (132.3 lbs),2.0 m (6′07″),"['Dragon', 'Psychic', 'Dragon', 'Psychic']"
+Groudon,,950.0 kg (2094.4 lbs),3.5 m (11′06″),"['Ground', 'Ground', 'Fire']"
+Drifloon,,1.2 kg (2.6 lbs),0.4 m (1′04″),"['Ghost', 'Flying']"
+Regice,,175.0 kg (385.8 lbs),1.8 m (5′11″),['Ice']
+Prinplup,,23.0 kg (50.7 lbs),0.8 m (2′07″),['Water']
+Beldum,,95.2 kg (209.9 lbs),0.6 m (2′00″),"['Steel', 'Psychic']"
+Luvdisc,,8.7 kg (19.2 lbs),0.6 m (2′00″),['Water']
+Bagon,,42.1 kg (92.8 lbs),0.6 m (2′00″),['Dragon']
+Grotle,,97.0 kg (213.8 lbs),1.1 m (3′07″),['Grass']
+Regirock,,230.0 kg (507.1 lbs),1.7 m (5′07″),['Rock']
+Salamence,,102.6 kg (226.2 lbs),1.5 m (4′11″),"['Dragon', 'Flying', 'Dragon', 'Flying']"
+Shelgon,,110.5 kg (243.6 lbs),1.1 m (3′07″),['Dragon']
+Turtwig,,10.2 kg (22.5 lbs),0.4 m (1′04″),['Grass']
+Latias,,40.0 kg (88.2 lbs),1.4 m (4′07″),"['Dragon', 'Psychic', 'Dragon', 'Psychic']"
+Huntail,,27.0 kg (59.5 lbs),1.7 m (5′07″),['Water']
+Walrein,,150.6 kg (332.0 lbs),1.4 m (4′07″),"['Ice', 'Water']"
+Gorebyss,,22.6 kg (49.8 lbs),1.8 m (5′11″),['Water']
+Kyogre,,352.0 kg (776.0 lbs),4.5 m (14′09″),"['Water', 'Water']"
+Clamperl,,52.5 kg (115.7 lbs),0.4 m (1′04″),['Water']
+Metang,,202.5 kg (446.4 lbs),1.2 m (3′11″),"['Steel', 'Psychic']"
+Relicanth,,23.4 kg (51.6 lbs),1.0 m (3′03″),"['Water', 'Rock']"
+Spheal,,39.5 kg (87.1 lbs),0.8 m (2′07″),"['Ice', 'Water']"
+Snorunt,,16.8 kg (37.0 lbs),0.7 m (2′04″),['Ice']
+Glalie,,256.5 kg (565.5 lbs),1.5 m (4′11″),"['Ice', 'Ice']"
+Chimecho,,1.0 kg (2.2 lbs),0.6 m (2′00″),['Psychic']
+Wynaut,,14.0 kg (30.9 lbs),0.6 m (2′00″),['Psychic']
+Absol,,47.0 kg (103.6 lbs),1.2 m (3′11″),"['Dark', 'Dark']"
+Kecleon,,22.0 kg (48.5 lbs),1.0 m (3′03″),['Normal']
+Milotic,,162.0 kg (357.1 lbs),6.2 m (20′04″),['Water']
+Castform,,0.8 kg (1.8 lbs),0.3 m (1′00″),"['Normal', 'Fire', 'Water', 'Ice']"
+Armaldo,,68.2 kg (150.4 lbs),1.5 m (4′11″),"['Rock', 'Bug']"
+Anorith,,12.5 kg (27.6 lbs),0.7 m (2′04″),"['Rock', 'Bug']"
+Feebas,,7.4 kg (16.3 lbs),0.6 m (2′00″),['Water']
+Sealeo,,87.6 kg (193.1 lbs),1.1 m (3′07″),"['Ice', 'Water']"
+Lileep,,23.8 kg (52.5 lbs),1.0 m (3′03″),"['Rock', 'Grass']"
+Cradily,,60.4 kg (133.2 lbs),1.5 m (4′11″),"['Rock', 'Grass']"
+Claydol,,108.0 kg (238.1 lbs),1.5 m (4′11″),"['Ground', 'Psychic']"
+Corphish,,11.5 kg (25.4 lbs),0.6 m (2′00″),['Water']
+Baltoy,,21.5 kg (47.4 lbs),0.5 m (1′08″),"['Ground', 'Psychic']"
+Crawdaunt,,32.8 kg (72.3 lbs),1.1 m (3′07″),"['Water', 'Dark']"
+Shuppet,,2.3 kg (5.1 lbs),0.6 m (2′00″),['Ghost']
+Barboach,,1.9 kg (4.2 lbs),0.4 m (1′04″),"['Water', 'Ground']"
+Seviper,,52.5 kg (115.7 lbs),2.7 m (8′10″),['Poison']
+Flygon,,82.0 kg (180.8 lbs),2.0 m (6′07″),"['Ground', 'Dragon']"
+Trapinch,,15.0 kg (33.1 lbs),0.7 m (2′04″),['Ground']
+Spinda,,5.0 kg (11.0 lbs),1.1 m (3′07″),['Normal']
+Cacnea,,51.3 kg (113.1 lbs),0.4 m (1′04″),['Grass']
+Whiscash,,23.6 kg (52.0 lbs),0.9 m (2′11″),"['Water', 'Ground']"
+Cacturne,,77.4 kg (170.6 lbs),1.3 m (4′03″),"['Grass', 'Dark']"
+Lunatone,,168.0 kg (370.4 lbs),1.0 m (3′03″),"['Rock', 'Psychic']"
+Solrock,,154.0 kg (339.5 lbs),1.2 m (3′11″),"['Rock', 'Psychic']"
+Zangoose,,40.3 kg (88.8 lbs),1.3 m (4′03″),['Normal']
+Vibrava,,15.3 kg (33.7 lbs),1.1 m (3′07″),"['Ground', 'Dragon']"
+Altaria,,20.6 kg (45.4 lbs),1.1 m (3′07″),"['Dragon', 'Flying', 'Dragon', 'Fairy']"
+Spoink,,30.6 kg (67.5 lbs),0.7 m (2′04″),['Psychic']
+Torkoal,,80.4 kg (177.3 lbs),0.5 m (1′08″),['Fire']
+Swablu,,1.2 kg (2.6 lbs),0.4 m (1′04″),"['Normal', 'Flying']"
+Camerupt,,220.0 kg (485.0 lbs),1.9 m (6′03″),"['Fire', 'Ground', 'Fire', 'Ground']"
+Grumpig,,71.5 kg (157.6 lbs),0.9 m (2′11″),['Psychic']
+Wailord,,398.0 kg (877.4 lbs),14.5 m (47′07″),['Water']
+Numel,,24.0 kg (52.9 lbs),0.7 m (2′04″),"['Fire', 'Ground']"
+Wailmer,,130.0 kg (286.6 lbs),2.0 m (6′07″),['Water']
+Carvanha,,20.8 kg (45.9 lbs),0.8 m (2′07″),"['Water', 'Dark']"
+Roselia,,2.0 kg (4.4 lbs),0.3 m (1′00″),"['Grass', 'Poison']"
+Gulpin,,10.3 kg (22.7 lbs),0.4 m (1′04″),['Poison']
+Swalot,,80.0 kg (176.4 lbs),1.7 m (5′07″),['Poison']
+Minun,,4.2 kg (9.3 lbs),0.4 m (1′04″),['Electric']
+Illumise,,17.7 kg (39.0 lbs),0.6 m (2′00″),['Bug']
+Medicham,,31.5 kg (69.4 lbs),1.3 m (4′03″),"['Fighting', 'Psychic', 'Fighting', 'Psychic']"
+Plusle,,4.2 kg (9.3 lbs),0.4 m (1′04″),['Electric']
+Manectric,,40.2 kg (88.6 lbs),1.5 m (4′11″),"['Electric', 'Electric']"
+Sharpedo,,88.8 kg (195.8 lbs),1.8 m (5′11″),"['Water', 'Dark', 'Water', 'Dark']"
+Electrike,,15.2 kg (33.5 lbs),0.6 m (2′00″),['Electric']
+Meditite,,11.2 kg (24.7 lbs),0.6 m (2′00″),"['Fighting', 'Psychic']"
+Delcatty,,32.6 kg (71.9 lbs),1.1 m (3′07″),['Normal']
+Nosepass,,97.0 kg (213.8 lbs),1.0 m (3′03″),['Rock']
+Sableye,,11.0 kg (24.3 lbs),0.5 m (1′08″),"['Dark', 'Ghost', 'Dark', 'Ghost']"
+Mawile,,11.5 kg (25.4 lbs),0.6 m (2′00″),"['Steel', 'Fairy', 'Steel', 'Fairy']"
+Skitty,,11.0 kg (24.3 lbs),0.6 m (2′00″),['Normal']
+Aggron,,360.0 kg (793.7 lbs),2.1 m (6′11″),"['Steel', 'Rock', 'Steel']"
+Aron,,60.0 kg (132.3 lbs),0.4 m (1′04″),"['Steel', 'Rock']"
+Hariyama,,253.8 kg (559.5 lbs),2.3 m (7′07″),['Fighting']
+Exploud,,84.0 kg (185.2 lbs),1.5 m (4′11″),['Normal']
+Loudred,,40.5 kg (89.3 lbs),1.0 m (3′03″),['Normal']
+Nincada,,5.5 kg (12.1 lbs),0.5 m (1′08″),"['Bug', 'Ground']"
+Shedinja,,1.2 kg (2.6 lbs),0.8 m (2′07″),"['Bug', 'Ghost']"
+Whismur,,16.3 kg (35.9 lbs),0.6 m (2′00″),['Normal']
+Ninjask,,12.0 kg (26.5 lbs),0.8 m (2′07″),"['Bug', 'Flying']"
+Azurill,,2.0 kg (4.4 lbs),0.2 m (0′08″),"['Normal', 'Fairy']"
+Makuhita,,86.4 kg (190.5 lbs),1.0 m (3′03″),['Fighting']
+Slakoth,,24.0 kg (52.9 lbs),0.8 m (2′07″),['Normal']
+Vigoroth,,46.5 kg (102.5 lbs),1.4 m (4′07″),['Normal']
+Lairon,,120.0 kg (264.6 lbs),0.9 m (2′11″),"['Steel', 'Rock']"
+Shroomish,,4.5 kg (9.9 lbs),0.4 m (1′04″),['Grass']
+Breloom,,39.2 kg (86.4 lbs),1.2 m (3′11″),"['Grass', 'Fighting']"
+Surskit,,1.7 kg (3.7 lbs),0.5 m (1′08″),"['Bug', 'Water']"
+Masquerain,,3.6 kg (7.9 lbs),0.8 m (2′07″),"['Bug', 'Flying']"
+Gardevoir,,48.4 kg (106.7 lbs),1.6 m (5′03″),"['Psychic', 'Fairy', 'Psychic', 'Fairy']"
+Slaking,,130.5 kg (287.7 lbs),2.0 m (6′07″),['Normal']
+Ralts,,6.6 kg (14.6 lbs),0.4 m (1′04″),"['Psychic', 'Fairy']"
+Swellow,,19.8 kg (43.7 lbs),0.7 m (2′04″),"['Normal', 'Flying']"
+Shiftry,,59.6 kg (131.4 lbs),1.3 m (4′03″),"['Grass', 'Dark']"
+Volbeat,,17.7 kg (39.0 lbs),0.7 m (2′04″),['Bug']
+Pelipper,,28.0 kg (61.7 lbs),1.2 m (3′11″),"['Water', 'Flying']"
+Wingull,,9.5 kg (20.9 lbs),0.6 m (2′00″),"['Water', 'Flying']"
+Kirlia,,20.2 kg (44.5 lbs),0.8 m (2′07″),"['Psychic', 'Fairy']"
+Cascoon,,11.5 kg (25.4 lbs),0.7 m (2′04″),['Bug']
+Lombre,,32.5 kg (71.7 lbs),1.2 m (3′11″),"['Water', 'Grass']"
+Taillow,,2.3 kg (5.1 lbs),0.3 m (1′00″),"['Normal', 'Flying']"
+Lotad,,2.6 kg (5.7 lbs),0.5 m (1′08″),"['Water', 'Grass']"
+Seedot,,4.0 kg (8.8 lbs),0.5 m (1′08″),['Grass']
+Ludicolo,,55.0 kg (121.3 lbs),1.5 m (4′11″),"['Water', 'Grass']"
+Dustox,,31.6 kg (69.7 lbs),1.2 m (3′11″),"['Bug', 'Poison']"
+Nuzleaf,,28.0 kg (61.7 lbs),1.0 m (3′03″),"['Grass', 'Dark']"
+Poochyena,,13.6 kg (30.0 lbs),0.5 m (1′08″),['Dark']
+Zigzagoon,,17.5 kg (38.6 lbs),0.4 m (1′04″),"['Normal', 'Dark', 'Normal']"
+Wurmple,,3.6 kg (7.9 lbs),0.3 m (1′00″),['Bug']
+Silcoon,,10.0 kg (22.0 lbs),0.6 m (2′00″),['Bug']
+Mightyena,,37.0 kg (81.6 lbs),1.0 m (3′03″),['Dark']
+Linoone,,32.5 kg (71.7 lbs),0.5 m (1′08″),"['Normal', 'Dark', 'Normal']"
+Beautifly,,28.4 kg (62.6 lbs),1.0 m (3′03″),"['Bug', 'Flying']"
+Swampert,,81.9 kg (180.6 lbs),1.5 m (4′11″),"['Water', 'Ground', 'Water', 'Ground']"
+Mudkip,,7.6 kg (16.8 lbs),0.4 m (1′04″),['Water']
+Combusken,,19.5 kg (43.0 lbs),0.9 m (2′11″),"['Fire', 'Fighting']"
+Blaziken,,52.0 kg (114.6 lbs),1.9 m (6′03″),"['Fire', 'Fighting', 'Fire', 'Fighting']"
+Torchic,,2.5 kg (5.5 lbs),0.4 m (1′04″),['Fire']
+Sceptile,,52.2 kg (115.1 lbs),1.7 m (5′07″),"['Grass', 'Grass', 'Dragon']"
+Grovyle,,21.6 kg (47.6 lbs),0.9 m (2′11″),['Grass']
+Marshtomp,,28.0 kg (61.7 lbs),0.7 m (2′04″),"['Water', 'Ground']"
+Celebi,,5.0 kg (11.0 lbs),0.6 m (2′00″),"['Psychic', 'Grass']"
+Ho-oh,,199.0 kg (438.7 lbs),3.8 m (12′06″),"['Fire', 'Flying']"
+Tyranitar,,202.0 kg (445.3 lbs),2.0 m (6′07″),"['Rock', 'Dark', 'Rock', 'Dark']"
+Lugia,,216.0 kg (476.2 lbs),5.2 m (17′01″),"['Psychic', 'Flying']"
+Pupitar,,152.0 kg (335.1 lbs),1.2 m (3′11″),"['Rock', 'Ground']"
+Entei,,198.0 kg (436.5 lbs),2.1 m (6′11″),['Fire']
+Treecko,,5.0 kg (11.0 lbs),0.5 m (1′08″),['Grass']
+Raikou,,178.0 kg (392.4 lbs),1.9 m (6′03″),['Electric']
+Miltank,,75.5 kg (166.4 lbs),1.2 m (3′11″),['Normal']
+Magby,,21.4 kg (47.2 lbs),0.7 m (2′04″),['Fire']
+Blissey,,46.8 kg (103.2 lbs),1.5 m (4′11″),['Normal']
+Smoochum,,6.0 kg (13.2 lbs),0.4 m (1′04″),"['Ice', 'Psychic']"
+Hitmontop,,48.0 kg (105.8 lbs),1.4 m (4′07″),['Fighting']
+Tyrogue,,21.0 kg (46.3 lbs),0.7 m (2′04″),['Fighting']
+Stantler,,71.2 kg (157.0 lbs),1.4 m (4′07″),['Normal']
+Larvitar,,72.0 kg (158.7 lbs),0.6 m (2′00″),"['Rock', 'Ground']"
+Suicune,,187.0 kg (412.3 lbs),2.0 m (6′07″),['Water']
+Porygon2,,32.5 kg (71.7 lbs),0.6 m (2′00″),['Normal']
+Houndoom,,35.0 kg (77.2 lbs),1.4 m (4′07″),"['Dark', 'Fire', 'Dark', 'Fire']"
+Phanpy,,33.5 kg (73.9 lbs),0.5 m (1′08″),['Ground']
+Kingdra,,152.0 kg (335.1 lbs),1.8 m (5′11″),"['Water', 'Dragon']"
+Houndour,,10.8 kg (23.8 lbs),0.6 m (2′00″),"['Dark', 'Fire']"
+Donphan,,120.0 kg (264.6 lbs),1.1 m (3′07″),['Ground']
+Skarmory,,50.5 kg (111.3 lbs),1.7 m (5′07″),"['Steel', 'Flying']"
+Mantine,,220.0 kg (485.0 lbs),2.1 m (6′11″),"['Water', 'Flying']"
+Delibird,,16.0 kg (35.3 lbs),0.9 m (2′11″),"['Ice', 'Flying']"
+Remoraid,,12.0 kg (26.5 lbs),0.6 m (2′00″),['Water']
+Smeargle,,58.0 kg (127.9 lbs),1.2 m (3′11″),['Normal']
+Elekid,,23.5 kg (51.8 lbs),0.6 m (2′00″),['Electric']
+Corsola,,5.0 kg (11.0 lbs),0.6 m (2′00″),"['Water', 'Rock', 'Ghost']"
+Piloswine,,55.8 kg (123.0 lbs),1.1 m (3′07″),"['Ice', 'Ground']"
+Slugma,,35.0 kg (77.2 lbs),0.7 m (2′04″),['Fire']
+Swinub,,6.5 kg (14.3 lbs),0.4 m (1′04″),"['Ice', 'Ground']"
+Sneasel,,28.0 kg (61.7 lbs),0.9 m (2′11″),"['Dark', 'Ice', 'Fighting', 'Poison']"
+Magcargo,,55.0 kg (121.3 lbs),0.8 m (2′07″),"['Fire', 'Rock']"
+Ursaring,,125.8 kg (277.3 lbs),1.8 m (5′11″),['Normal']
+Teddiursa,,8.8 kg (19.4 lbs),0.6 m (2′00″),['Normal']
+Steelix,,400.0 kg (881.8 lbs),9.2 m (30′02″),"['Steel', 'Ground', 'Steel', 'Ground']"
+Granbull,,48.7 kg (107.4 lbs),1.4 m (4′07″),['Fairy']
+Qwilfish,,3.9 kg (8.6 lbs),0.5 m (1′08″),"['Water', 'Poison', 'Dark', 'Poison']"
+Scizor,,118.0 kg (260.1 lbs),1.8 m (5′11″),"['Bug', 'Steel', 'Bug', 'Steel']"
+Octillery,,28.5 kg (62.8 lbs),0.9 m (2′11″),['Water']
+Snubbull,,7.8 kg (17.2 lbs),0.6 m (2′00″),['Fairy']
+Dunsparce,,14.0 kg (30.9 lbs),1.5 m (4′11″),['Normal']
+Gligar,,64.8 kg (142.9 lbs),1.1 m (3′07″),"['Ground', 'Flying']"
+Wobbuffet,,28.5 kg (62.8 lbs),1.3 m (4′03″),['Psychic']
+Girafarig,,41.5 kg (91.5 lbs),1.5 m (4′11″),"['Normal', 'Psychic']"
+Pineco,,7.2 kg (15.9 lbs),0.6 m (2′00″),['Bug']
+Umbreon,,27.0 kg (59.5 lbs),1.0 m (3′03″),['Dark']
+Shuckle,,20.5 kg (45.2 lbs),0.6 m (2′00″),"['Bug', 'Rock']"
+Slowking,,79.5 kg (175.3 lbs),2.0 m (6′07″),"['Water', 'Psychic', 'Poison', 'Psychic']"
+Wooper,,8.5 kg (18.7 lbs),0.4 m (1′04″),"['Water', 'Ground', 'Poison', 'Ground']"
+Yanma,,38.0 kg (83.8 lbs),1.2 m (3′11″),"['Bug', 'Flying']"
+Forretress,,125.8 kg (277.3 lbs),1.2 m (3′11″),"['Bug', 'Steel']"
+Heracross,,54.0 kg (119.0 lbs),1.5 m (4′11″),"['Bug', 'Fighting', 'Bug', 'Fighting']"
+Misdreavus,,1.0 kg (2.2 lbs),0.7 m (2′04″),['Ghost']
+Murkrow,,2.1 kg (4.6 lbs),0.5 m (1′08″),"['Dark', 'Flying']"
+Unown,,5.0 kg (11.0 lbs),0.5 m (1′08″),['Psychic']
+Quagsire,,75.0 kg (165.3 lbs),1.4 m (4′07″),"['Water', 'Ground']"
+Sunkern,,1.8 kg (4.0 lbs),0.3 m (1′00″),['Grass']
+Sunflora,,8.5 kg (18.7 lbs),0.8 m (2′07″),['Grass']
+Aipom,,11.5 kg (25.4 lbs),0.8 m (2′07″),['Normal']
+Espeon,,26.5 kg (58.4 lbs),0.9 m (2′11″),['Psychic']
+Sudowoodo,,38.0 kg (83.8 lbs),1.2 m (3′11″),['Rock']
+Hoppip,,0.5 kg (1.1 lbs),0.4 m (1′04″),"['Grass', 'Flying']"
+Skiploom,,1.0 kg (2.2 lbs),0.6 m (2′00″),"['Grass', 'Flying']"
+Azumarill,,28.5 kg (62.8 lbs),0.8 m (2′07″),"['Water', 'Fairy']"
+Jumpluff,,3.0 kg (6.6 lbs),0.8 m (2′07″),"['Grass', 'Flying']"
+Marill,,8.5 kg (18.7 lbs),0.4 m (1′04″),"['Water', 'Fairy']"
+Politoed,,33.9 kg (74.7 lbs),1.1 m (3′07″),['Water']
+Ampharos,,61.5 kg (135.6 lbs),1.4 m (4′07″),"['Electric', 'Electric', 'Dragon']"
+Mareep,,7.8 kg (17.2 lbs),0.6 m (2′00″),['Electric']
+Flaaffy,,13.3 kg (29.3 lbs),0.8 m (2′07″),['Electric']
+Natu,,2.0 kg (4.4 lbs),0.2 m (0′08″),"['Psychic', 'Flying']"
+Togepi,,1.5 kg (3.3 lbs),0.3 m (1′00″),['Fairy']
+Xatu,,15.0 kg (33.1 lbs),1.5 m (4′11″),"['Psychic', 'Flying']"
+Togetic,,3.2 kg (7.1 lbs),0.6 m (2′00″),"['Fairy', 'Flying']"
+Igglybuff,,1.0 kg (2.2 lbs),0.3 m (1′00″),"['Normal', 'Fairy']"
+Lanturn,,22.5 kg (49.6 lbs),1.2 m (3′11″),"['Water', 'Electric']"
+Cleffa,,3.0 kg (6.6 lbs),0.3 m (1′00″),['Fairy']
+Chinchou,,12.0 kg (26.5 lbs),0.5 m (1′08″),"['Water', 'Electric']"
+Bellossom,,5.8 kg (12.8 lbs),0.4 m (1′04″),['Grass']
+Crobat,,75.0 kg (165.3 lbs),1.8 m (5′11″),"['Poison', 'Flying']"
+Furret,,32.5 kg (71.7 lbs),1.8 m (5′11″),['Normal']
+Hoothoot,,21.2 kg (46.7 lbs),0.7 m (2′04″),"['Normal', 'Flying']"
+Ariados,,33.5 kg (73.9 lbs),1.1 m (3′07″),"['Bug', 'Poison']"
+Ledian,,35.6 kg (78.5 lbs),1.4 m (4′07″),"['Bug', 'Flying']"
+Pichu,,2.0 kg (4.4 lbs),0.3 m (1′00″),['Electric']
+Ledyba,,10.8 kg (23.8 lbs),1.0 m (3′03″),"['Bug', 'Flying']"
+Noctowl,,40.8 kg (89.9 lbs),1.6 m (5′03″),"['Normal', 'Flying']"
+Feraligatr,,88.8 kg (195.8 lbs),2.3 m (7′07″),['Water']
+Totodile,,9.5 kg (20.9 lbs),0.6 m (2′00″),['Water']
+Cyndaquil,,7.9 kg (17.4 lbs),0.5 m (1′08″),['Fire']
+Croconaw,,25.0 kg (55.1 lbs),1.1 m (3′07″),['Water']
+Typhlosion,,79.5 kg (175.3 lbs),1.7 m (5′07″),"['Fire', 'Fire', 'Ghost']"
+Quilava,,19.0 kg (41.9 lbs),0.9 m (2′11″),['Fire']
+Spinarak,,8.5 kg (18.7 lbs),0.5 m (1′08″),"['Bug', 'Poison']"
+Sentret,,6.0 kg (13.2 lbs),0.8 m (2′07″),['Normal']
+Meganium,,100.5 kg (221.6 lbs),1.8 m (5′11″),['Grass']
+Mewtwo,,122.0 kg (269.0 lbs),2.0 m (6′07″),"['Psychic', 'Psychic', 'Fighting', 'Psychic']"
+Dragonite,,210.0 kg (463.0 lbs),2.2 m (7′03″),"['Dragon', 'Flying']"
+Bayleef,,15.8 kg (34.8 lbs),1.2 m (3′11″),['Grass']
+Chikorita,,6.4 kg (14.1 lbs),0.9 m (2′11″),['Grass']
+Aerodactyl,,59.0 kg (130.1 lbs),1.8 m (5′11″),"['Rock', 'Flying', 'Rock', 'Flying']"
+Articuno,,55.4 kg (122.1 lbs),1.7 m (5′07″),"['Ice', 'Flying', 'Psychic', 'Flying']"
+Moltres,,60.0 kg (132.3 lbs),2.0 m (6′07″),"['Fire', 'Flying', 'Dark', 'Flying']"
+Kabutops,,40.5 kg (89.3 lbs),1.3 m (4′03″),"['Rock', 'Water']"
+Snorlax,,460.0 kg (1014.1 lbs),2.1 m (6′11″),['Normal']
+Kabuto,,11.5 kg (25.4 lbs),0.5 m (1′08″),"['Rock', 'Water']"
+Omanyte,,7.5 kg (16.5 lbs),0.4 m (1′04″),"['Rock', 'Water']"
+Mew,,4.0 kg (8.8 lbs),0.4 m (1′04″),['Psychic']
+Porygon,,36.5 kg (80.5 lbs),0.8 m (2′07″),['Normal']
+Flareon,,25.0 kg (55.1 lbs),0.9 m (2′11″),['Fire']
+Eevee,,6.5 kg (14.3 lbs),0.3 m (1′00″),"['Normal', 'Normal']"
+Lapras,,220.0 kg (485.0 lbs),2.5 m (8′02″),"['Water', 'Ice']"
+Vaporeon,,29.0 kg (63.9 lbs),1.0 m (3′03″),['Water']
+Ditto,,4.0 kg (8.8 lbs),0.3 m (1′00″),['Normal']
+Jolteon,,24.5 kg (54.0 lbs),0.8 m (2′07″),['Electric']
+Dratini,,3.3 kg (7.3 lbs),1.8 m (5′11″),['Dragon']
+Gyarados,,235.0 kg (518.1 lbs),6.5 m (21′04″),"['Water', 'Flying', 'Water', 'Dark']"
+Magikarp,,10.0 kg (22.0 lbs),0.9 m (2′11″),['Water']
+Omastar,,35.0 kg (77.2 lbs),1.0 m (3′03″),"['Rock', 'Water']"
+Magmar,,44.5 kg (98.1 lbs),1.3 m (4′03″),['Fire']
+Pinsir,,55.0 kg (121.3 lbs),1.5 m (4′11″),"['Bug', 'Bug', 'Flying']"
+Tauros,,88.4 kg (194.9 lbs),1.4 m (4′07″),"['Normal', 'Fighting', 'Fighting', 'Fire', 'Fighting', 'Water']"
+Seaking,,39.0 kg (86.0 lbs),1.3 m (4′03″),['Water']
+Mr. Mime,,54.5 kg (120.2 lbs),1.3 m (4′03″),"['Psychic', 'Fairy', 'Ice', 'Psychic']"
+Scyther,,56.0 kg (123.5 lbs),1.5 m (4′11″),"['Bug', 'Flying']"
+Seadra,,25.0 kg (55.1 lbs),1.2 m (3′11″),['Water']
+Electabuzz,,30.0 kg (66.1 lbs),1.1 m (3′07″),['Electric']
+Jynx,,40.6 kg (89.5 lbs),1.4 m (4′07″),"['Ice', 'Psychic']"
+Staryu,,34.5 kg (76.1 lbs),0.8 m (2′07″),['Water']
+Dragonair,,16.5 kg (36.4 lbs),4.0 m (13′01″),['Dragon']
+Starmie,,80.0 kg (176.4 lbs),1.1 m (3′07″),"['Water', 'Psychic']"
+Goldeen,,15.0 kg (33.1 lbs),0.6 m (2′00″),['Water']
+Horsea,,8.0 kg (17.6 lbs),0.4 m (1′04″),['Water']
+Tangela,,35.0 kg (77.2 lbs),1.0 m (3′03″),['Grass']
+Koffing,,1.0 kg (2.2 lbs),0.6 m (2′00″),['Poison']
+Rhydon,,120.0 kg (264.6 lbs),1.9 m (6′03″),"['Ground', 'Rock']"
+Chansey,,34.6 kg (76.3 lbs),1.1 m (3′07″),['Normal']
+Lickitung,,65.5 kg (144.4 lbs),1.2 m (3′11″),['Normal']
+Weezing,,9.5 kg (20.9 lbs),1.2 m (3′11″),"['Poison', 'Poison', 'Fairy']"
+Rhyhorn,,115.0 kg (253.5 lbs),1.0 m (3′03″),"['Ground', 'Rock']"
+Hitmonlee,,49.8 kg (109.8 lbs),1.5 m (4′11″),['Fighting']
+Kangaskhan,,80.0 kg (176.4 lbs),2.2 m (7′03″),"['Normal', 'Normal']"
+Marowak,,45.0 kg (99.2 lbs),1.0 m (3′03″),"['Ground', 'Fire', 'Ghost']"
+Cubone,,6.5 kg (14.3 lbs),0.4 m (1′04″),['Ground']
+Kingler,,60.0 kg (132.3 lbs),1.3 m (4′03″),['Water']
+Hypno,,75.6 kg (166.7 lbs),1.6 m (5′03″),['Psychic']
+Onix,,210.0 kg (463.0 lbs),8.8 m (28′10″),"['Rock', 'Ground']"
+Gengar,,40.5 kg (89.3 lbs),1.5 m (4′11″),"['Ghost', 'Poison', 'Ghost', 'Poison']"
+Exeggutor,,120.0 kg (264.6 lbs),2.0 m (6′07″),"['Grass', 'Psychic', 'Grass', 'Dragon']"
+Electrode,,66.6 kg (146.8 lbs),1.2 m (3′11″),"['Electric', 'Electric', 'Grass']"
+Exeggcute,,2.5 kg (5.5 lbs),0.4 m (1′04″),"['Grass', 'Psychic']"
+Drowzee,,32.4 kg (71.4 lbs),1.0 m (3′03″),['Psychic']
+Hitmonchan,,50.2 kg (110.7 lbs),1.4 m (4′07″),['Fighting']
+Voltorb,,10.4 kg (22.9 lbs),0.5 m (1′08″),"['Electric', 'Electric', 'Grass']"
+Gastly,,0.1 kg (0.2 lbs),1.3 m (4′03″),"['Ghost', 'Poison']"
+Shellder,,4.0 kg (8.8 lbs),0.3 m (1′00″),['Water']
+Muk,,30.0 kg (66.1 lbs),1.2 m (3′11″),"['Poison', 'Poison', 'Dark']"
+Cloyster,,132.5 kg (292.1 lbs),1.5 m (4′11″),"['Water', 'Ice']"
+Krabby,,6.5 kg (14.3 lbs),0.4 m (1′04″),['Water']
+Grimer,,30.0 kg (66.1 lbs),0.9 m (2′11″),"['Poison', 'Poison', 'Dark']"
+Doduo,,39.2 kg (86.4 lbs),1.4 m (4′07″),"['Normal', 'Flying']"
+Dodrio,,85.2 kg (187.8 lbs),1.8 m (5′11″),"['Normal', 'Flying']"
+Haunter,,0.1 kg (0.2 lbs),1.6 m (5′03″),"['Ghost', 'Poison']"
+Magneton,,60.0 kg (132.3 lbs),1.0 m (3′03″),"['Electric', 'Steel']"
+Farfetch'd,,15.0 kg (33.1 lbs),0.8 m (2′07″),"['Normal', 'Flying', 'Fighting']"
+Magnemite,,6.0 kg (13.2 lbs),0.3 m (1′00″),"['Electric', 'Steel']"
+Slowbro,,78.5 kg (173.1 lbs),1.6 m (5′03″),"['Water', 'Psychic', 'Water', 'Psychic', 'Poison', 'Psychic']"
+Slowpoke,,36.0 kg (79.4 lbs),1.2 m (3′11″),"['Water', 'Psychic', 'Psychic']"
+Seel,,90.0 kg (198.4 lbs),1.1 m (3′07″),['Water']
+Rapidash,,95.0 kg (209.4 lbs),1.7 m (5′07″),"['Fire', 'Psychic', 'Fairy']"
+Dewgong,,120.0 kg (264.6 lbs),1.7 m (5′07″),"['Water', 'Ice']"
+Golem,,300.0 kg (661.4 lbs),1.4 m (4′07″),"['Rock', 'Ground', 'Rock', 'Electric']"
+Ponyta,,30.0 kg (66.1 lbs),1.0 m (3′03″),"['Fire', 'Psychic']"
+Geodude,,20.0 kg (44.1 lbs),0.4 m (1′04″),"['Rock', 'Ground', 'Rock', 'Electric']"
+Tentacool,,45.5 kg (100.3 lbs),0.9 m (2′11″),"['Water', 'Poison']"
+Tentacruel,,55.0 kg (121.3 lbs),1.6 m (5′03″),"['Water', 'Poison']"
+Weepinbell,,6.4 kg (14.1 lbs),1.0 m (3′03″),"['Grass', 'Poison']"
+Bellsprout,,4.0 kg (8.8 lbs),0.7 m (2′04″),"['Grass', 'Poison']"
+Machoke,,70.5 kg (155.4 lbs),1.5 m (4′11″),['Fighting']
+Abra,,19.5 kg (43.0 lbs),0.9 m (2′11″),['Psychic']
+Kadabra,,56.5 kg (124.6 lbs),1.3 m (4′03″),['Psychic']
+Alakazam,,48.0 kg (105.8 lbs),1.5 m (4′11″),"['Psychic', 'Psychic']"
+Victreebel,,15.5 kg (34.2 lbs),1.7 m (5′07″),"['Grass', 'Poison']"
+Machop,,19.5 kg (43.0 lbs),0.8 m (2′07″),['Fighting']
+Graveler,,105.0 kg (231.5 lbs),1.0 m (3′03″),"['Rock', 'Ground', 'Rock', 'Electric']"
+Machamp,,130.0 kg (286.6 lbs),1.6 m (5′03″),['Fighting']
+Golduck,,76.6 kg (168.9 lbs),1.7 m (5′07″),['Water']
+Poliwhirl,,20.0 kg (44.1 lbs),1.0 m (3′03″),['Water']
+Poliwag,,12.4 kg (27.3 lbs),0.6 m (2′00″),['Water']
+Arcanine,,155.0 kg (341.7 lbs),1.9 m (6′03″),"['Fire', 'Fire', 'Rock']"
+Primeape,,32.0 kg (70.5 lbs),1.0 m (3′03″),['Fighting']
+Poliwrath,,54.0 kg (119.0 lbs),1.3 m (4′03″),"['Water', 'Fighting']"
+Growlithe,,19.0 kg (41.9 lbs),0.7 m (2′04″),"['Fire', 'Fire', 'Rock']"
+Psyduck,,19.6 kg (43.2 lbs),0.8 m (2′07″),['Water']
+Mankey,,28.0 kg (61.7 lbs),0.5 m (1′08″),['Fighting']
+Venomoth,,12.5 kg (27.6 lbs),1.5 m (4′11″),"['Bug', 'Poison']"
+Dugtrio,,33.3 kg (73.4 lbs),0.7 m (2′04″),"['Ground', 'Ground', 'Steel']"
+Persian,,32.0 kg (70.5 lbs),1.0 m (3′03″),"['Normal', 'Dark']"
+Diglett,,0.8 kg (1.8 lbs),0.2 m (0′08″),"['Ground', 'Ground', 'Steel']"
+Venonat,,30.0 kg (66.1 lbs),1.0 m (3′03″),"['Bug', 'Poison']"
+Meowth,,4.2 kg (9.3 lbs),0.4 m (1′04″),"['Normal', 'Dark', 'Steel']"
+Gloom,,8.6 kg (19.0 lbs),0.8 m (2′07″),"['Grass', 'Poison']"
+Vileplume,,18.6 kg (41.0 lbs),1.2 m (3′11″),"['Grass', 'Poison']"
+Wigglytuff,,12.0 kg (26.5 lbs),1.0 m (3′03″),"['Normal', 'Fairy']"
+Oddish,,5.4 kg (11.9 lbs),0.5 m (1′08″),"['Grass', 'Poison']"
+Golbat,,55.0 kg (121.3 lbs),1.6 m (5′03″),"['Poison', 'Flying']"
+Zubat,,7.5 kg (16.5 lbs),0.8 m (2′07″),"['Poison', 'Flying']"
+Ninetales,,19.9 kg (43.9 lbs),1.1 m (3′07″),"['Fire', 'Ice', 'Fairy']"
+Vulpix,,9.9 kg (21.8 lbs),0.6 m (2′00″),"['Fire', 'Ice']"
+Nidoking,,62.0 kg (136.7 lbs),1.4 m (4′07″),"['Poison', 'Ground']"
+Parasect,,29.5 kg (65.0 lbs),1.0 m (3′03″),"['Bug', 'Grass']"
+Paras,,5.4 kg (11.9 lbs),0.3 m (1′00″),"['Bug', 'Grass']"
+Clefairy,,7.5 kg (16.5 lbs),0.6 m (2′00″),['Fairy']
+Jigglypuff,,5.5 kg (12.1 lbs),0.5 m (1′08″),"['Normal', 'Fairy']"
+Clefable,,40.0 kg (88.2 lbs),1.3 m (4′03″),['Fairy']
+Butterfree,,32.0 kg (70.5 lbs),1.1 m (3′07″),"['Bug', 'Flying']"
+Pidgeot,,39.5 kg (87.1 lbs),1.5 m (4′11″),"['Normal', 'Flying', 'Normal', 'Flying']"
+Weedle,,3.2 kg (7.1 lbs),0.3 m (1′00″),"['Bug', 'Poison']"
+Kakuna,,10.0 kg (22.0 lbs),0.6 m (2′00″),"['Bug', 'Poison']"
+Pidgey,,1.8 kg (4.0 lbs),0.3 m (1′00″),"['Normal', 'Flying']"
+Metapod,,9.9 kg (21.8 lbs),0.7 m (2′04″),['Bug']
+Blastoise,,85.5 kg (188.5 lbs),1.6 m (5′03″),"['Water', 'Water']"
+Charizard,,90.5 kg (199.5 lbs),1.7 m (5′07″),"['Fire', 'Flying', 'Fire', 'Dragon', 'Fire', 'Flying']"
+Squirtle,,9.0 kg (19.8 lbs),0.5 m (1′08″),['Water']
+Wartortle,,22.5 kg (49.6 lbs),1.0 m (3′03″),['Water']
+Venusaur,,100.0 kg (220.5 lbs),2.0 m (6′07″),"['Grass', 'Poison', 'Grass', 'Poison']"
+Charmander,,8.5 kg (18.7 lbs),0.6 m (2′00″),['Fire']
+Pidgeotto,,30.0 kg (66.1 lbs),1.1 m (3′07″),"['Normal', 'Flying']"
+Ivysaur,,13.0 kg (28.7 lbs),1.0 m (3′03″),"['Grass', 'Poison']"
+Beedrill,,29.5 kg (65.0 lbs),1.0 m (3′03″),"['Bug', 'Poison', 'Bug', 'Poison']"
+Charmeleon,,19.0 kg (41.9 lbs),1.1 m (3′07″),['Fire']
+Caterpie,,2.9 kg (6.4 lbs),0.3 m (1′00″),['Bug']

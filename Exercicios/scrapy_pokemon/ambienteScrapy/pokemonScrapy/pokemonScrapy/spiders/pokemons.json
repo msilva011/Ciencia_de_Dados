@@ -1,0 +1,1010 @@
+{"Nome": "Bulbasaur", "Número": "", "Peso": "6.9 kg (15.2 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Sandslash", "Número": "", "Peso": "29.5 kg (65.0 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Ground", "Ice", "Steel"]}
+{"Nome": "Nidorino", "Número": "", "Peso": "19.5 kg (43.0 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Poison"]}
+{"Nome": "Raichu", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Electric", "Electric", "Psychic"]}
+{"Nome": "Nidoran♀ (female)", "Número": "", "Peso": "7.0 kg (15.4 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Poison"]}
+{"Nome": "Sandshrew", "Número": "", "Peso": "12.0 kg (26.5 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Ground", "Ice", "Steel"]}
+{"Nome": "Pikachu", "Número": "", "Peso": "6.0 kg (13.2 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Electric", "Electric"]}
+{"Nome": "Arbok", "Número": "", "Peso": "65.0 kg (143.3 lbs)", "Altura": "3.5 m (11′06″)", "Tipos": ["Poison"]}
+{"Nome": "Ekans", "Número": "", "Peso": "6.9 kg (15.2 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Poison"]}
+{"Nome": "Spearow", "Número": "", "Peso": "2.0 kg (4.4 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Fearow", "Número": "", "Peso": "38.0 kg (83.8 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Rattata", "Número": "", "Peso": "3.5 kg (7.7 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Dark", "Normal"]}
+{"Nome": "Raticate", "Número": "", "Peso": "18.5 kg (40.8 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Normal", "Dark", "Normal"]}
+{"Nome": "Tropius", "Número": "", "Peso": "100.0 kg (220.5 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Grass", "Flying"]}
+{"Nome": "Nidoqueen", "Número": "", "Peso": "60.0 kg (132.3 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Poison", "Ground"]}
+{"Nome": "Nidoran♂ (male)", "Número": "", "Peso": "9.0 kg (19.8 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Poison"]}
+{"Nome": "Dusclops", "Número": "", "Peso": "30.6 kg (67.5 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Ghost"]}
+{"Nome": "Zapdos", "Número": "", "Peso": "52.6 kg (116.0 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Electric", "Flying", "Fighting", "Flying"]}
+{"Nome": "Honchkrow", "Número": "", "Peso": "27.3 kg (60.2 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Dark", "Flying"]}
+{"Nome": "Glameow", "Número": "", "Peso": "3.9 kg (8.6 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Normal"]}
+{"Nome": "Metagross", "Número": "", "Peso": "550.0 kg (1212.5 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Steel", "Psychic", "Steel", "Psychic"]}
+{"Nome": "Purugly", "Número": "", "Peso": "43.8 kg (96.6 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Normal"]}
+{"Nome": "Duskull", "Número": "", "Peso": "15.0 kg (33.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Ghost"]}
+{"Nome": "Banette", "Número": "", "Peso": "12.5 kg (27.6 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Ghost", "Ghost"]}
+{"Nome": "Chingling", "Número": "", "Peso": "0.6 kg (1.3 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Psychic"]}
+{"Nome": "Bisharp", "Número": "", "Peso": "70.0 kg (154.3 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Dark", "Steel"]}
+{"Nome": "Mismagius", "Número": "", "Peso": "4.4 kg (9.7 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Ghost"]}
+{"Nome": "Mienshao", "Número": "", "Peso": "35.5 kg (78.3 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Fighting"]}
+{"Nome": "Pawniard", "Número": "", "Peso": "10.2 kg (22.5 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Dark", "Steel"]}
+{"Nome": "Golett", "Número": "", "Peso": "92.0 kg (202.8 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Ground", "Ghost"]}
+{"Nome": "Druddigon", "Número": "", "Peso": "139.0 kg (306.4 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Dragon"]}
+{"Nome": "Golurk", "Número": "", "Peso": "330.0 kg (727.5 lbs)", "Altura": "2.8 m (9′02″)", "Tipos": ["Ground", "Ghost"]}
+{"Nome": "Nidorina", "Número": "", "Peso": "20.0 kg (44.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Poison"]}
+{"Nome": "Mienfoo", "Número": "", "Peso": "20.0 kg (44.1 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Fighting"]}
+{"Nome": "Aegislash", "Número": "", "Peso": "53.0 kg (116.8 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Steel", "Ghost", "Steel", "Ghost"]}
+{"Nome": "Honedge", "Número": "", "Peso": "2.0 kg (4.4 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Steel", "Ghost"]}
+{"Nome": "Swirlix", "Número": "", "Peso": "3.5 kg (7.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Fairy"]}
+{"Nome": "Spritzee", "Número": "", "Peso": "0.5 kg (1.1 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Fairy"]}
+{"Nome": "Doublade", "Número": "", "Peso": "4.5 kg (9.9 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Steel", "Ghost"]}
+{"Nome": "Aromatisse", "Número": "", "Peso": "15.5 kg (34.2 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Fairy"]}
+{"Nome": "Dottler", "Número": "", "Peso": "19.5 kg (43.0 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Bug", "Psychic"]}
+{"Nome": "Blipbug", "Número": "", "Peso": "8.0 kg (17.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Bug"]}
+{"Nome": "Corviknight", "Número": "", "Peso": "75.0 kg (165.3 lbs)", "Altura": "2.2 m (7′03″)", "Tipos": ["Flying", "Steel"]}
+{"Nome": "Meowstic", "Número": "", "Peso": "8.5 kg (18.7 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Psychic", "Psychic"]}
+{"Nome": "Corvisquire", "Número": "", "Peso": "16.0 kg (35.3 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Flying"]}
+{"Nome": "Rookidee", "Número": "", "Peso": "1.8 kg (4.0 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Flying"]}
+{"Nome": "Greedent", "Número": "", "Peso": "6.0 kg (13.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal"]}
+{"Nome": "Tarountula", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug"]}
+{"Nome": "Oinkologne", "Número": "", "Peso": "120.0 kg (264.6 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Normal", "Normal"]}
+{"Nome": "Spidops", "Número": "", "Peso": "16.5 kg (36.4 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Bug"]}
+{"Nome": "Orbeetle", "Número": "", "Peso": "40.8 kg (89.9 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Bug", "Psychic"]}
+{"Nome": "Quaquaval", "Número": "", "Peso": "61.9 kg (136.5 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Water", "Fighting"]}
+{"Nome": "Lechonk", "Número": "", "Peso": "10.2 kg (22.5 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Normal"]}
+{"Nome": "Quaxwell", "Número": "", "Peso": "21.5 kg (47.4 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water"]}
+{"Nome": "Veluza", "Número": "", "Peso": "90.0 kg (198.4 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Water", "Psychic"]}
+{"Nome": "Cetitan", "Número": "", "Peso": "700.0 kg (1543.2 lbs)", "Altura": "4.5 m (14′09″)", "Tipos": ["Ice"]}
+{"Nome": "Quaxly", "Número": "", "Peso": "6.1 kg (13.4 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Water"]}
+{"Nome": "Dubwool", "Número": "", "Peso": "43.0 kg (94.8 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Normal"]}
+{"Nome": "Cetoddle", "Número": "", "Peso": "45.0 kg (99.2 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Ice"]}
+{"Nome": "Dondozo", "Número": "", "Peso": "220.0 kg (485.0 lbs)", "Altura": "12.0 m (39′04″)", "Tipos": ["Water"]}
+{"Nome": "Flamigo", "Número": "", "Peso": "37.0 kg (81.6 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Flying", "Fighting"]}
+{"Nome": "Iron Valiant", "Número": "", "Peso": "35.0 kg (77.2 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Fairy", "Fighting"]}
+{"Nome": "Iron Leaves", "Número": "", "Peso": "125.0 kg (275.6 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Grass", "Psychic"]}
+{"Nome": "Walking Wake", "Número": "", "Peso": "280.0 kg (617.3 lbs)", "Altura": "3.5 m (11′06″)", "Tipos": ["Water", "Dragon"]}
+{"Nome": "Miraidon", "Número": "", "Peso": "240.0 kg (529.1 lbs)", "Altura": "3.5 m (11′06″)", "Tipos": ["Electric", "Dragon"]}
+{"Nome": "Koraidon", "Número": "", "Peso": "303.0 kg (668.0 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Fighting", "Dragon"]}
+{"Nome": "Roaring Moon", "Número": "", "Peso": "380.0 kg (837.8 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Dragon", "Dark"]}
+{"Nome": "Chi-Yu", "Número": "", "Peso": "4.9 kg (10.8 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Dark", "Fire"]}
+{"Nome": "Chien-Pao", "Número": "", "Peso": "152.2 kg (335.5 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Dark", "Ice"]}
+{"Nome": "Ting-Lu", "Número": "", "Peso": "699.7 kg (1542.6 lbs)", "Altura": "2.7 m (8′10″)", "Tipos": ["Dark", "Ground"]}
+{"Nome": "Wo-Chien", "Número": "", "Peso": "74.2 kg (163.6 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Dark", "Grass"]}
+{"Nome": "Gholdengo", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Steel", "Ghost"]}
+{"Nome": "Gimmighoul", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Ghost", "Ghost"]}
+{"Nome": "Iron Jugulis", "Número": "", "Peso": "111.0 kg (244.7 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Dark", "Flying"]}
+{"Nome": "Baxcalibur", "Número": "", "Peso": "210.0 kg (463.0 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Dragon", "Ice"]}
+{"Nome": "Iron Moth", "Número": "", "Peso": "36.0 kg (79.4 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Fire", "Poison"]}
+{"Nome": "Frigibax", "Número": "", "Peso": "17.0 kg (37.5 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Dragon", "Ice"]}
+{"Nome": "Arctibax", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Dragon", "Ice"]}
+{"Nome": "Iron Thorns", "Número": "", "Peso": "303.0 kg (668.0 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Rock", "Electric"]}
+{"Nome": "Houndstone", "Número": "", "Peso": "15.0 kg (33.1 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Ghost"]}
+{"Nome": "Greavard", "Número": "", "Peso": "35.0 kg (77.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Ghost"]}
+{"Nome": "Iron Treads", "Número": "", "Peso": "240.0 kg (529.1 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Ground", "Steel"]}
+{"Nome": "Iron Bundle", "Número": "", "Peso": "11.0 kg (24.3 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Ice", "Water"]}
+{"Nome": "Sandy Shocks", "Número": "", "Peso": "60.0 kg (132.3 lbs)", "Altura": "2.3 m (7′07″)", "Tipos": ["Electric", "Ground"]}
+{"Nome": "Flutter Mane", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Ghost", "Fairy"]}
+{"Nome": "Iron Hands", "Número": "", "Peso": "380.7 kg (839.3 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Fighting", "Electric"]}
+{"Nome": "Slither Wing", "Número": "", "Peso": "92.0 kg (202.8 lbs)", "Altura": "3.2 m (10′06″)", "Tipos": ["Bug", "Fighting"]}
+{"Nome": "Annihilape", "Número": "", "Peso": "56.0 kg (123.5 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Fighting", "Ghost"]}
+{"Nome": "Kingambit", "Número": "", "Peso": "120.0 kg (264.6 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Dark", "Steel"]}
+{"Nome": "Great Tusk", "Número": "", "Peso": "320.0 kg (705.5 lbs)", "Altura": "2.2 m (7′03″)", "Tipos": ["Ground", "Fighting"]}
+{"Nome": "Farigiraf", "Número": "", "Peso": "160.0 kg (352.7 lbs)", "Altura": "3.2 m (10′06″)", "Tipos": ["Normal", "Psychic"]}
+{"Nome": "Glimmet", "Número": "", "Peso": "8.0 kg (17.6 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Rock", "Poison"]}
+{"Nome": "Glimmora", "Número": "", "Peso": "45.0 kg (99.2 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Rock", "Poison"]}
+{"Nome": "Tatsugiri", "Número": "", "Peso": "8.0 kg (17.6 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Dragon", "Water", "Dragon", "Water", "Dragon", "Water"]}
+{"Nome": "Orthworm", "Número": "", "Peso": "310.0 kg (683.4 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Steel"]}
+{"Nome": "Brute Bonnet", "Número": "", "Peso": "21.0 kg (46.3 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Grass", "Dark"]}
+{"Nome": "Revavroom", "Número": "", "Peso": "120.0 kg (264.6 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Steel", "Poison"]}
+{"Nome": "Varoom", "Número": "", "Peso": "35.0 kg (77.2 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Steel", "Poison"]}
+{"Nome": "Cyclizar", "Número": "", "Peso": "63.0 kg (138.9 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Dragon", "Normal"]}
+{"Nome": "Palafin", "Número": "", "Peso": "60.2 kg (132.7 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Water", "Water"]}
+{"Nome": "Scream Tail", "Número": "", "Peso": "8.0 kg (17.6 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Fairy", "Psychic"]}
+{"Nome": "Bombirdier", "Número": "", "Peso": "42.9 kg (94.6 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Flying", "Dark"]}
+{"Nome": "Wugtrio", "Número": "", "Peso": "5.4 kg (11.9 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water"]}
+{"Nome": "Tinkaton", "Número": "", "Peso": "112.8 kg (248.7 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fairy", "Steel"]}
+{"Nome": "Wiglett", "Número": "", "Peso": "1.8 kg (4.0 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water"]}
+{"Nome": "Dudunsparce", "Número": "", "Peso": "39.2 kg (86.4 lbs)", "Altura": "3.6 m (11′10″)", "Tipos": ["Normal", "Normal"]}
+{"Nome": "Rabsca", "Número": "", "Peso": "3.5 kg (7.7 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug", "Psychic"]}
+{"Nome": "Espathra", "Número": "", "Peso": "90.0 kg (198.4 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Psychic"]}
+{"Nome": "Scovillain", "Número": "", "Peso": "15.0 kg (33.1 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Grass", "Fire"]}
+{"Nome": "Tinkatink", "Número": "", "Peso": "8.9 kg (19.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Fairy", "Steel"]}
+{"Nome": "Capsakid", "Número": "", "Peso": "3.0 kg (6.6 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass"]}
+{"Nome": "Rellor", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Bug"]}
+{"Nome": "Toedscruel", "Número": "", "Peso": "58.0 kg (127.9 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Ground", "Grass"]}
+{"Nome": "Klawf", "Número": "", "Peso": "79.0 kg (174.2 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Rock"]}
+{"Nome": "Brambleghast", "Número": "", "Peso": "6.0 kg (13.2 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Grass", "Ghost"]}
+{"Nome": "Finizen", "Número": "", "Peso": "60.2 kg (132.7 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Water"]}
+{"Nome": "Bramblin", "Número": "", "Peso": "0.6 kg (1.3 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Grass", "Ghost"]}
+{"Nome": "Flittle", "Número": "", "Peso": "1.5 kg (3.3 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Psychic"]}
+{"Nome": "Maschiff", "Número": "", "Peso": "16.0 kg (35.3 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Dark"]}
+{"Nome": "Mabosstiff", "Número": "", "Peso": "61.0 kg (134.5 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Dark"]}
+{"Nome": "Toedscool", "Número": "", "Peso": "33.0 kg (72.8 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Ground", "Grass"]}
+{"Nome": "Grafaiai", "Número": "", "Peso": "27.2 kg (60.0 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Poison", "Normal"]}
+{"Nome": "Tinkatuff", "Número": "", "Peso": "59.1 kg (130.3 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fairy", "Steel"]}
+{"Nome": "Shroodle", "Número": "", "Peso": "0.7 kg (1.5 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Poison", "Normal"]}
+{"Nome": "Wattrel", "Número": "", "Peso": "3.6 kg (7.9 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Electric", "Flying"]}
+{"Nome": "Kilowattrel", "Número": "", "Peso": "38.6 kg (85.1 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Electric", "Flying"]}
+{"Nome": "Bellibolt", "Número": "", "Peso": "113.0 kg (249.1 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Electric"]}
+{"Nome": "Armarouge", "Número": "", "Peso": "85.0 kg (187.4 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Fire", "Psychic"]}
+{"Nome": "Ceruledge", "Número": "", "Peso": "62.0 kg (136.7 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Fire", "Ghost"]}
+{"Nome": "Tadbulb", "Número": "", "Peso": "0.4 kg (0.9 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Electric"]}
+{"Nome": "Charcadet", "Número": "", "Peso": "10.5 kg (23.1 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fire"]}
+{"Nome": "Garganacl", "Número": "", "Peso": "240.0 kg (529.1 lbs)", "Altura": "2.3 m (7′07″)", "Tipos": ["Rock"]}
+{"Nome": "Squawkabilly", "Número": "", "Peso": "2.4 kg (5.3 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal", "Flying", "Normal", "Flying", "Normal", "Flying", "Normal", "Flying"]}
+{"Nome": "Naclstack", "Número": "", "Peso": "105.0 kg (231.5 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Rock"]}
+{"Nome": "Smoliv", "Número": "", "Peso": "6.5 kg (14.3 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass", "Normal"]}
+{"Nome": "Dolliv", "Número": "", "Peso": "11.9 kg (26.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Grass", "Normal"]}
+{"Nome": "Arboliva", "Número": "", "Peso": "48.2 kg (106.3 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Grass", "Normal"]}
+{"Nome": "Clodsire", "Número": "", "Peso": "223.0 kg (491.6 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Poison", "Ground"]}
+{"Nome": "Dachsbun", "Número": "", "Peso": "14.9 kg (32.8 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Fairy"]}
+{"Nome": "Fidough", "Número": "", "Peso": "10.9 kg (24.0 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Fairy"]}
+{"Nome": "Pawmot", "Número": "", "Peso": "41.0 kg (90.4 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Electric", "Fighting"]}
+{"Nome": "Pawmo", "Número": "", "Peso": "6.5 kg (14.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Electric", "Fighting"]}
+{"Nome": "Pawmi", "Número": "", "Peso": "2.5 kg (5.5 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Electric"]}
+{"Nome": "Tandemaus", "Número": "", "Peso": "1.8 kg (4.0 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal"]}
+{"Nome": "Lokix", "Número": "", "Peso": "17.5 kg (38.6 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Bug", "Dark"]}
+{"Nome": "Maushold", "Número": "", "Peso": "2.8 kg (6.2 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Normal"]}
+{"Nome": "Nacli", "Número": "", "Peso": "16.0 kg (35.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Rock"]}
+{"Nome": "Crocalor", "Número": "", "Peso": "30.7 kg (67.7 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Fire"]}
+{"Nome": "Fuecoco", "Número": "", "Peso": "9.8 kg (21.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Fire"]}
+{"Nome": "Nymble", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Bug"]}
+{"Nome": "Skeledirge", "Número": "", "Peso": "326.5 kg (719.8 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Fire", "Ghost"]}
+{"Nome": "Floragato", "Número": "", "Peso": "12.2 kg (26.9 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Grass"]}
+{"Nome": "Sprigatito", "Número": "", "Peso": "4.1 kg (9.0 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass"]}
+{"Nome": "Kleavor", "Número": "", "Peso": "89.0 kg (196.2 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Bug", "Rock"]}
+{"Nome": "Overqwil", "Número": "", "Peso": "60.5 kg (133.4 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Dark", "Poison"]}
+{"Nome": "Ursaluna", "Número": "", "Peso": "290.0 kg (639.3 lbs)", "Altura": "2.4 m (7′10″)", "Tipos": ["Ground", "Normal", "Ground", "Normal"]}
+{"Nome": "Basculegion", "Número": "", "Peso": "110.0 kg (242.5 lbs)", "Altura": "3.0 m (9′10″)", "Tipos": ["Water", "Ghost", "Water", "Ghost"]}
+{"Nome": "Regidrago", "Número": "", "Peso": "200.0 kg (440.9 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Dragon"]}
+{"Nome": "Glastrier", "Número": "", "Peso": "800.0 kg (1763.7 lbs)", "Altura": "2.2 m (7′03″)", "Tipos": ["Ice"]}
+{"Nome": "Spectrier", "Número": "", "Peso": "44.5 kg (98.1 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Ghost"]}
+{"Nome": "Meowscarada", "Número": "", "Peso": "31.2 kg (68.8 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Grass", "Dark"]}
+{"Nome": "Regieleki", "Número": "", "Peso": "145.0 kg (319.7 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Electric"]}
+{"Nome": "Enamorus", "Número": "", "Peso": "48.0 kg (105.8 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Fairy", "Flying", "Fairy", "Flying"]}
+{"Nome": "Zarude", "Número": "", "Peso": "70.0 kg (154.3 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Dark", "Grass"]}
+{"Nome": "Urshifu", "Número": "", "Peso": "105.0 kg (231.5 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Fighting", "Dark", "Fighting", "Water"]}
+{"Nome": "Kubfu", "Número": "", "Peso": "12.0 kg (26.5 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fighting"]}
+{"Nome": "Wyrdeer", "Número": "", "Peso": "95.1 kg (209.7 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Normal", "Psychic"]}
+{"Nome": "Calyrex", "Número": "", "Peso": "7.7 kg (17.0 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Psychic", "Grass", "Psychic", "Ice", "Psychic", "Ghost"]}
+{"Nome": "Zacian", "Número": "", "Peso": "110.0 kg (242.5 lbs)", "Altura": "2.8 m (9′02″)", "Tipos": ["Fairy", "Fairy", "Steel"]}
+{"Nome": "Zamazenta", "Número": "", "Peso": "210.0 kg (463.0 lbs)", "Altura": "2.9 m (9′06″)", "Tipos": ["Fighting", "Fighting", "Steel"]}
+{"Nome": "Dragapult", "Número": "", "Peso": "50.0 kg (110.2 lbs)", "Altura": "3.0 m (9′10″)", "Tipos": ["Dragon", "Ghost"]}
+{"Nome": "Eternatus", "Número": "", "Peso": "950.0 kg (2094.4 lbs)", "Altura": "20.0 m (65′07″)", "Tipos": ["Poison", "Dragon", "Poison", "Dragon"]}
+{"Nome": "Dreepy", "Número": "", "Peso": "2.0 kg (4.4 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Dragon", "Ghost"]}
+{"Nome": "Dracovish", "Número": "", "Peso": "215.0 kg (474.0 lbs)", "Altura": "2.3 m (7′07″)", "Tipos": ["Water", "Dragon"]}
+{"Nome": "Dracozolt", "Número": "", "Peso": "190.0 kg (418.9 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Electric", "Dragon"]}
+{"Nome": "Arctozolt", "Número": "", "Peso": "150.0 kg (330.7 lbs)", "Altura": "2.3 m (7′07″)", "Tipos": ["Electric", "Ice"]}
+{"Nome": "Drakloak", "Número": "", "Peso": "11.0 kg (24.3 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Dragon", "Ghost"]}
+{"Nome": "Indeedee", "Número": "", "Peso": "28.0 kg (61.7 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Psychic", "Normal", "Psychic", "Normal"]}
+{"Nome": "Duraludon", "Número": "", "Peso": "40.0 kg (88.2 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Steel", "Dragon"]}
+{"Nome": "Morpeko", "Número": "", "Peso": "3.0 kg (6.6 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Electric", "Dark", "Electric", "Dark"]}
+{"Nome": "Eiscue", "Número": "", "Peso": "89.0 kg (196.2 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Ice", "Ice"]}
+{"Nome": "Arctovish", "Número": "", "Peso": "175.0 kg (385.8 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Water", "Ice"]}
+{"Nome": "Frosmoth", "Número": "", "Peso": "42.0 kg (92.6 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Ice", "Bug"]}
+{"Nome": "Snom", "Número": "", "Peso": "3.8 kg (8.4 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Ice", "Bug"]}
+{"Nome": "Copperajah", "Número": "", "Peso": "650.0 kg (1433.0 lbs)", "Altura": "3.0 m (9′10″)", "Tipos": ["Steel"]}
+{"Nome": "Stonjourner", "Número": "", "Peso": "520.0 kg (1146.4 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Rock"]}
+{"Nome": "Cufant", "Número": "", "Peso": "100.0 kg (220.5 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Steel"]}
+{"Nome": "Alcremie", "Número": "", "Peso": "0.5 kg (1.1 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Fairy"]}
+{"Nome": "Runerigus", "Número": "", "Peso": "66.6 kg (146.8 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Ground", "Ghost"]}
+{"Nome": "Milcery", "Número": "", "Peso": "0.3 kg (0.7 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Fairy"]}
+{"Nome": "Perrserker", "Número": "", "Peso": "28.0 kg (61.7 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Steel"]}
+{"Nome": "Cursola", "Número": "", "Peso": "0.4 kg (0.9 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Ghost"]}
+{"Nome": "Grimmsnarl", "Número": "", "Peso": "61.0 kg (134.5 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Dark", "Fairy"]}
+{"Nome": "Sneasler", "Número": "", "Peso": "43.0 kg (94.8 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Fighting", "Poison"]}
+{"Nome": "Impidimp", "Número": "", "Peso": "5.5 kg (12.1 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Dark", "Fairy"]}
+{"Nome": "Obstagoon", "Número": "", "Peso": "46.0 kg (101.4 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Dark", "Normal"]}
+{"Nome": "Morgrem", "Número": "", "Peso": "12.5 kg (27.6 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Dark", "Fairy"]}
+{"Nome": "Pincurchin", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Electric"]}
+{"Nome": "Hatenna", "Número": "", "Peso": "3.4 kg (7.5 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Psychic"]}
+{"Nome": "Falinks", "Número": "", "Peso": "62.0 kg (136.7 lbs)", "Altura": "3.0 m (9′10″)", "Tipos": ["Fighting"]}
+{"Nome": "Hatterene", "Número": "", "Peso": "5.1 kg (11.2 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Psychic", "Fairy"]}
+{"Nome": "Mr. Rime", "Número": "", "Peso": "58.2 kg (128.3 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Ice", "Psychic"]}
+{"Nome": "Hattrem", "Número": "", "Peso": "4.8 kg (10.6 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Psychic"]}
+{"Nome": "Polteageist", "Número": "", "Peso": "0.4 kg (0.9 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Ghost"]}
+{"Nome": "Toxtricity", "Número": "", "Peso": "40.0 kg (88.2 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Electric", "Poison", "Electric", "Poison"]}
+{"Nome": "Sizzlipede", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fire", "Bug"]}
+{"Nome": "Centiskorch", "Número": "", "Peso": "120.0 kg (264.6 lbs)", "Altura": "3.0 m (9′10″)", "Tipos": ["Fire", "Bug"]}
+{"Nome": "Toxel", "Número": "", "Peso": "11.0 kg (24.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Electric", "Poison"]}
+{"Nome": "Arrokuda", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Water"]}
+{"Nome": "Barraskewda", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Water"]}
+{"Nome": "Sandaconda", "Número": "", "Peso": "65.5 kg (144.4 lbs)", "Altura": "3.8 m (12′06″)", "Tipos": ["Ground"]}
+{"Nome": "Cramorant", "Número": "", "Peso": "18.0 kg (39.7 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Flying", "Water"]}
+{"Nome": "Sinistea", "Número": "", "Peso": "0.2 kg (0.4 lbs)", "Altura": "0.1 m (0′04″)", "Tipos": ["Ghost"]}
+{"Nome": "Clobbopus", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fighting"]}
+{"Nome": "Applin", "Número": "", "Peso": "0.5 kg (1.1 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Grass", "Dragon"]}
+{"Nome": "Silicobra", "Número": "", "Peso": "7.6 kg (16.8 lbs)", "Altura": "2.2 m (7′03″)", "Tipos": ["Ground"]}
+{"Nome": "Appletun", "Número": "", "Peso": "13.0 kg (28.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass", "Dragon"]}
+{"Nome": "Grapploct", "Número": "", "Peso": "39.0 kg (86.0 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Fighting"]}
+{"Nome": "Flapple", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass", "Dragon"]}
+{"Nome": "Carkol", "Número": "", "Peso": "78.0 kg (172.0 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Rock", "Fire"]}
+{"Nome": "Coalossal", "Número": "", "Peso": "310.5 kg (684.5 lbs)", "Altura": "2.8 m (9′02″)", "Tipos": ["Rock", "Fire"]}
+{"Nome": "Eldegoss", "Número": "", "Peso": "2.5 kg (5.5 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Grass"]}
+{"Nome": "Wooloo", "Número": "", "Peso": "6.0 kg (13.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal"]}
+{"Nome": "Chewtle", "Número": "", "Peso": "8.5 kg (18.7 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Water"]}
+{"Nome": "Boltund", "Número": "", "Peso": "34.0 kg (75.0 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Electric"]}
+{"Nome": "Drednaw", "Número": "", "Peso": "115.5 kg (254.6 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Water", "Rock"]}
+{"Nome": "Rolycoly", "Número": "", "Peso": "12.0 kg (26.5 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Rock"]}
+{"Nome": "Sirfetch'd", "Número": "", "Peso": "117.0 kg (257.9 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Fighting"]}
+{"Nome": "Gossifleur", "Número": "", "Peso": "2.2 kg (4.9 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass"]}
+{"Nome": "Skwovet", "Número": "", "Peso": "2.5 kg (5.5 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal"]}
+{"Nome": "Inteleon", "Número": "", "Peso": "45.2 kg (99.6 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Water"]}
+{"Nome": "Drizzile", "Número": "", "Peso": "11.5 kg (25.4 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Water"]}
+{"Nome": "Thievul", "Número": "", "Peso": "19.9 kg (43.9 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Dark"]}
+{"Nome": "Scorbunny", "Número": "", "Peso": "4.5 kg (9.9 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Fire"]}
+{"Nome": "Sobble", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Water"]}
+{"Nome": "Raboot", "Número": "", "Peso": "9.0 kg (19.8 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fire"]}
+{"Nome": "Yamper", "Número": "", "Peso": "13.5 kg (29.8 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Electric"]}
+{"Nome": "Rillaboom", "Número": "", "Peso": "90.0 kg (198.4 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Grass"]}
+{"Nome": "Grookey", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass"]}
+{"Nome": "Thwackey", "Número": "", "Peso": "14.0 kg (30.9 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Grass"]}
+{"Nome": "Nickit", "Número": "", "Peso": "8.9 kg (19.6 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Dark"]}
+{"Nome": "Meltan", "Número": "", "Peso": "8.0 kg (17.6 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Steel"]}
+{"Nome": "Cinderace", "Número": "", "Peso": "33.0 kg (72.8 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Fire"]}
+{"Nome": "Zeraora", "Número": "", "Peso": "44.5 kg (98.1 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Electric"]}
+{"Nome": "Naganadel", "Número": "", "Peso": "150.0 kg (330.7 lbs)", "Altura": "3.6 m (11′10″)", "Tipos": ["Poison", "Dragon"]}
+{"Nome": "Blacephalon", "Número": "", "Peso": "13.0 kg (28.7 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Fire", "Ghost"]}
+{"Nome": "Marshadow", "Número": "", "Peso": "22.2 kg (48.9 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fighting", "Ghost"]}
+{"Nome": "Magearna", "Número": "", "Peso": "80.5 kg (177.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Steel", "Fairy"]}
+{"Nome": "Kartana", "Número": "", "Peso": "0.1 kg (0.2 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass", "Steel"]}
+{"Nome": "Guzzlord", "Número": "", "Peso": "888.0 kg (1957.7 lbs)", "Altura": "5.5 m (18′01″)", "Tipos": ["Dark", "Dragon"]}
+{"Nome": "Melmetal", "Número": "", "Peso": "800.0 kg (1763.7 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Steel"]}
+{"Nome": "Celesteela", "Número": "", "Peso": "999.9 kg (2204.4 lbs)", "Altura": "9.2 m (30′02″)", "Tipos": ["Steel", "Flying"]}
+{"Nome": "Xurkitree", "Número": "", "Peso": "100.0 kg (220.5 lbs)", "Altura": "3.8 m (12′06″)", "Tipos": ["Electric"]}
+{"Nome": "Necrozma", "Número": "", "Peso": "230.0 kg (507.1 lbs)", "Altura": "2.4 m (7′10″)", "Tipos": ["Psychic", "Psychic", "Steel", "Psychic", "Ghost", "Psychic", "Dragon"]}
+{"Nome": "Stakataka", "Número": "", "Peso": "820.0 kg (1807.8 lbs)", "Altura": "5.5 m (18′01″)", "Tipos": ["Rock", "Steel"]}
+{"Nome": "Buzzwole", "Número": "", "Peso": "333.6 kg (735.5 lbs)", "Altura": "2.4 m (7′10″)", "Tipos": ["Bug", "Fighting"]}
+{"Nome": "Solgaleo", "Número": "", "Peso": "230.0 kg (507.1 lbs)", "Altura": "3.4 m (11′02″)", "Tipos": ["Psychic", "Steel"]}
+{"Nome": "Nihilego", "Número": "", "Peso": "55.5 kg (122.4 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Rock", "Poison"]}
+{"Nome": "Tapu Fini", "Número": "", "Peso": "21.2 kg (46.7 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Water", "Fairy"]}
+{"Nome": "Cosmog", "Número": "", "Peso": "0.1 kg (0.2 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Psychic"]}
+{"Nome": "Poipole", "Número": "", "Peso": "1.8 kg (4.0 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Poison"]}
+{"Nome": "Tapu Bulu", "Número": "", "Peso": "45.5 kg (100.3 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Grass", "Fairy"]}
+{"Nome": "Kommo-o", "Número": "", "Peso": "78.2 kg (172.4 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Dragon", "Fighting"]}
+{"Nome": "Tapu Koko", "Número": "", "Peso": "20.5 kg (45.2 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Electric", "Fairy"]}
+{"Nome": "Hakamo-o", "Número": "", "Peso": "47.0 kg (103.6 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Dragon", "Fighting"]}
+{"Nome": "Jangmo-o", "Número": "", "Peso": "29.7 kg (65.5 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Dragon"]}
+{"Nome": "Dhelmise", "Número": "", "Peso": "210.0 kg (463.0 lbs)", "Altura": "3.9 m (12′10″)", "Tipos": ["Ghost", "Grass"]}
+{"Nome": "Lunala", "Número": "", "Peso": "120.0 kg (264.6 lbs)", "Altura": "4.0 m (13′01″)", "Tipos": ["Psychic", "Ghost"]}
+{"Nome": "Cosmoem", "Número": "", "Peso": "999.9 kg (2204.4 lbs)", "Altura": "0.1 m (0′04″)", "Tipos": ["Psychic"]}
+{"Nome": "Pheromosa", "Número": "", "Peso": "25.0 kg (55.1 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Bug", "Fighting"]}
+{"Nome": "Tapu Lele", "Número": "", "Peso": "18.6 kg (41.0 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Psychic", "Fairy"]}
+{"Nome": "Bruxish", "Número": "", "Peso": "19.0 kg (41.9 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Water", "Psychic"]}
+{"Nome": "Drampa", "Número": "", "Peso": "185.0 kg (407.9 lbs)", "Altura": "3.0 m (9′10″)", "Tipos": ["Normal", "Dragon"]}
+{"Nome": "Turtonator", "Número": "", "Peso": "212.0 kg (467.4 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Fire", "Dragon"]}
+{"Nome": "Mimikyu", "Número": "", "Peso": "0.7 kg (1.5 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Ghost", "Fairy"]}
+{"Nome": "Pyukumuku", "Número": "", "Peso": "1.2 kg (2.6 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Water"]}
+{"Nome": "Type: Null", "Número": "", "Peso": "120.5 kg (265.7 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Normal"]}
+{"Nome": "Komala", "Número": "", "Peso": "19.9 kg (43.9 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Normal"]}
+{"Nome": "Minior", "Número": "", "Peso": "40.0 kg (88.2 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Rock", "Flying", "Rock", "Flying"]}
+{"Nome": "Wimpod", "Número": "", "Peso": "12.0 kg (26.5 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Bug", "Water"]}
+{"Nome": "Passimian", "Número": "", "Peso": "82.8 kg (182.5 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Fighting"]}
+{"Nome": "Sandygast", "Número": "", "Peso": "70.0 kg (154.3 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Ghost", "Ground"]}
+{"Nome": "Golisopod", "Número": "", "Peso": "108.0 kg (238.1 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Bug", "Water"]}
+{"Nome": "Togedemaru", "Número": "", "Peso": "3.3 kg (7.3 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Electric", "Steel"]}
+{"Nome": "Silvally", "Número": "", "Peso": "100.5 kg (221.6 lbs)", "Altura": "2.3 m (7′07″)", "Tipos": ["Normal", "Type: Null"]}
+{"Nome": "Tsareena", "Número": "", "Peso": "21.4 kg (47.2 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Grass"]}
+{"Nome": "Comfey", "Número": "", "Peso": "0.3 kg (0.7 lbs)", "Altura": "0.1 m (0′04″)", "Tipos": ["Fairy"]}
+{"Nome": "Bounsweet", "Número": "", "Peso": "3.2 kg (7.1 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass"]}
+{"Nome": "Stufful", "Número": "", "Peso": "6.8 kg (15.0 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Normal", "Fighting"]}
+{"Nome": "Salandit", "Número": "", "Peso": "4.8 kg (10.6 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Poison", "Fire"]}
+{"Nome": "Salazzle", "Número": "", "Peso": "22.2 kg (48.9 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Poison", "Fire"]}
+{"Nome": "Shiinotic", "Número": "", "Peso": "11.5 kg (25.4 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Grass", "Fairy"]}
+{"Nome": "Palossand", "Número": "", "Peso": "250.0 kg (551.2 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Ghost", "Ground"]}
+{"Nome": "Morelull", "Número": "", "Peso": "1.5 kg (3.3 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Grass", "Fairy"]}
+{"Nome": "Oranguru", "Número": "", "Peso": "76.0 kg (167.6 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Normal", "Psychic"]}
+{"Nome": "Fomantis", "Número": "", "Peso": "1.5 kg (3.3 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass"]}
+{"Nome": "Steenee", "Número": "", "Peso": "8.2 kg (18.1 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Grass"]}
+{"Nome": "Lurantis", "Número": "", "Peso": "18.5 kg (40.8 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Grass"]}
+{"Nome": "Araquanid", "Número": "", "Peso": "82.0 kg (180.8 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Water", "Bug"]}
+{"Nome": "Dewpider", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Water", "Bug"]}
+{"Nome": "Bewear", "Número": "", "Peso": "135.0 kg (297.6 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Normal", "Fighting"]}
+{"Nome": "Lycanroc", "Número": "", "Peso": "25.0 kg (55.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Rock", "Rock", "Rock"]}
+{"Nome": "Mareanie", "Número": "", "Peso": "8.0 kg (17.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Poison", "Water"]}
+{"Nome": "Wishiwashi", "Número": "", "Peso": "0.3 kg (0.7 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Water", "Water"]}
+{"Nome": "Mudsdale", "Número": "", "Peso": "920.0 kg (2028.3 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Ground"]}
+{"Nome": "Mudbray", "Número": "", "Peso": "110.0 kg (242.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Ground"]}
+{"Nome": "Toxapex", "Número": "", "Peso": "14.5 kg (32.0 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Poison", "Water"]}
+{"Nome": "Charjabug", "Número": "", "Peso": "10.5 kg (23.1 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Bug", "Electric"]}
+{"Nome": "Oricorio", "Número": "", "Peso": "3.4 kg (7.5 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fire", "Flying", "Electric", "Flying", "Psychic", "Flying", "Ghost", "Flying"]}
+{"Nome": "Cutiefly", "Número": "", "Peso": "0.2 kg (0.4 lbs)", "Altura": "0.1 m (0′04″)", "Tipos": ["Bug", "Fairy"]}
+{"Nome": "Crabrawler", "Número": "", "Peso": "7.0 kg (15.4 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fighting"]}
+{"Nome": "Crabominable", "Número": "", "Peso": "180.0 kg (396.8 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Fighting", "Ice"]}
+{"Nome": "Vikavolt", "Número": "", "Peso": "45.0 kg (99.2 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Bug", "Electric"]}
+{"Nome": "Gumshoos", "Número": "", "Peso": "14.2 kg (31.3 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Normal"]}
+{"Nome": "Grubbin", "Número": "", "Peso": "4.4 kg (9.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Bug"]}
+{"Nome": "Toucannon", "Número": "", "Peso": "26.0 kg (57.3 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Rockruff", "Número": "", "Peso": "9.2 kg (20.3 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Rock", "Rock"]}
+{"Nome": "Yungoos", "Número": "", "Peso": "6.0 kg (13.2 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Normal"]}
+{"Nome": "Ribombee", "Número": "", "Peso": "0.5 kg (1.1 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Bug", "Fairy"]}
+{"Nome": "Primarina", "Número": "", "Peso": "44.0 kg (97.0 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Water", "Fairy"]}
+{"Nome": "Popplio", "Número": "", "Peso": "7.5 kg (16.5 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water"]}
+{"Nome": "Incineroar", "Número": "", "Peso": "83.0 kg (183.0 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Fire", "Dark"]}
+{"Nome": "Brionne", "Número": "", "Peso": "17.5 kg (38.6 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water"]}
+{"Nome": "Litten", "Número": "", "Peso": "4.3 kg (9.5 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Fire"]}
+{"Nome": "Decidueye", "Número": "", "Peso": "36.6 kg (80.7 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Grass", "Ghost", "Grass", "Fighting"]}
+{"Nome": "Volcanion", "Número": "", "Peso": "195.0 kg (429.9 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Fire", "Water"]}
+{"Nome": "Trumbeak", "Número": "", "Peso": "14.8 kg (32.6 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Rowlet", "Número": "", "Peso": "1.5 kg (3.3 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass", "Flying"]}
+{"Nome": "Pikipek", "Número": "", "Peso": "1.2 kg (2.6 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Dartrix", "Número": "", "Peso": "16.0 kg (35.3 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Grass", "Flying"]}
+{"Nome": "Noibat", "Número": "", "Peso": "8.0 kg (17.6 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Flying", "Dragon"]}
+{"Nome": "Noivern", "Número": "", "Peso": "85.0 kg (187.4 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Flying", "Dragon"]}
+{"Nome": "Xerneas", "Número": "", "Peso": "215.0 kg (474.0 lbs)", "Altura": "3.0 m (9′10″)", "Tipos": ["Fairy"]}
+{"Nome": "Torracat", "Número": "", "Peso": "25.0 kg (55.1 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fire"]}
+{"Nome": "Zygarde", "Número": "", "Peso": "305.0 kg (672.4 lbs)", "Altura": "5.0 m (16′05″)", "Tipos": ["Dragon", "Ground", "Dragon", "Ground", "Dragon", "Ground"]}
+{"Nome": "Pumpkaboo", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Ghost", "Grass", "Ghost", "Grass", "Ghost", "Grass", "Ghost", "Grass"]}
+{"Nome": "Bergmite", "Número": "", "Peso": "99.5 kg (219.4 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Ice"]}
+{"Nome": "Phantump", "Número": "", "Peso": "7.0 kg (15.4 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Ghost", "Grass"]}
+{"Nome": "Gourgeist", "Número": "", "Peso": "12.5 kg (27.6 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Ghost", "Grass", "Ghost", "Grass", "Ghost", "Grass", "Ghost", "Grass"]}
+{"Nome": "Trevenant", "Número": "", "Peso": "71.0 kg (156.5 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Ghost", "Grass"]}
+{"Nome": "Yveltal", "Número": "", "Peso": "203.0 kg (447.5 lbs)", "Altura": "5.8 m (19′00″)", "Tipos": ["Dark", "Flying"]}
+{"Nome": "Hoopa", "Número": "", "Peso": "9.0 kg (19.8 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Psychic", "Ghost", "Psychic", "Dark"]}
+{"Nome": "Avalugg", "Número": "", "Peso": "505.0 kg (1113.3 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Ice", "Ice", "Rock"]}
+{"Nome": "Klefki", "Número": "", "Peso": "3.0 kg (6.6 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Steel", "Fairy"]}
+{"Nome": "Goodra", "Número": "", "Peso": "150.5 kg (331.8 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Dragon", "Steel", "Dragon"]}
+{"Nome": "Diancie", "Número": "", "Peso": "8.8 kg (19.4 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Rock", "Fairy", "Rock", "Fairy"]}
+{"Nome": "Goomy", "Número": "", "Peso": "2.8 kg (6.2 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Dragon"]}
+{"Nome": "Sliggoo", "Número": "", "Peso": "17.5 kg (38.6 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Dragon", "Steel", "Dragon"]}
+{"Nome": "Carbink", "Número": "", "Peso": "5.7 kg (12.6 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Rock", "Fairy"]}
+{"Nome": "Tyrunt", "Número": "", "Peso": "26.0 kg (57.3 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Rock", "Dragon"]}
+{"Nome": "Hawlucha", "Número": "", "Peso": "21.5 kg (47.4 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Fighting", "Flying"]}
+{"Nome": "Sylveon", "Número": "", "Peso": "23.5 kg (51.8 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Fairy"]}
+{"Nome": "Aurorus", "Número": "", "Peso": "225.0 kg (496.0 lbs)", "Altura": "2.7 m (8′10″)", "Tipos": ["Rock", "Ice"]}
+{"Nome": "Heliolisk", "Número": "", "Peso": "21.0 kg (46.3 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Electric", "Normal"]}
+{"Nome": "Tyrantrum", "Número": "", "Peso": "270.0 kg (595.2 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Rock", "Dragon"]}
+{"Nome": "Amaura", "Número": "", "Peso": "25.2 kg (55.6 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Rock", "Ice"]}
+{"Nome": "Dedenne", "Número": "", "Peso": "2.2 kg (4.9 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Electric", "Fairy"]}
+{"Nome": "Clawitzer", "Número": "", "Peso": "35.3 kg (77.8 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Water"]}
+{"Nome": "Skrelp", "Número": "", "Peso": "7.3 kg (16.1 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Poison", "Water"]}
+{"Nome": "Clauncher", "Número": "", "Peso": "8.3 kg (18.3 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Water"]}
+{"Nome": "Dragalge", "Número": "", "Peso": "81.5 kg (179.7 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Poison", "Dragon"]}
+{"Nome": "Binacle", "Número": "", "Peso": "31.0 kg (68.3 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Rock", "Water"]}
+{"Nome": "Barbaracle", "Número": "", "Peso": "96.0 kg (211.6 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Rock", "Water"]}
+{"Nome": "Helioptile", "Número": "", "Peso": "6.0 kg (13.2 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Electric", "Normal"]}
+{"Nome": "Inkay", "Número": "", "Peso": "3.5 kg (7.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Dark", "Psychic"]}
+{"Nome": "Slurpuff", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Fairy"]}
+{"Nome": "Pangoro", "Número": "", "Peso": "136.0 kg (299.8 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Fighting", "Dark"]}
+{"Nome": "Espurr", "Número": "", "Peso": "3.5 kg (7.7 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Psychic"]}
+{"Nome": "Furfrou", "Número": "", "Peso": "28.0 kg (61.7 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Normal"]}
+{"Nome": "Pancham", "Número": "", "Peso": "8.0 kg (17.6 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fighting"]}
+{"Nome": "Gogoat", "Número": "", "Peso": "91.0 kg (200.6 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Grass"]}
+{"Nome": "Litleo", "Número": "", "Peso": "13.5 kg (29.8 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fire", "Normal"]}
+{"Nome": "Florges", "Número": "", "Peso": "10.0 kg (22.0 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Fairy"]}
+{"Nome": "Floette", "Número": "", "Peso": "0.9 kg (2.0 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Fairy"]}
+{"Nome": "Skiddo", "Número": "", "Peso": "31.0 kg (68.3 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Grass"]}
+{"Nome": "Pyroar", "Número": "", "Peso": "81.5 kg (179.7 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Fire", "Normal"]}
+{"Nome": "Malamar", "Número": "", "Peso": "47.0 kg (103.6 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Dark", "Psychic"]}
+{"Nome": "Scatterbug", "Número": "", "Peso": "2.5 kg (5.5 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug"]}
+{"Nome": "Fletchling", "Número": "", "Peso": "1.7 kg (3.7 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Talonflame", "Número": "", "Peso": "24.5 kg (54.0 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Fire", "Flying"]}
+{"Nome": "Fletchinder", "Número": "", "Peso": "16.0 kg (35.3 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fire", "Flying"]}
+{"Nome": "Bunnelby", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Normal"]}
+{"Nome": "Greninja", "Número": "", "Peso": "40.0 kg (88.2 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Water", "Dark", "Water", "Dark"]}
+{"Nome": "Froakie", "Número": "", "Peso": "7.0 kg (15.4 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Water"]}
+{"Nome": "Flabébé", "Número": "", "Peso": "0.1 kg (0.2 lbs)", "Altura": "0.1 m (0′04″)", "Tipos": ["Fairy"]}
+{"Nome": "Frogadier", "Número": "", "Peso": "10.9 kg (24.0 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water"]}
+{"Nome": "Vivillon", "Número": "", "Peso": "17.0 kg (37.5 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Braixen", "Número": "", "Peso": "14.5 kg (32.0 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Fire"]}
+{"Nome": "Quilladin", "Número": "", "Peso": "29.0 kg (63.9 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Grass"]}
+{"Nome": "Spewpa", "Número": "", "Peso": "8.4 kg (18.5 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug"]}
+{"Nome": "Fennekin", "Número": "", "Peso": "9.4 kg (20.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Fire"]}
+{"Nome": "Chesnaught", "Número": "", "Peso": "90.0 kg (198.4 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Grass", "Fighting"]}
+{"Nome": "Delphox", "Número": "", "Peso": "39.0 kg (86.0 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Fire", "Psychic"]}
+{"Nome": "Diggersby", "Número": "", "Peso": "42.4 kg (93.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Normal", "Ground"]}
+{"Nome": "Genesect", "Número": "", "Peso": "82.5 kg (181.9 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Bug", "Steel"]}
+{"Nome": "Meloetta", "Número": "", "Peso": "6.5 kg (14.3 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal", "Psychic", "Normal", "Fighting"]}
+{"Nome": "Keldeo", "Número": "", "Peso": "48.5 kg (106.9 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Water", "Fighting", "Water", "Fighting"]}
+{"Nome": "Reshiram", "Número": "", "Peso": "330.0 kg (727.5 lbs)", "Altura": "3.2 m (10′06″)", "Tipos": ["Dragon", "Fire"]}
+{"Nome": "Volcarona", "Número": "", "Peso": "46.0 kg (101.4 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Bug", "Fire"]}
+{"Nome": "Thundurus", "Número": "", "Peso": "61.0 kg (134.5 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Electric", "Flying", "Electric", "Flying"]}
+{"Nome": "Terrakion", "Número": "", "Peso": "260.0 kg (573.2 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Rock", "Fighting"]}
+{"Nome": "Cobalion", "Número": "", "Peso": "250.0 kg (551.2 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Steel", "Fighting"]}
+{"Nome": "Zekrom", "Número": "", "Peso": "345.0 kg (760.6 lbs)", "Altura": "2.9 m (9′06″)", "Tipos": ["Dragon", "Electric"]}
+{"Nome": "Landorus", "Número": "", "Peso": "68.0 kg (149.9 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Ground", "Flying", "Ground", "Flying"]}
+{"Nome": "Virizion", "Número": "", "Peso": "200.0 kg (440.9 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Grass", "Fighting"]}
+{"Nome": "Tornadus", "Número": "", "Peso": "63.0 kg (138.9 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Flying", "Flying"]}
+{"Nome": "Kyurem", "Número": "", "Peso": "325.0 kg (716.5 lbs)", "Altura": "3.0 m (9′10″)", "Tipos": ["Dragon", "Ice", "Dragon", "Ice", "Dragon", "Ice"]}
+{"Nome": "Chespin", "Número": "", "Peso": "9.0 kg (19.8 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass"]}
+{"Nome": "Deino", "Número": "", "Peso": "17.3 kg (38.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Dark", "Dragon"]}
+{"Nome": "Larvesta", "Número": "", "Peso": "28.8 kg (63.5 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Bug", "Fire"]}
+{"Nome": "Heatmor", "Número": "", "Peso": "58.0 kg (127.9 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Fire"]}
+{"Nome": "Mandibuzz", "Número": "", "Peso": "39.5 kg (87.1 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Dark", "Flying"]}
+{"Nome": "Zweilous", "Número": "", "Peso": "50.0 kg (110.2 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Dark", "Dragon"]}
+{"Nome": "Hydreigon", "Número": "", "Peso": "160.0 kg (352.7 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Dark", "Dragon"]}
+{"Nome": "Durant", "Número": "", "Peso": "33.0 kg (72.8 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug", "Steel"]}
+{"Nome": "Vullaby", "Número": "", "Peso": "9.0 kg (19.8 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Dark", "Flying"]}
+{"Nome": "Bouffalant", "Número": "", "Peso": "94.6 kg (208.6 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Normal"]}
+{"Nome": "Shelmet", "Número": "", "Peso": "7.7 kg (17.0 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Bug"]}
+{"Nome": "Braviary", "Número": "", "Peso": "41.0 kg (90.4 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Normal", "Flying", "Psychic", "Flying"]}
+{"Nome": "Accelgor", "Número": "", "Peso": "25.3 kg (55.8 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Bug"]}
+{"Nome": "Cryogonal", "Número": "", "Peso": "148.0 kg (326.3 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Ice"]}
+{"Nome": "Stunfisk", "Número": "", "Peso": "11.0 kg (24.3 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Ground", "Electric", "Ground", "Steel"]}
+{"Nome": "Rufflet", "Número": "", "Peso": "10.5 kg (23.1 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Chandelure", "Número": "", "Peso": "34.3 kg (75.6 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Ghost", "Fire"]}
+{"Nome": "Axew", "Número": "", "Peso": "18.0 kg (39.7 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Dragon"]}
+{"Nome": "Litwick", "Número": "", "Peso": "3.1 kg (6.8 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Ghost", "Fire"]}
+{"Nome": "Lampent", "Número": "", "Peso": "13.0 kg (28.7 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Ghost", "Fire"]}
+{"Nome": "Fraxure", "Número": "", "Peso": "36.0 kg (79.4 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Dragon"]}
+{"Nome": "Haxorus", "Número": "", "Peso": "105.5 kg (232.6 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Dragon"]}
+{"Nome": "Beheeyem", "Número": "", "Peso": "34.5 kg (76.1 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Psychic"]}
+{"Nome": "Eelektross", "Número": "", "Peso": "80.5 kg (177.5 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Electric"]}
+{"Nome": "Klinklang", "Número": "", "Peso": "81.0 kg (178.6 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Steel"]}
+{"Nome": "Tynamo", "Número": "", "Peso": "0.3 kg (0.7 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Electric"]}
+{"Nome": "Eelektrik", "Número": "", "Peso": "22.0 kg (48.5 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Electric"]}
+{"Nome": "Beartic", "Número": "", "Peso": "260.0 kg (573.2 lbs)", "Altura": "2.6 m (8′06″)", "Tipos": ["Ice"]}
+{"Nome": "Cubchoo", "Número": "", "Peso": "8.5 kg (18.7 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Ice"]}
+{"Nome": "Ferroseed", "Número": "", "Peso": "18.8 kg (41.4 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Grass", "Steel"]}
+{"Nome": "Ferrothorn", "Número": "", "Peso": "110.0 kg (242.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Grass", "Steel"]}
+{"Nome": "Klink", "Número": "", "Peso": "21.0 kg (46.3 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Steel"]}
+{"Nome": "Galvantula", "Número": "", "Peso": "14.3 kg (31.5 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Bug", "Electric"]}
+{"Nome": "Klang", "Número": "", "Peso": "51.0 kg (112.4 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Steel"]}
+{"Nome": "Joltik", "Número": "", "Peso": "0.6 kg (1.3 lbs)", "Altura": "0.1 m (0′04″)", "Tipos": ["Bug", "Electric"]}
+{"Nome": "Elgyem", "Número": "", "Peso": "9.0 kg (19.8 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Psychic"]}
+{"Nome": "Jellicent", "Número": "", "Peso": "135.0 kg (297.6 lbs)", "Altura": "2.2 m (7′03″)", "Tipos": ["Water", "Ghost"]}
+{"Nome": "Escavalier", "Número": "", "Peso": "33.0 kg (72.8 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Bug", "Steel"]}
+{"Nome": "Foongus", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Amoonguss", "Número": "", "Peso": "10.5 kg (23.1 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Frillish", "Número": "", "Peso": "33.0 kg (72.8 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water", "Ghost"]}
+{"Nome": "Emolga", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Electric", "Flying"]}
+{"Nome": "Sawsbuck", "Número": "", "Peso": "92.5 kg (203.9 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Normal", "Grass"]}
+{"Nome": "Deerling", "Número": "", "Peso": "19.5 kg (43.0 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal", "Grass"]}
+{"Nome": "Vanilluxe", "Número": "", "Peso": "57.5 kg (126.8 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Ice"]}
+{"Nome": "Vanillite", "Número": "", "Peso": "5.7 kg (12.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Ice"]}
+{"Nome": "Vanillish", "Número": "", "Peso": "41.0 kg (90.4 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Ice"]}
+{"Nome": "Alomomola", "Número": "", "Peso": "31.6 kg (69.7 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water"]}
+{"Nome": "Swanna", "Número": "", "Peso": "24.2 kg (53.4 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Water", "Flying"]}
+{"Nome": "Reuniclus", "Número": "", "Peso": "20.1 kg (44.3 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Psychic"]}
+{"Nome": "Gothitelle", "Número": "", "Peso": "44.0 kg (97.0 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Psychic"]}
+{"Nome": "Ducklett", "Número": "", "Peso": "5.5 kg (12.1 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Water", "Flying"]}
+{"Nome": "Karrablast", "Número": "", "Peso": "5.9 kg (13.0 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Bug"]}
+{"Nome": "Minccino", "Número": "", "Peso": "5.8 kg (12.8 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Normal"]}
+{"Nome": "Cinccino", "Número": "", "Peso": "7.5 kg (16.5 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Normal"]}
+{"Nome": "Zoroark", "Número": "", "Peso": "81.1 kg (178.8 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Dark", "Normal", "Ghost"]}
+{"Nome": "Gothita", "Número": "", "Peso": "5.8 kg (12.8 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Psychic"]}
+{"Nome": "Solosis", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Psychic"]}
+{"Nome": "Garbodor", "Número": "", "Peso": "107.3 kg (236.6 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Poison"]}
+{"Nome": "Duosion", "Número": "", "Peso": "8.0 kg (17.6 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Psychic"]}
+{"Nome": "Archeops", "Número": "", "Peso": "32.0 kg (70.5 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Rock", "Flying"]}
+{"Nome": "Trubbish", "Número": "", "Peso": "31.0 kg (68.3 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Poison"]}
+{"Nome": "Carracosta", "Número": "", "Peso": "81.0 kg (178.6 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water", "Rock"]}
+{"Nome": "Sigilyph", "Número": "", "Peso": "14.0 kg (30.9 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Psychic", "Flying"]}
+{"Nome": "Archen", "Número": "", "Peso": "9.5 kg (20.9 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Rock", "Flying"]}
+{"Nome": "Gothorita", "Número": "", "Peso": "18.0 kg (39.7 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Psychic"]}
+{"Nome": "Tirtouga", "Número": "", "Peso": "16.5 kg (36.4 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Water", "Rock"]}
+{"Nome": "Cofagrigus", "Número": "", "Peso": "76.5 kg (168.7 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Ghost"]}
+{"Nome": "Yamask", "Número": "", "Peso": "1.5 kg (3.3 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Ghost", "Ground", "Ghost"]}
+{"Nome": "Crustle", "Número": "", "Peso": "200.0 kg (440.9 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Bug", "Rock"]}
+{"Nome": "Maractus", "Número": "", "Peso": "28.0 kg (61.7 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Grass"]}
+{"Nome": "Scraggy", "Número": "", "Peso": "11.8 kg (26.0 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Dark", "Fighting"]}
+{"Nome": "Dwebble", "Número": "", "Peso": "14.5 kg (32.0 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug", "Rock"]}
+{"Nome": "Darmanitan", "Número": "", "Peso": "92.9 kg (204.8 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Fire", "Fire", "Psychic", "Ice", "Ice", "Fire"]}
+{"Nome": "Zorua", "Número": "", "Peso": "12.5 kg (27.6 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Dark", "Normal", "Ghost"]}
+{"Nome": "Darumaka", "Número": "", "Peso": "37.5 kg (82.7 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fire", "Ice"]}
+{"Nome": "Scrafty", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Dark", "Fighting"]}
+{"Nome": "Krookodile", "Número": "", "Peso": "96.3 kg (212.3 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Ground", "Dark"]}
+{"Nome": "Krokorok", "Número": "", "Peso": "33.4 kg (73.6 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Ground", "Dark"]}
+{"Nome": "Sandile", "Número": "", "Peso": "15.2 kg (33.5 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Ground", "Dark"]}
+{"Nome": "Petilil", "Número": "", "Peso": "6.6 kg (14.6 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Grass"]}
+{"Nome": "Cottonee", "Número": "", "Peso": "0.6 kg (1.3 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass", "Fairy"]}
+{"Nome": "Basculin", "Número": "", "Peso": "18.0 kg (39.7 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Water", "Water", "Water"]}
+{"Nome": "Lilligant", "Número": "", "Peso": "16.3 kg (35.9 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Grass", "Grass", "Fighting"]}
+{"Nome": "Whirlipede", "Número": "", "Peso": "58.5 kg (129.0 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Bug", "Poison"]}
+{"Nome": "Scolipede", "Número": "", "Peso": "200.5 kg (442.0 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Bug", "Poison"]}
+{"Nome": "Sawk", "Número": "", "Peso": "51.0 kg (112.4 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Fighting"]}
+{"Nome": "Swadloon", "Número": "", "Peso": "7.3 kg (16.1 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Bug", "Grass"]}
+{"Nome": "Leavanny", "Número": "", "Peso": "20.5 kg (45.2 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Bug", "Grass"]}
+{"Nome": "Sewaddle", "Número": "", "Peso": "2.5 kg (5.5 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug", "Grass"]}
+{"Nome": "Venipede", "Número": "", "Peso": "5.3 kg (11.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Bug", "Poison"]}
+{"Nome": "Whimsicott", "Número": "", "Peso": "6.6 kg (14.6 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Grass", "Fairy"]}
+{"Nome": "Timburr", "Número": "", "Peso": "12.5 kg (27.6 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fighting"]}
+{"Nome": "Tympole", "Número": "", "Peso": "4.5 kg (9.9 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Water"]}
+{"Nome": "Gurdurr", "Número": "", "Peso": "40.0 kg (88.2 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Fighting"]}
+{"Nome": "Conkeldurr", "Número": "", "Peso": "87.0 kg (191.8 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Fighting"]}
+{"Nome": "Excadrill", "Número": "", "Peso": "40.4 kg (89.1 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Ground", "Steel"]}
+{"Nome": "Swoobat", "Número": "", "Peso": "10.5 kg (23.1 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Psychic", "Flying"]}
+{"Nome": "Woobat", "Número": "", "Peso": "2.1 kg (4.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Psychic", "Flying"]}
+{"Nome": "Seismitoad", "Número": "", "Peso": "62.0 kg (136.7 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Water", "Ground"]}
+{"Nome": "Drilbur", "Número": "", "Peso": "8.5 kg (18.7 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Ground"]}
+{"Nome": "Zebstrika", "Número": "", "Peso": "79.5 kg (175.3 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Electric"]}
+{"Nome": "Palpitoad", "Número": "", "Peso": "17.0 kg (37.5 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Water", "Ground"]}
+{"Nome": "Audino", "Número": "", "Peso": "31.0 kg (68.3 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Normal", "Normal", "Fairy"]}
+{"Nome": "Boldore", "Número": "", "Peso": "102.0 kg (224.9 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Rock"]}
+{"Nome": "Gigalith", "Número": "", "Peso": "260.0 kg (573.2 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Rock"]}
+{"Nome": "Roggenrola", "Número": "", "Peso": "18.0 kg (39.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Rock"]}
+{"Nome": "Tranquill", "Número": "", "Peso": "15.0 kg (33.1 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Unfezant", "Número": "", "Peso": "29.0 kg (63.9 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Simipour", "Número": "", "Peso": "29.0 kg (63.9 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Water"]}
+{"Nome": "Musharna", "Número": "", "Peso": "60.5 kg (133.4 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Psychic"]}
+{"Nome": "Pidove", "Número": "", "Peso": "2.1 kg (4.6 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Simisear", "Número": "", "Peso": "28.0 kg (61.7 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Fire"]}
+{"Nome": "Pansear", "Número": "", "Peso": "11.0 kg (24.3 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fire"]}
+{"Nome": "Pansage", "Número": "", "Peso": "10.5 kg (23.1 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Grass"]}
+{"Nome": "Purrloin", "Número": "", "Peso": "10.1 kg (22.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Dark"]}
+{"Nome": "Stoutland", "Número": "", "Peso": "61.0 kg (134.5 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Normal"]}
+{"Nome": "Liepard", "Número": "", "Peso": "37.5 kg (82.7 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Dark"]}
+{"Nome": "Blitzle", "Número": "", "Peso": "29.8 kg (65.7 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Electric"]}
+{"Nome": "Munna", "Número": "", "Peso": "23.3 kg (51.4 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Psychic"]}
+{"Nome": "Watchog", "Número": "", "Peso": "27.0 kg (59.5 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Normal"]}
+{"Nome": "Panpour", "Número": "", "Peso": "13.5 kg (29.8 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water"]}
+{"Nome": "Lillipup", "Número": "", "Peso": "4.1 kg (9.0 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Normal"]}
+{"Nome": "Samurott", "Número": "", "Peso": "94.6 kg (208.6 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Water", "Water", "Dark"]}
+{"Nome": "Patrat", "Número": "", "Peso": "11.6 kg (25.6 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Normal"]}
+{"Nome": "Simisage", "Número": "", "Peso": "30.5 kg (67.2 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Grass"]}
+{"Nome": "Oshawott", "Número": "", "Peso": "5.9 kg (13.0 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Water"]}
+{"Nome": "Dewott", "Número": "", "Peso": "24.5 kg (54.0 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Water"]}
+{"Nome": "Pignite", "Número": "", "Peso": "55.5 kg (122.4 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Fire", "Fighting"]}
+{"Nome": "Emboar", "Número": "", "Peso": "150.0 kg (330.7 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Fire", "Fighting"]}
+{"Nome": "Serperior", "Número": "", "Peso": "63.0 kg (138.9 lbs)", "Altura": "3.3 m (10′10″)", "Tipos": ["Grass"]}
+{"Nome": "Tepig", "Número": "", "Peso": "9.9 kg (21.8 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Fire"]}
+{"Nome": "Herdier", "Número": "", "Peso": "14.7 kg (32.4 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Normal"]}
+{"Nome": "Throh", "Número": "", "Peso": "55.5 kg (122.4 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Fighting"]}
+{"Nome": "Arceus", "Número": "", "Peso": "320.0 kg (705.5 lbs)", "Altura": "3.2 m (10′06″)", "Tipos": ["Normal"]}
+{"Nome": "Snivy", "Número": "", "Peso": "8.1 kg (17.9 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Grass"]}
+{"Nome": "Shaymin", "Número": "", "Peso": "2.1 kg (4.6 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Grass", "Grass", "Flying"]}
+{"Nome": "Servine", "Número": "", "Peso": "16.0 kg (35.3 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Grass"]}
+{"Nome": "Darkrai", "Número": "", "Peso": "50.5 kg (111.3 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Dark"]}
+{"Nome": "Victini", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Psychic", "Fire"]}
+{"Nome": "Cresselia", "Número": "", "Peso": "85.6 kg (188.7 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Psychic"]}
+{"Nome": "Rotom", "Número": "", "Peso": "0.3 kg (0.7 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Electric", "Ghost", "Electric", "Fire", "Electric", "Water", "Electric", "Ice", "Electric", "Flying", "Electric", "Grass"]}
+{"Nome": "Manaphy", "Número": "", "Peso": "1.4 kg (3.1 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Water"]}
+{"Nome": "Regigigas", "Número": "", "Peso": "420.0 kg (925.9 lbs)", "Altura": "3.7 m (12′02″)", "Tipos": ["Normal"]}
+{"Nome": "Heatran", "Número": "", "Peso": "430.0 kg (948.0 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Fire", "Steel"]}
+{"Nome": "Dialga", "Número": "", "Peso": "683.0 kg (1505.8 lbs)", "Altura": "5.4 m (17′09″)", "Tipos": ["Steel", "Dragon", "Steel", "Dragon"]}
+{"Nome": "Mesprit", "Número": "", "Peso": "0.3 kg (0.7 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Psychic"]}
+{"Nome": "Uxie", "Número": "", "Peso": "0.3 kg (0.7 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Psychic"]}
+{"Nome": "Froslass", "Número": "", "Peso": "26.6 kg (58.6 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Ice", "Ghost"]}
+{"Nome": "Phione", "Número": "", "Peso": "3.1 kg (6.8 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water"]}
+{"Nome": "Probopass", "Número": "", "Peso": "340.0 kg (749.6 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Rock", "Steel"]}
+{"Nome": "Palkia", "Número": "", "Peso": "336.0 kg (740.8 lbs)", "Altura": "4.2 m (13′09″)", "Tipos": ["Water", "Dragon", "Water", "Dragon"]}
+{"Nome": "Porygon-Z", "Número": "", "Peso": "34.0 kg (75.0 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Normal"]}
+{"Nome": "Gallade", "Número": "", "Peso": "52.0 kg (114.6 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Psychic", "Fighting", "Psychic", "Fighting"]}
+{"Nome": "Dusknoir", "Número": "", "Peso": "106.6 kg (235.0 lbs)", "Altura": "2.2 m (7′03″)", "Tipos": ["Ghost"]}
+{"Nome": "Giratina", "Número": "", "Peso": "750.0 kg (1653.5 lbs)", "Altura": "4.5 m (14′09″)", "Tipos": ["Ghost", "Dragon", "Ghost", "Dragon"]}
+{"Nome": "Glaceon", "Número": "", "Peso": "25.9 kg (57.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Ice"]}
+{"Nome": "Gliscor", "Número": "", "Peso": "42.5 kg (93.7 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Ground", "Flying"]}
+{"Nome": "Yanmega", "Número": "", "Peso": "51.5 kg (113.5 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Leafeon", "Número": "", "Peso": "25.5 kg (56.2 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Grass"]}
+{"Nome": "Togekiss", "Número": "", "Peso": "38.0 kg (83.8 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Fairy", "Flying"]}
+{"Nome": "Magmortar", "Número": "", "Peso": "68.0 kg (149.9 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Fire"]}
+{"Nome": "Tangrowth", "Número": "", "Peso": "128.6 kg (283.5 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Grass"]}
+{"Nome": "Rhyperior", "Número": "", "Peso": "282.8 kg (623.5 lbs)", "Altura": "2.4 m (7′10″)", "Tipos": ["Ground", "Rock"]}
+{"Nome": "Electivire", "Número": "", "Peso": "138.6 kg (305.6 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Electric"]}
+{"Nome": "Lickilicky", "Número": "", "Peso": "140.0 kg (308.6 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Normal"]}
+{"Nome": "Magnezone", "Número": "", "Peso": "180.0 kg (396.8 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Electric", "Steel"]}
+{"Nome": "Mamoswine", "Número": "", "Peso": "291.0 kg (641.5 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Ice", "Ground"]}
+{"Nome": "Weavile", "Número": "", "Peso": "34.0 kg (75.0 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Dark", "Ice"]}
+{"Nome": "Azelf", "Número": "", "Peso": "0.3 kg (0.7 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Psychic"]}
+{"Nome": "Mantyke", "Número": "", "Peso": "65.0 kg (143.3 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Water", "Flying"]}
+{"Nome": "Finneon", "Número": "", "Peso": "7.0 kg (15.4 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water"]}
+{"Nome": "Lumineon", "Número": "", "Peso": "24.0 kg (52.9 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water"]}
+{"Nome": "Abomasnow", "Número": "", "Peso": "135.5 kg (298.7 lbs)", "Altura": "2.2 m (7′03″)", "Tipos": ["Grass", "Ice", "Grass", "Ice"]}
+{"Nome": "Toxicroak", "Número": "", "Peso": "44.4 kg (97.9 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Poison", "Fighting"]}
+{"Nome": "Snover", "Número": "", "Peso": "50.5 kg (111.3 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Grass", "Ice"]}
+{"Nome": "Carnivine", "Número": "", "Peso": "27.0 kg (59.5 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Grass"]}
+{"Nome": "Hippopotas", "Número": "", "Peso": "49.5 kg (109.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Ground"]}
+{"Nome": "Drapion", "Número": "", "Peso": "61.5 kg (135.6 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Poison", "Dark"]}
+{"Nome": "Skorupi", "Número": "", "Peso": "12.0 kg (26.5 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Poison", "Bug"]}
+{"Nome": "Hippowdon", "Número": "", "Peso": "300.0 kg (661.4 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Ground"]}
+{"Nome": "Munchlax", "Número": "", "Peso": "105.0 kg (231.5 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal"]}
+{"Nome": "Lucario", "Número": "", "Peso": "54.0 kg (119.0 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Fighting", "Steel", "Fighting", "Steel"]}
+{"Nome": "Garchomp", "Número": "", "Peso": "95.0 kg (209.4 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Dragon", "Ground", "Dragon", "Ground"]}
+{"Nome": "Chatot", "Número": "", "Peso": "1.9 kg (4.2 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Gible", "Número": "", "Peso": "20.5 kg (45.2 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Dragon", "Ground"]}
+{"Nome": "Happiny", "Número": "", "Peso": "24.4 kg (53.8 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal"]}
+{"Nome": "Croagunk", "Número": "", "Peso": "23.0 kg (50.7 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Poison", "Fighting"]}
+{"Nome": "Riolu", "Número": "", "Peso": "20.2 kg (44.5 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fighting"]}
+{"Nome": "Mime Jr.", "Número": "", "Peso": "13.0 kg (28.7 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Psychic", "Fairy"]}
+{"Nome": "Bonsly", "Número": "", "Peso": "15.0 kg (33.1 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Rock"]}
+{"Nome": "Spiritomb", "Número": "", "Peso": "108.0 kg (238.1 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Ghost", "Dark"]}
+{"Nome": "Buneary", "Número": "", "Peso": "5.5 kg (12.1 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Normal"]}
+{"Nome": "Bronzong", "Número": "", "Peso": "187.0 kg (412.3 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Steel", "Psychic"]}
+{"Nome": "Stunky", "Número": "", "Peso": "19.2 kg (42.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Poison", "Dark"]}
+{"Nome": "Lopunny", "Número": "", "Peso": "33.3 kg (73.4 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Normal", "Normal", "Fighting"]}
+{"Nome": "Gabite", "Número": "", "Peso": "56.0 kg (123.5 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Dragon", "Ground"]}
+{"Nome": "Drifblim", "Número": "", "Peso": "15.0 kg (33.1 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Ghost", "Flying"]}
+{"Nome": "Bronzor", "Número": "", "Peso": "60.5 kg (133.4 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Steel", "Psychic"]}
+{"Nome": "Gastrodon", "Número": "", "Peso": "29.9 kg (65.9 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Water", "Ground"]}
+{"Nome": "Floatzel", "Número": "", "Peso": "33.5 kg (73.9 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Water"]}
+{"Nome": "Shellos", "Número": "", "Peso": "6.3 kg (13.9 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Water"]}
+{"Nome": "Cherrim", "Número": "", "Peso": "9.3 kg (20.5 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Grass"]}
+{"Nome": "Cherubi", "Número": "", "Peso": "3.3 kg (7.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass"]}
+{"Nome": "Vespiquen", "Número": "", "Peso": "38.5 kg (84.9 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Pachirisu", "Número": "", "Peso": "3.9 kg (8.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Electric"]}
+{"Nome": "Buizel", "Número": "", "Peso": "29.5 kg (65.0 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Water"]}
+{"Nome": "Burmy", "Número": "", "Peso": "3.4 kg (7.5 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Bug", "Bug", "Bug"]}
+{"Nome": "Shieldon", "Número": "", "Peso": "57.0 kg (125.7 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Rock", "Steel"]}
+{"Nome": "Ambipom", "Número": "", "Peso": "20.3 kg (44.8 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Normal"]}
+{"Nome": "Rampardos", "Número": "", "Peso": "102.5 kg (226.0 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Rock"]}
+{"Nome": "Bastiodon", "Número": "", "Peso": "149.5 kg (329.6 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Rock", "Steel"]}
+{"Nome": "Combee", "Número": "", "Peso": "5.5 kg (12.1 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Mothim", "Número": "", "Peso": "23.3 kg (51.4 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Cranidos", "Número": "", "Peso": "31.5 kg (69.4 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Rock"]}
+{"Nome": "Skuntank", "Número": "", "Peso": "38.0 kg (83.8 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Poison", "Dark"]}
+{"Nome": "Kricketune", "Número": "", "Peso": "25.5 kg (56.2 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Bug"]}
+{"Nome": "Wormadam", "Número": "", "Peso": "6.5 kg (14.3 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Bug", "Grass", "Bug", "Ground", "Bug", "Steel"]}
+{"Nome": "Budew", "Número": "", "Peso": "1.2 kg (2.6 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Shinx", "Número": "", "Peso": "9.5 kg (20.9 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Electric"]}
+{"Nome": "Luxray", "Número": "", "Peso": "42.0 kg (92.6 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Electric"]}
+{"Nome": "Roserade", "Número": "", "Peso": "14.5 kg (32.0 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Luxio", "Número": "", "Peso": "30.5 kg (67.2 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Electric"]}
+{"Nome": "Kricketot", "Número": "", "Peso": "2.2 kg (4.9 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug"]}
+{"Nome": "Empoleon", "Número": "", "Peso": "84.5 kg (186.3 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Water", "Steel"]}
+{"Nome": "Bibarel", "Número": "", "Peso": "31.5 kg (69.4 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Normal", "Water"]}
+{"Nome": "Starly", "Número": "", "Peso": "2.0 kg (4.4 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Staraptor", "Número": "", "Peso": "24.9 kg (54.9 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Bidoof", "Número": "", "Peso": "20.0 kg (44.1 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Normal"]}
+{"Nome": "Staravia", "Número": "", "Peso": "15.5 kg (34.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Infernape", "Número": "", "Peso": "55.0 kg (121.3 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Fire", "Fighting"]}
+{"Nome": "Piplup", "Número": "", "Peso": "5.2 kg (11.5 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water"]}
+{"Nome": "Torterra", "Número": "", "Peso": "310.0 kg (683.4 lbs)", "Altura": "2.2 m (7′03″)", "Tipos": ["Grass", "Ground"]}
+{"Nome": "Chimchar", "Número": "", "Peso": "6.2 kg (13.7 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Fire"]}
+{"Nome": "Monferno", "Número": "", "Peso": "22.0 kg (48.5 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Fire", "Fighting"]}
+{"Nome": "Rayquaza", "Número": "", "Peso": "206.5 kg (455.3 lbs)", "Altura": "7.0 m (23′00″)", "Tipos": ["Dragon", "Flying", "Dragon", "Flying"]}
+{"Nome": "Jirachi", "Número": "", "Peso": "1.1 kg (2.4 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Steel", "Psychic"]}
+{"Nome": "Deoxys", "Número": "", "Peso": "60.8 kg (134.0 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Psychic", "Psychic", "Psychic", "Psychic"]}
+{"Nome": "Registeel", "Número": "", "Peso": "205.0 kg (451.9 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Steel"]}
+{"Nome": "Latios", "Número": "", "Peso": "60.0 kg (132.3 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Dragon", "Psychic", "Dragon", "Psychic"]}
+{"Nome": "Groudon", "Número": "", "Peso": "950.0 kg (2094.4 lbs)", "Altura": "3.5 m (11′06″)", "Tipos": ["Ground", "Ground", "Fire"]}
+{"Nome": "Drifloon", "Número": "", "Peso": "1.2 kg (2.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Ghost", "Flying"]}
+{"Nome": "Regice", "Número": "", "Peso": "175.0 kg (385.8 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Ice"]}
+{"Nome": "Prinplup", "Número": "", "Peso": "23.0 kg (50.7 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Water"]}
+{"Nome": "Beldum", "Número": "", "Peso": "95.2 kg (209.9 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Steel", "Psychic"]}
+{"Nome": "Luvdisc", "Número": "", "Peso": "8.7 kg (19.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water"]}
+{"Nome": "Bagon", "Número": "", "Peso": "42.1 kg (92.8 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Dragon"]}
+{"Nome": "Grotle", "Número": "", "Peso": "97.0 kg (213.8 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Grass"]}
+{"Nome": "Regirock", "Número": "", "Peso": "230.0 kg (507.1 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Rock"]}
+{"Nome": "Salamence", "Número": "", "Peso": "102.6 kg (226.2 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Dragon", "Flying", "Dragon", "Flying"]}
+{"Nome": "Shelgon", "Número": "", "Peso": "110.5 kg (243.6 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Dragon"]}
+{"Nome": "Turtwig", "Número": "", "Peso": "10.2 kg (22.5 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass"]}
+{"Nome": "Latias", "Número": "", "Peso": "40.0 kg (88.2 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Dragon", "Psychic", "Dragon", "Psychic"]}
+{"Nome": "Huntail", "Número": "", "Peso": "27.0 kg (59.5 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Water"]}
+{"Nome": "Walrein", "Número": "", "Peso": "150.6 kg (332.0 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Ice", "Water"]}
+{"Nome": "Gorebyss", "Número": "", "Peso": "22.6 kg (49.8 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Water"]}
+{"Nome": "Kyogre", "Número": "", "Peso": "352.0 kg (776.0 lbs)", "Altura": "4.5 m (14′09″)", "Tipos": ["Water", "Water"]}
+{"Nome": "Clamperl", "Número": "", "Peso": "52.5 kg (115.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water"]}
+{"Nome": "Metang", "Número": "", "Peso": "202.5 kg (446.4 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Steel", "Psychic"]}
+{"Nome": "Relicanth", "Número": "", "Peso": "23.4 kg (51.6 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Water", "Rock"]}
+{"Nome": "Spheal", "Número": "", "Peso": "39.5 kg (87.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Ice", "Water"]}
+{"Nome": "Snorunt", "Número": "", "Peso": "16.8 kg (37.0 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Ice"]}
+{"Nome": "Glalie", "Número": "", "Peso": "256.5 kg (565.5 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Ice", "Ice"]}
+{"Nome": "Chimecho", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Psychic"]}
+{"Nome": "Wynaut", "Número": "", "Peso": "14.0 kg (30.9 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Psychic"]}
+{"Nome": "Absol", "Número": "", "Peso": "47.0 kg (103.6 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Dark", "Dark"]}
+{"Nome": "Kecleon", "Número": "", "Peso": "22.0 kg (48.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Normal"]}
+{"Nome": "Milotic", "Número": "", "Peso": "162.0 kg (357.1 lbs)", "Altura": "6.2 m (20′04″)", "Tipos": ["Water"]}
+{"Nome": "Castform", "Número": "", "Peso": "0.8 kg (1.8 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Fire", "Water", "Ice"]}
+{"Nome": "Armaldo", "Número": "", "Peso": "68.2 kg (150.4 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Rock", "Bug"]}
+{"Nome": "Anorith", "Número": "", "Peso": "12.5 kg (27.6 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Rock", "Bug"]}
+{"Nome": "Feebas", "Número": "", "Peso": "7.4 kg (16.3 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water"]}
+{"Nome": "Sealeo", "Número": "", "Peso": "87.6 kg (193.1 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Ice", "Water"]}
+{"Nome": "Lileep", "Número": "", "Peso": "23.8 kg (52.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Rock", "Grass"]}
+{"Nome": "Cradily", "Número": "", "Peso": "60.4 kg (133.2 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Rock", "Grass"]}
+{"Nome": "Claydol", "Número": "", "Peso": "108.0 kg (238.1 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Ground", "Psychic"]}
+{"Nome": "Corphish", "Número": "", "Peso": "11.5 kg (25.4 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water"]}
+{"Nome": "Baltoy", "Número": "", "Peso": "21.5 kg (47.4 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Ground", "Psychic"]}
+{"Nome": "Crawdaunt", "Número": "", "Peso": "32.8 kg (72.3 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Water", "Dark"]}
+{"Nome": "Shuppet", "Número": "", "Peso": "2.3 kg (5.1 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Ghost"]}
+{"Nome": "Barboach", "Número": "", "Peso": "1.9 kg (4.2 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water", "Ground"]}
+{"Nome": "Seviper", "Número": "", "Peso": "52.5 kg (115.7 lbs)", "Altura": "2.7 m (8′10″)", "Tipos": ["Poison"]}
+{"Nome": "Flygon", "Número": "", "Peso": "82.0 kg (180.8 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Ground", "Dragon"]}
+{"Nome": "Trapinch", "Número": "", "Peso": "15.0 kg (33.1 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Ground"]}
+{"Nome": "Spinda", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Normal"]}
+{"Nome": "Cacnea", "Número": "", "Peso": "51.3 kg (113.1 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass"]}
+{"Nome": "Whiscash", "Número": "", "Peso": "23.6 kg (52.0 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Water", "Ground"]}
+{"Nome": "Cacturne", "Número": "", "Peso": "77.4 kg (170.6 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Grass", "Dark"]}
+{"Nome": "Lunatone", "Número": "", "Peso": "168.0 kg (370.4 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Rock", "Psychic"]}
+{"Nome": "Solrock", "Número": "", "Peso": "154.0 kg (339.5 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Rock", "Psychic"]}
+{"Nome": "Zangoose", "Número": "", "Peso": "40.3 kg (88.8 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Normal"]}
+{"Nome": "Vibrava", "Número": "", "Peso": "15.3 kg (33.7 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Ground", "Dragon"]}
+{"Nome": "Altaria", "Número": "", "Peso": "20.6 kg (45.4 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Dragon", "Flying", "Dragon", "Fairy"]}
+{"Nome": "Spoink", "Número": "", "Peso": "30.6 kg (67.5 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Psychic"]}
+{"Nome": "Torkoal", "Número": "", "Peso": "80.4 kg (177.3 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Fire"]}
+{"Nome": "Swablu", "Número": "", "Peso": "1.2 kg (2.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Camerupt", "Número": "", "Peso": "220.0 kg (485.0 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Fire", "Ground", "Fire", "Ground"]}
+{"Nome": "Grumpig", "Número": "", "Peso": "71.5 kg (157.6 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Psychic"]}
+{"Nome": "Wailord", "Número": "", "Peso": "398.0 kg (877.4 lbs)", "Altura": "14.5 m (47′07″)", "Tipos": ["Water"]}
+{"Nome": "Numel", "Número": "", "Peso": "24.0 kg (52.9 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fire", "Ground"]}
+{"Nome": "Wailmer", "Número": "", "Peso": "130.0 kg (286.6 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Water"]}
+{"Nome": "Carvanha", "Número": "", "Peso": "20.8 kg (45.9 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Water", "Dark"]}
+{"Nome": "Roselia", "Número": "", "Peso": "2.0 kg (4.4 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Gulpin", "Número": "", "Peso": "10.3 kg (22.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Poison"]}
+{"Nome": "Swalot", "Número": "", "Peso": "80.0 kg (176.4 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Poison"]}
+{"Nome": "Minun", "Número": "", "Peso": "4.2 kg (9.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Electric"]}
+{"Nome": "Illumise", "Número": "", "Peso": "17.7 kg (39.0 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Bug"]}
+{"Nome": "Medicham", "Número": "", "Peso": "31.5 kg (69.4 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Fighting", "Psychic", "Fighting", "Psychic"]}
+{"Nome": "Plusle", "Número": "", "Peso": "4.2 kg (9.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Electric"]}
+{"Nome": "Manectric", "Número": "", "Peso": "40.2 kg (88.6 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Electric", "Electric"]}
+{"Nome": "Sharpedo", "Número": "", "Peso": "88.8 kg (195.8 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Water", "Dark", "Water", "Dark"]}
+{"Nome": "Electrike", "Número": "", "Peso": "15.2 kg (33.5 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Electric"]}
+{"Nome": "Meditite", "Número": "", "Peso": "11.2 kg (24.7 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fighting", "Psychic"]}
+{"Nome": "Delcatty", "Número": "", "Peso": "32.6 kg (71.9 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Normal"]}
+{"Nome": "Nosepass", "Número": "", "Peso": "97.0 kg (213.8 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Rock"]}
+{"Nome": "Sableye", "Número": "", "Peso": "11.0 kg (24.3 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Dark", "Ghost", "Dark", "Ghost"]}
+{"Nome": "Mawile", "Número": "", "Peso": "11.5 kg (25.4 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Steel", "Fairy", "Steel", "Fairy"]}
+{"Nome": "Skitty", "Número": "", "Peso": "11.0 kg (24.3 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal"]}
+{"Nome": "Aggron", "Número": "", "Peso": "360.0 kg (793.7 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Steel", "Rock", "Steel"]}
+{"Nome": "Aron", "Número": "", "Peso": "60.0 kg (132.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Steel", "Rock"]}
+{"Nome": "Hariyama", "Número": "", "Peso": "253.8 kg (559.5 lbs)", "Altura": "2.3 m (7′07″)", "Tipos": ["Fighting"]}
+{"Nome": "Exploud", "Número": "", "Peso": "84.0 kg (185.2 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Normal"]}
+{"Nome": "Loudred", "Número": "", "Peso": "40.5 kg (89.3 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Normal"]}
+{"Nome": "Nincada", "Número": "", "Peso": "5.5 kg (12.1 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Bug", "Ground"]}
+{"Nome": "Shedinja", "Número": "", "Peso": "1.2 kg (2.6 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Bug", "Ghost"]}
+{"Nome": "Whismur", "Número": "", "Peso": "16.3 kg (35.9 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal"]}
+{"Nome": "Ninjask", "Número": "", "Peso": "12.0 kg (26.5 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Azurill", "Número": "", "Peso": "2.0 kg (4.4 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Normal", "Fairy"]}
+{"Nome": "Makuhita", "Número": "", "Peso": "86.4 kg (190.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Fighting"]}
+{"Nome": "Slakoth", "Número": "", "Peso": "24.0 kg (52.9 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Normal"]}
+{"Nome": "Vigoroth", "Número": "", "Peso": "46.5 kg (102.5 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Normal"]}
+{"Nome": "Lairon", "Número": "", "Peso": "120.0 kg (264.6 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Steel", "Rock"]}
+{"Nome": "Shroomish", "Número": "", "Peso": "4.5 kg (9.9 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass"]}
+{"Nome": "Breloom", "Número": "", "Peso": "39.2 kg (86.4 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Grass", "Fighting"]}
+{"Nome": "Surskit", "Número": "", "Peso": "1.7 kg (3.7 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Bug", "Water"]}
+{"Nome": "Masquerain", "Número": "", "Peso": "3.6 kg (7.9 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Gardevoir", "Número": "", "Peso": "48.4 kg (106.7 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Psychic", "Fairy", "Psychic", "Fairy"]}
+{"Nome": "Slaking", "Número": "", "Peso": "130.5 kg (287.7 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Normal"]}
+{"Nome": "Ralts", "Número": "", "Peso": "6.6 kg (14.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Psychic", "Fairy"]}
+{"Nome": "Swellow", "Número": "", "Peso": "19.8 kg (43.7 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Shiftry", "Número": "", "Peso": "59.6 kg (131.4 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Grass", "Dark"]}
+{"Nome": "Volbeat", "Número": "", "Peso": "17.7 kg (39.0 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Bug"]}
+{"Nome": "Pelipper", "Número": "", "Peso": "28.0 kg (61.7 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water", "Flying"]}
+{"Nome": "Wingull", "Número": "", "Peso": "9.5 kg (20.9 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water", "Flying"]}
+{"Nome": "Kirlia", "Número": "", "Peso": "20.2 kg (44.5 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Psychic", "Fairy"]}
+{"Nome": "Cascoon", "Número": "", "Peso": "11.5 kg (25.4 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Bug"]}
+{"Nome": "Lombre", "Número": "", "Peso": "32.5 kg (71.7 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water", "Grass"]}
+{"Nome": "Taillow", "Número": "", "Peso": "2.3 kg (5.1 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Lotad", "Número": "", "Peso": "2.6 kg (5.7 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Water", "Grass"]}
+{"Nome": "Seedot", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Grass"]}
+{"Nome": "Ludicolo", "Número": "", "Peso": "55.0 kg (121.3 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Water", "Grass"]}
+{"Nome": "Dustox", "Número": "", "Peso": "31.6 kg (69.7 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Bug", "Poison"]}
+{"Nome": "Nuzleaf", "Número": "", "Peso": "28.0 kg (61.7 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Grass", "Dark"]}
+{"Nome": "Poochyena", "Número": "", "Peso": "13.6 kg (30.0 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Dark"]}
+{"Nome": "Zigzagoon", "Número": "", "Peso": "17.5 kg (38.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Normal", "Dark", "Normal"]}
+{"Nome": "Wurmple", "Número": "", "Peso": "3.6 kg (7.9 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug"]}
+{"Nome": "Silcoon", "Número": "", "Peso": "10.0 kg (22.0 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Bug"]}
+{"Nome": "Mightyena", "Número": "", "Peso": "37.0 kg (81.6 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Dark"]}
+{"Nome": "Linoone", "Número": "", "Peso": "32.5 kg (71.7 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Normal", "Dark", "Normal"]}
+{"Nome": "Beautifly", "Número": "", "Peso": "28.4 kg (62.6 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Swampert", "Número": "", "Peso": "81.9 kg (180.6 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Water", "Ground", "Water", "Ground"]}
+{"Nome": "Mudkip", "Número": "", "Peso": "7.6 kg (16.8 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water"]}
+{"Nome": "Combusken", "Número": "", "Peso": "19.5 kg (43.0 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Fire", "Fighting"]}
+{"Nome": "Blaziken", "Número": "", "Peso": "52.0 kg (114.6 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Fire", "Fighting", "Fire", "Fighting"]}
+{"Nome": "Torchic", "Número": "", "Peso": "2.5 kg (5.5 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Fire"]}
+{"Nome": "Sceptile", "Número": "", "Peso": "52.2 kg (115.1 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Grass", "Grass", "Dragon"]}
+{"Nome": "Grovyle", "Número": "", "Peso": "21.6 kg (47.6 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Grass"]}
+{"Nome": "Marshtomp", "Número": "", "Peso": "28.0 kg (61.7 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Water", "Ground"]}
+{"Nome": "Celebi", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Psychic", "Grass"]}
+{"Nome": "Ho-oh", "Número": "", "Peso": "199.0 kg (438.7 lbs)", "Altura": "3.8 m (12′06″)", "Tipos": ["Fire", "Flying"]}
+{"Nome": "Tyranitar", "Número": "", "Peso": "202.0 kg (445.3 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Rock", "Dark", "Rock", "Dark"]}
+{"Nome": "Lugia", "Número": "", "Peso": "216.0 kg (476.2 lbs)", "Altura": "5.2 m (17′01″)", "Tipos": ["Psychic", "Flying"]}
+{"Nome": "Pupitar", "Número": "", "Peso": "152.0 kg (335.1 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Rock", "Ground"]}
+{"Nome": "Entei", "Número": "", "Peso": "198.0 kg (436.5 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Fire"]}
+{"Nome": "Treecko", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Grass"]}
+{"Nome": "Raikou", "Número": "", "Peso": "178.0 kg (392.4 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Electric"]}
+{"Nome": "Miltank", "Número": "", "Peso": "75.5 kg (166.4 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Normal"]}
+{"Nome": "Magby", "Número": "", "Peso": "21.4 kg (47.2 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fire"]}
+{"Nome": "Blissey", "Número": "", "Peso": "46.8 kg (103.2 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Normal"]}
+{"Nome": "Smoochum", "Número": "", "Peso": "6.0 kg (13.2 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Ice", "Psychic"]}
+{"Nome": "Hitmontop", "Número": "", "Peso": "48.0 kg (105.8 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Fighting"]}
+{"Nome": "Tyrogue", "Número": "", "Peso": "21.0 kg (46.3 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fighting"]}
+{"Nome": "Stantler", "Número": "", "Peso": "71.2 kg (157.0 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Normal"]}
+{"Nome": "Larvitar", "Número": "", "Peso": "72.0 kg (158.7 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Rock", "Ground"]}
+{"Nome": "Suicune", "Número": "", "Peso": "187.0 kg (412.3 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Water"]}
+{"Nome": "Porygon2", "Número": "", "Peso": "32.5 kg (71.7 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal"]}
+{"Nome": "Houndoom", "Número": "", "Peso": "35.0 kg (77.2 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Dark", "Fire", "Dark", "Fire"]}
+{"Nome": "Phanpy", "Número": "", "Peso": "33.5 kg (73.9 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Ground"]}
+{"Nome": "Kingdra", "Número": "", "Peso": "152.0 kg (335.1 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Water", "Dragon"]}
+{"Nome": "Houndour", "Número": "", "Peso": "10.8 kg (23.8 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Dark", "Fire"]}
+{"Nome": "Donphan", "Número": "", "Peso": "120.0 kg (264.6 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Ground"]}
+{"Nome": "Skarmory", "Número": "", "Peso": "50.5 kg (111.3 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Steel", "Flying"]}
+{"Nome": "Mantine", "Número": "", "Peso": "220.0 kg (485.0 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Water", "Flying"]}
+{"Nome": "Delibird", "Número": "", "Peso": "16.0 kg (35.3 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Ice", "Flying"]}
+{"Nome": "Remoraid", "Número": "", "Peso": "12.0 kg (26.5 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water"]}
+{"Nome": "Smeargle", "Número": "", "Peso": "58.0 kg (127.9 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Normal"]}
+{"Nome": "Elekid", "Número": "", "Peso": "23.5 kg (51.8 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Electric"]}
+{"Nome": "Corsola", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water", "Rock", "Ghost"]}
+{"Nome": "Piloswine", "Número": "", "Peso": "55.8 kg (123.0 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Ice", "Ground"]}
+{"Nome": "Slugma", "Número": "", "Peso": "35.0 kg (77.2 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fire"]}
+{"Nome": "Swinub", "Número": "", "Peso": "6.5 kg (14.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Ice", "Ground"]}
+{"Nome": "Sneasel", "Número": "", "Peso": "28.0 kg (61.7 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Dark", "Ice", "Fighting", "Poison"]}
+{"Nome": "Magcargo", "Número": "", "Peso": "55.0 kg (121.3 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Fire", "Rock"]}
+{"Nome": "Ursaring", "Número": "", "Peso": "125.8 kg (277.3 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Normal"]}
+{"Nome": "Teddiursa", "Número": "", "Peso": "8.8 kg (19.4 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Normal"]}
+{"Nome": "Steelix", "Número": "", "Peso": "400.0 kg (881.8 lbs)", "Altura": "9.2 m (30′02″)", "Tipos": ["Steel", "Ground", "Steel", "Ground"]}
+{"Nome": "Granbull", "Número": "", "Peso": "48.7 kg (107.4 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Fairy"]}
+{"Nome": "Qwilfish", "Número": "", "Peso": "3.9 kg (8.6 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Water", "Poison", "Dark", "Poison"]}
+{"Nome": "Scizor", "Número": "", "Peso": "118.0 kg (260.1 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Bug", "Steel", "Bug", "Steel"]}
+{"Nome": "Octillery", "Número": "", "Peso": "28.5 kg (62.8 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Water"]}
+{"Nome": "Snubbull", "Número": "", "Peso": "7.8 kg (17.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fairy"]}
+{"Nome": "Dunsparce", "Número": "", "Peso": "14.0 kg (30.9 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Normal"]}
+{"Nome": "Gligar", "Número": "", "Peso": "64.8 kg (142.9 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Ground", "Flying"]}
+{"Nome": "Wobbuffet", "Número": "", "Peso": "28.5 kg (62.8 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Psychic"]}
+{"Nome": "Girafarig", "Número": "", "Peso": "41.5 kg (91.5 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Normal", "Psychic"]}
+{"Nome": "Pineco", "Número": "", "Peso": "7.2 kg (15.9 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Bug"]}
+{"Nome": "Umbreon", "Número": "", "Peso": "27.0 kg (59.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Dark"]}
+{"Nome": "Shuckle", "Número": "", "Peso": "20.5 kg (45.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Bug", "Rock"]}
+{"Nome": "Slowking", "Número": "", "Peso": "79.5 kg (175.3 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Water", "Psychic", "Poison", "Psychic"]}
+{"Nome": "Wooper", "Número": "", "Peso": "8.5 kg (18.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water", "Ground", "Poison", "Ground"]}
+{"Nome": "Yanma", "Número": "", "Peso": "38.0 kg (83.8 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Forretress", "Número": "", "Peso": "125.8 kg (277.3 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Bug", "Steel"]}
+{"Nome": "Heracross", "Número": "", "Peso": "54.0 kg (119.0 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Bug", "Fighting", "Bug", "Fighting"]}
+{"Nome": "Misdreavus", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Ghost"]}
+{"Nome": "Murkrow", "Número": "", "Peso": "2.1 kg (4.6 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Dark", "Flying"]}
+{"Nome": "Unown", "Número": "", "Peso": "5.0 kg (11.0 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Psychic"]}
+{"Nome": "Quagsire", "Número": "", "Peso": "75.0 kg (165.3 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Water", "Ground"]}
+{"Nome": "Sunkern", "Número": "", "Peso": "1.8 kg (4.0 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Grass"]}
+{"Nome": "Sunflora", "Número": "", "Peso": "8.5 kg (18.7 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Grass"]}
+{"Nome": "Aipom", "Número": "", "Peso": "11.5 kg (25.4 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Normal"]}
+{"Nome": "Espeon", "Número": "", "Peso": "26.5 kg (58.4 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Psychic"]}
+{"Nome": "Sudowoodo", "Número": "", "Peso": "38.0 kg (83.8 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Rock"]}
+{"Nome": "Hoppip", "Número": "", "Peso": "0.5 kg (1.1 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass", "Flying"]}
+{"Nome": "Skiploom", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Grass", "Flying"]}
+{"Nome": "Azumarill", "Número": "", "Peso": "28.5 kg (62.8 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Water", "Fairy"]}
+{"Nome": "Jumpluff", "Número": "", "Peso": "3.0 kg (6.6 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Grass", "Flying"]}
+{"Nome": "Marill", "Número": "", "Peso": "8.5 kg (18.7 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water", "Fairy"]}
+{"Nome": "Politoed", "Número": "", "Peso": "33.9 kg (74.7 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Water"]}
+{"Nome": "Ampharos", "Número": "", "Peso": "61.5 kg (135.6 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Electric", "Electric", "Dragon"]}
+{"Nome": "Mareep", "Número": "", "Peso": "7.8 kg (17.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Electric"]}
+{"Nome": "Flaaffy", "Número": "", "Peso": "13.3 kg (29.3 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Electric"]}
+{"Nome": "Natu", "Número": "", "Peso": "2.0 kg (4.4 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Psychic", "Flying"]}
+{"Nome": "Togepi", "Número": "", "Peso": "1.5 kg (3.3 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Fairy"]}
+{"Nome": "Xatu", "Número": "", "Peso": "15.0 kg (33.1 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Psychic", "Flying"]}
+{"Nome": "Togetic", "Número": "", "Peso": "3.2 kg (7.1 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fairy", "Flying"]}
+{"Nome": "Igglybuff", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Fairy"]}
+{"Nome": "Lanturn", "Número": "", "Peso": "22.5 kg (49.6 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water", "Electric"]}
+{"Nome": "Cleffa", "Número": "", "Peso": "3.0 kg (6.6 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Fairy"]}
+{"Nome": "Chinchou", "Número": "", "Peso": "12.0 kg (26.5 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Water", "Electric"]}
+{"Nome": "Bellossom", "Número": "", "Peso": "5.8 kg (12.8 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass"]}
+{"Nome": "Crobat", "Número": "", "Peso": "75.0 kg (165.3 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Poison", "Flying"]}
+{"Nome": "Furret", "Número": "", "Peso": "32.5 kg (71.7 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Normal"]}
+{"Nome": "Hoothoot", "Número": "", "Peso": "21.2 kg (46.7 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Ariados", "Número": "", "Peso": "33.5 kg (73.9 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Bug", "Poison"]}
+{"Nome": "Ledian", "Número": "", "Peso": "35.6 kg (78.5 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Pichu", "Número": "", "Peso": "2.0 kg (4.4 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Electric"]}
+{"Nome": "Ledyba", "Número": "", "Peso": "10.8 kg (23.8 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Noctowl", "Número": "", "Peso": "40.8 kg (89.9 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Feraligatr", "Número": "", "Peso": "88.8 kg (195.8 lbs)", "Altura": "2.3 m (7′07″)", "Tipos": ["Water"]}
+{"Nome": "Totodile", "Número": "", "Peso": "9.5 kg (20.9 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water"]}
+{"Nome": "Cyndaquil", "Número": "", "Peso": "7.9 kg (17.4 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Fire"]}
+{"Nome": "Croconaw", "Número": "", "Peso": "25.0 kg (55.1 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Water"]}
+{"Nome": "Typhlosion", "Número": "", "Peso": "79.5 kg (175.3 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Fire", "Fire", "Ghost"]}
+{"Nome": "Quilava", "Número": "", "Peso": "19.0 kg (41.9 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Fire"]}
+{"Nome": "Spinarak", "Número": "", "Peso": "8.5 kg (18.7 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Bug", "Poison"]}
+{"Nome": "Sentret", "Número": "", "Peso": "6.0 kg (13.2 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Normal"]}
+{"Nome": "Meganium", "Número": "", "Peso": "100.5 kg (221.6 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Grass"]}
+{"Nome": "Mewtwo", "Número": "", "Peso": "122.0 kg (269.0 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Psychic", "Psychic", "Fighting", "Psychic"]}
+{"Nome": "Dragonite", "Número": "", "Peso": "210.0 kg (463.0 lbs)", "Altura": "2.2 m (7′03″)", "Tipos": ["Dragon", "Flying"]}
+{"Nome": "Bayleef", "Número": "", "Peso": "15.8 kg (34.8 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Grass"]}
+{"Nome": "Chikorita", "Número": "", "Peso": "6.4 kg (14.1 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Grass"]}
+{"Nome": "Aerodactyl", "Número": "", "Peso": "59.0 kg (130.1 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Rock", "Flying", "Rock", "Flying"]}
+{"Nome": "Articuno", "Número": "", "Peso": "55.4 kg (122.1 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Ice", "Flying", "Psychic", "Flying"]}
+{"Nome": "Moltres", "Número": "", "Peso": "60.0 kg (132.3 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Fire", "Flying", "Dark", "Flying"]}
+{"Nome": "Kabutops", "Número": "", "Peso": "40.5 kg (89.3 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Rock", "Water"]}
+{"Nome": "Snorlax", "Número": "", "Peso": "460.0 kg (1014.1 lbs)", "Altura": "2.1 m (6′11″)", "Tipos": ["Normal"]}
+{"Nome": "Kabuto", "Número": "", "Peso": "11.5 kg (25.4 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Rock", "Water"]}
+{"Nome": "Omanyte", "Número": "", "Peso": "7.5 kg (16.5 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Rock", "Water"]}
+{"Nome": "Mew", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Psychic"]}
+{"Nome": "Porygon", "Número": "", "Peso": "36.5 kg (80.5 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Normal"]}
+{"Nome": "Flareon", "Número": "", "Peso": "25.0 kg (55.1 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Fire"]}
+{"Nome": "Eevee", "Número": "", "Peso": "6.5 kg (14.3 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Normal"]}
+{"Nome": "Lapras", "Número": "", "Peso": "220.0 kg (485.0 lbs)", "Altura": "2.5 m (8′02″)", "Tipos": ["Water", "Ice"]}
+{"Nome": "Vaporeon", "Número": "", "Peso": "29.0 kg (63.9 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Water"]}
+{"Nome": "Ditto", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal"]}
+{"Nome": "Jolteon", "Número": "", "Peso": "24.5 kg (54.0 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Electric"]}
+{"Nome": "Dratini", "Número": "", "Peso": "3.3 kg (7.3 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Dragon"]}
+{"Nome": "Gyarados", "Número": "", "Peso": "235.0 kg (518.1 lbs)", "Altura": "6.5 m (21′04″)", "Tipos": ["Water", "Flying", "Water", "Dark"]}
+{"Nome": "Magikarp", "Número": "", "Peso": "10.0 kg (22.0 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Water"]}
+{"Nome": "Omastar", "Número": "", "Peso": "35.0 kg (77.2 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Rock", "Water"]}
+{"Nome": "Magmar", "Número": "", "Peso": "44.5 kg (98.1 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Fire"]}
+{"Nome": "Pinsir", "Número": "", "Peso": "55.0 kg (121.3 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Bug", "Bug", "Flying"]}
+{"Nome": "Tauros", "Número": "", "Peso": "88.4 kg (194.9 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Normal", "Fighting", "Fighting", "Fire", "Fighting", "Water"]}
+{"Nome": "Seaking", "Número": "", "Peso": "39.0 kg (86.0 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Water"]}
+{"Nome": "Mr. Mime", "Número": "", "Peso": "54.5 kg (120.2 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Psychic", "Fairy", "Ice", "Psychic"]}
+{"Nome": "Scyther", "Número": "", "Peso": "56.0 kg (123.5 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Seadra", "Número": "", "Peso": "25.0 kg (55.1 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water"]}
+{"Nome": "Electabuzz", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Electric"]}
+{"Nome": "Jynx", "Número": "", "Peso": "40.6 kg (89.5 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Ice", "Psychic"]}
+{"Nome": "Staryu", "Número": "", "Peso": "34.5 kg (76.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Water"]}
+{"Nome": "Dragonair", "Número": "", "Peso": "16.5 kg (36.4 lbs)", "Altura": "4.0 m (13′01″)", "Tipos": ["Dragon"]}
+{"Nome": "Starmie", "Número": "", "Peso": "80.0 kg (176.4 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Water", "Psychic"]}
+{"Nome": "Goldeen", "Número": "", "Peso": "15.0 kg (33.1 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water"]}
+{"Nome": "Horsea", "Número": "", "Peso": "8.0 kg (17.6 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water"]}
+{"Nome": "Tangela", "Número": "", "Peso": "35.0 kg (77.2 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Grass"]}
+{"Nome": "Koffing", "Número": "", "Peso": "1.0 kg (2.2 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Poison"]}
+{"Nome": "Rhydon", "Número": "", "Peso": "120.0 kg (264.6 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Ground", "Rock"]}
+{"Nome": "Chansey", "Número": "", "Peso": "34.6 kg (76.3 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Normal"]}
+{"Nome": "Lickitung", "Número": "", "Peso": "65.5 kg (144.4 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Normal"]}
+{"Nome": "Weezing", "Número": "", "Peso": "9.5 kg (20.9 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Poison", "Poison", "Fairy"]}
+{"Nome": "Rhyhorn", "Número": "", "Peso": "115.0 kg (253.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Ground", "Rock"]}
+{"Nome": "Hitmonlee", "Número": "", "Peso": "49.8 kg (109.8 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Fighting"]}
+{"Nome": "Kangaskhan", "Número": "", "Peso": "80.0 kg (176.4 lbs)", "Altura": "2.2 m (7′03″)", "Tipos": ["Normal", "Normal"]}
+{"Nome": "Marowak", "Número": "", "Peso": "45.0 kg (99.2 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Ground", "Fire", "Ghost"]}
+{"Nome": "Cubone", "Número": "", "Peso": "6.5 kg (14.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Ground"]}
+{"Nome": "Kingler", "Número": "", "Peso": "60.0 kg (132.3 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Water"]}
+{"Nome": "Hypno", "Número": "", "Peso": "75.6 kg (166.7 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Psychic"]}
+{"Nome": "Onix", "Número": "", "Peso": "210.0 kg (463.0 lbs)", "Altura": "8.8 m (28′10″)", "Tipos": ["Rock", "Ground"]}
+{"Nome": "Gengar", "Número": "", "Peso": "40.5 kg (89.3 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Ghost", "Poison", "Ghost", "Poison"]}
+{"Nome": "Exeggutor", "Número": "", "Peso": "120.0 kg (264.6 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Grass", "Psychic", "Grass", "Dragon"]}
+{"Nome": "Electrode", "Número": "", "Peso": "66.6 kg (146.8 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Electric", "Electric", "Grass"]}
+{"Nome": "Exeggcute", "Número": "", "Peso": "2.5 kg (5.5 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Grass", "Psychic"]}
+{"Nome": "Drowzee", "Número": "", "Peso": "32.4 kg (71.4 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Psychic"]}
+{"Nome": "Hitmonchan", "Número": "", "Peso": "50.2 kg (110.7 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Fighting"]}
+{"Nome": "Voltorb", "Número": "", "Peso": "10.4 kg (22.9 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Electric", "Electric", "Grass"]}
+{"Nome": "Gastly", "Número": "", "Peso": "0.1 kg (0.2 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Ghost", "Poison"]}
+{"Nome": "Shellder", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Water"]}
+{"Nome": "Muk", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Poison", "Poison", "Dark"]}
+{"Nome": "Cloyster", "Número": "", "Peso": "132.5 kg (292.1 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Water", "Ice"]}
+{"Nome": "Krabby", "Número": "", "Peso": "6.5 kg (14.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Water"]}
+{"Nome": "Grimer", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Poison", "Poison", "Dark"]}
+{"Nome": "Doduo", "Número": "", "Peso": "39.2 kg (86.4 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Dodrio", "Número": "", "Peso": "85.2 kg (187.8 lbs)", "Altura": "1.8 m (5′11″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Haunter", "Número": "", "Peso": "0.1 kg (0.2 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Ghost", "Poison"]}
+{"Nome": "Magneton", "Número": "", "Peso": "60.0 kg (132.3 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Electric", "Steel"]}
+{"Nome": "Farfetch'd", "Número": "", "Peso": "15.0 kg (33.1 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Normal", "Flying", "Fighting"]}
+{"Nome": "Magnemite", "Número": "", "Peso": "6.0 kg (13.2 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Electric", "Steel"]}
+{"Nome": "Slowbro", "Número": "", "Peso": "78.5 kg (173.1 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Water", "Psychic", "Water", "Psychic", "Poison", "Psychic"]}
+{"Nome": "Slowpoke", "Número": "", "Peso": "36.0 kg (79.4 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Water", "Psychic", "Psychic"]}
+{"Nome": "Seel", "Número": "", "Peso": "90.0 kg (198.4 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Water"]}
+{"Nome": "Rapidash", "Número": "", "Peso": "95.0 kg (209.4 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Fire", "Psychic", "Fairy"]}
+{"Nome": "Dewgong", "Número": "", "Peso": "120.0 kg (264.6 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Water", "Ice"]}
+{"Nome": "Golem", "Número": "", "Peso": "300.0 kg (661.4 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Rock", "Ground", "Rock", "Electric"]}
+{"Nome": "Ponyta", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Fire", "Psychic"]}
+{"Nome": "Geodude", "Número": "", "Peso": "20.0 kg (44.1 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Rock", "Ground", "Rock", "Electric"]}
+{"Nome": "Tentacool", "Número": "", "Peso": "45.5 kg (100.3 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Water", "Poison"]}
+{"Nome": "Tentacruel", "Número": "", "Peso": "55.0 kg (121.3 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Water", "Poison"]}
+{"Nome": "Weepinbell", "Número": "", "Peso": "6.4 kg (14.1 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Bellsprout", "Número": "", "Peso": "4.0 kg (8.8 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Machoke", "Número": "", "Peso": "70.5 kg (155.4 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Fighting"]}
+{"Nome": "Abra", "Número": "", "Peso": "19.5 kg (43.0 lbs)", "Altura": "0.9 m (2′11″)", "Tipos": ["Psychic"]}
+{"Nome": "Kadabra", "Número": "", "Peso": "56.5 kg (124.6 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Psychic"]}
+{"Nome": "Alakazam", "Número": "", "Peso": "48.0 kg (105.8 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Psychic", "Psychic"]}
+{"Nome": "Victreebel", "Número": "", "Peso": "15.5 kg (34.2 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Machop", "Número": "", "Peso": "19.5 kg (43.0 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Fighting"]}
+{"Nome": "Graveler", "Número": "", "Peso": "105.0 kg (231.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Rock", "Ground", "Rock", "Electric"]}
+{"Nome": "Machamp", "Número": "", "Peso": "130.0 kg (286.6 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Fighting"]}
+{"Nome": "Golduck", "Número": "", "Peso": "76.6 kg (168.9 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Water"]}
+{"Nome": "Poliwhirl", "Número": "", "Peso": "20.0 kg (44.1 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Water"]}
+{"Nome": "Poliwag", "Número": "", "Peso": "12.4 kg (27.3 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Water"]}
+{"Nome": "Arcanine", "Número": "", "Peso": "155.0 kg (341.7 lbs)", "Altura": "1.9 m (6′03″)", "Tipos": ["Fire", "Fire", "Rock"]}
+{"Nome": "Primeape", "Número": "", "Peso": "32.0 kg (70.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Fighting"]}
+{"Nome": "Poliwrath", "Número": "", "Peso": "54.0 kg (119.0 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Water", "Fighting"]}
+{"Nome": "Growlithe", "Número": "", "Peso": "19.0 kg (41.9 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Fire", "Fire", "Rock"]}
+{"Nome": "Psyduck", "Número": "", "Peso": "19.6 kg (43.2 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Water"]}
+{"Nome": "Mankey", "Número": "", "Peso": "28.0 kg (61.7 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Fighting"]}
+{"Nome": "Venomoth", "Número": "", "Peso": "12.5 kg (27.6 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Bug", "Poison"]}
+{"Nome": "Dugtrio", "Número": "", "Peso": "33.3 kg (73.4 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Ground", "Ground", "Steel"]}
+{"Nome": "Persian", "Número": "", "Peso": "32.0 kg (70.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Normal", "Dark"]}
+{"Nome": "Diglett", "Número": "", "Peso": "0.8 kg (1.8 lbs)", "Altura": "0.2 m (0′08″)", "Tipos": ["Ground", "Ground", "Steel"]}
+{"Nome": "Venonat", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Bug", "Poison"]}
+{"Nome": "Meowth", "Número": "", "Peso": "4.2 kg (9.3 lbs)", "Altura": "0.4 m (1′04″)", "Tipos": ["Normal", "Dark", "Steel"]}
+{"Nome": "Gloom", "Número": "", "Peso": "8.6 kg (19.0 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Vileplume", "Número": "", "Peso": "18.6 kg (41.0 lbs)", "Altura": "1.2 m (3′11″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Wigglytuff", "Número": "", "Peso": "12.0 kg (26.5 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Normal", "Fairy"]}
+{"Nome": "Oddish", "Número": "", "Peso": "5.4 kg (11.9 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Golbat", "Número": "", "Peso": "55.0 kg (121.3 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Poison", "Flying"]}
+{"Nome": "Zubat", "Número": "", "Peso": "7.5 kg (16.5 lbs)", "Altura": "0.8 m (2′07″)", "Tipos": ["Poison", "Flying"]}
+{"Nome": "Ninetales", "Número": "", "Peso": "19.9 kg (43.9 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Fire", "Ice", "Fairy"]}
+{"Nome": "Vulpix", "Número": "", "Peso": "9.9 kg (21.8 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fire", "Ice"]}
+{"Nome": "Nidoking", "Número": "", "Peso": "62.0 kg (136.7 lbs)", "Altura": "1.4 m (4′07″)", "Tipos": ["Poison", "Ground"]}
+{"Nome": "Parasect", "Número": "", "Peso": "29.5 kg (65.0 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Bug", "Grass"]}
+{"Nome": "Paras", "Número": "", "Peso": "5.4 kg (11.9 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug", "Grass"]}
+{"Nome": "Clefairy", "Número": "", "Peso": "7.5 kg (16.5 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fairy"]}
+{"Nome": "Jigglypuff", "Número": "", "Peso": "5.5 kg (12.1 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Normal", "Fairy"]}
+{"Nome": "Clefable", "Número": "", "Peso": "40.0 kg (88.2 lbs)", "Altura": "1.3 m (4′03″)", "Tipos": ["Fairy"]}
+{"Nome": "Butterfree", "Número": "", "Peso": "32.0 kg (70.5 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Bug", "Flying"]}
+{"Nome": "Pidgeot", "Número": "", "Peso": "39.5 kg (87.1 lbs)", "Altura": "1.5 m (4′11″)", "Tipos": ["Normal", "Flying", "Normal", "Flying"]}
+{"Nome": "Weedle", "Número": "", "Peso": "3.2 kg (7.1 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug", "Poison"]}
+{"Nome": "Kakuna", "Número": "", "Peso": "10.0 kg (22.0 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Bug", "Poison"]}
+{"Nome": "Pidgey", "Número": "", "Peso": "1.8 kg (4.0 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Metapod", "Número": "", "Peso": "9.9 kg (21.8 lbs)", "Altura": "0.7 m (2′04″)", "Tipos": ["Bug"]}
+{"Nome": "Blastoise", "Número": "", "Peso": "85.5 kg (188.5 lbs)", "Altura": "1.6 m (5′03″)", "Tipos": ["Water", "Water"]}
+{"Nome": "Charizard", "Número": "", "Peso": "90.5 kg (199.5 lbs)", "Altura": "1.7 m (5′07″)", "Tipos": ["Fire", "Flying", "Fire", "Dragon", "Fire", "Flying"]}
+{"Nome": "Squirtle", "Número": "", "Peso": "9.0 kg (19.8 lbs)", "Altura": "0.5 m (1′08″)", "Tipos": ["Water"]}
+{"Nome": "Wartortle", "Número": "", "Peso": "22.5 kg (49.6 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Water"]}
+{"Nome": "Venusaur", "Número": "", "Peso": "100.0 kg (220.5 lbs)", "Altura": "2.0 m (6′07″)", "Tipos": ["Grass", "Poison", "Grass", "Poison"]}
+{"Nome": "Charmander", "Número": "", "Peso": "8.5 kg (18.7 lbs)", "Altura": "0.6 m (2′00″)", "Tipos": ["Fire"]}
+{"Nome": "Pidgeotto", "Número": "", "Peso": "30.0 kg (66.1 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Normal", "Flying"]}
+{"Nome": "Ivysaur", "Número": "", "Peso": "13.0 kg (28.7 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Grass", "Poison"]}
+{"Nome": "Beedrill", "Número": "", "Peso": "29.5 kg (65.0 lbs)", "Altura": "1.0 m (3′03″)", "Tipos": ["Bug", "Poison", "Bug", "Poison"]}
+{"Nome": "Charmeleon", "Número": "", "Peso": "19.0 kg (41.9 lbs)", "Altura": "1.1 m (3′07″)", "Tipos": ["Fire"]}
+{"Nome": "Caterpie", "Número": "", "Peso": "2.9 kg (6.4 lbs)", "Altura": "0.3 m (1′00″)", "Tipos": ["Bug"]}
