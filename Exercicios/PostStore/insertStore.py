@@ -2,7 +2,7 @@ import psycopg2
 from urllib.parse import urlparse
 
 # URL de conexão
-url = "postgres://jktyatpd:M4-BtNDikv52nUByouacmfcArKIgcqQV@silly.db.elephantsql.com/jktyatpd"
+url = "postgres://jktyatpd:password@silly.db.elephantsql.com/jktyatpd"
 
 # Parse a URL
 url_parts = urlparse(url)
