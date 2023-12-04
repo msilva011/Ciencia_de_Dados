@@ -1,0 +1,33 @@
+EP 1 - PI
+sqrt_taylor calcula a série de Taylor da raiz quadrada até a ordem n em torno de x = 1.
+sqrt_derivative calcula a derivada de segunda ordem da raiz quadrada para um valor x.
+numpy.linspace gera 100 valores igualmente espaçados entre 0.1 e 10.
+y_values_exact calcula os valores exatos da raiz quadrada.
+y_values_taylor calcula os valores aproximados usando a série de Taylor de ordem 5.
+y_values_derivative calcula os valores da derivada de segunda ordem.
+
+Imprime informações sobre as derivadas da função e o valor escolhido de N na série de Taylor.
+
+Gráfico da Função Exata vs. Série de Taylor:
+
+O primeiro gráfico compara a função exata 
+raiz de x com a aproximação da série de Taylor de ordem 5 em torno de x=1(indicado por n=5).
+A função exata é representada pela linha azul, enquanto a aproximação de Taylor é mostrada pela linha tracejada vermelha.
+O ponto de expansão da série de Taylor é x=1.
+À medida que x se afasta de 1, a aproximação de Taylor se desvia da função exata.
+
+Gráfico da Derivada de Segunda Ordem:
+O segundo gráfico mostra a derivada de segunda ordem da função raiz quadrada (y′′) em função de x.
+A derivada de segunda ordem é calculada diretamente usando a função sqrt_derivative.
+Como esperado, a derivada de segunda ordem é negativa e diminui à medida que x aumenta.
+
+Análise Adicional:
+
+A escolha de N=5 na série de Taylor oferece uma boa precisão sem aumentar muito a complexidade computacional.
+A tabela de valores fixos imprime os valores de x para x fixo em 0.5, 1, 2, 5 e 10.
+
+Conclusões:
+
+A série de Taylor é uma ferramenta poderosa para aproximar funções complexas por meio de polinômios.
+A qualidade da aproximação depende da escolha adequada do ponto de expansão e da ordem da série.
+O uso da derivada de segunda ordem mostra como a concavidade da função raiz quadrada varia com x.
