@@ -47,17 +47,14 @@ class PokeSpider(scrapy.Spider):
             "Tipos": types
         }
 
-        self.pokemons_data.append(pokemon_data)  # Adiciona os dados à lista
+        self.pokemons_data.append(pokemon_data) 
 
         yield pokemon_data 
 
     def closed(self, reason):
-        # Converte Scrapy x DataFrames
         df = pd.DataFrame(self.pokemons_data)
 
-        # Arquivo CSV
         df.to_csv('pokemons.csv', index=False)
 
-        # Arquivo Json
         with jsonlines.open('pokemons.json', mode='w') as writer:
             writer.write_all(self.pokemons_data)
