@@ -1,0 +1,42 @@
+{
+    "profile_link":"https:\/\/pokemondb.net\/pokedex\/bulbasaur",
+    "name":"Bulbasaur",
+    "number":"0001",
+    "types":[
+       "Grass",
+       "Poison"
+    ],
+    "species":"Seed Pokémon",
+    "height":"0.7 m",
+    "weight":"6.9 kg",
+    "evolution":[
+       {
+          "name":"Bulbasaur",
+          "number":"0001",
+          "url":"https:\/\/pokemondb.net\/pokedex\/bulbasaur"
+       },
+       {
+          "name":"Ivysaur",
+          "number":"0002",
+          "url":"https:\/\/pokemondb.net\/pokedex\/ivysaur"
+       },
+       {
+          "name":"Venusaur",
+          "number":"0003",
+          "url":"https:\/\/pokemondb.net\/pokedex\/venusaur"
+       }
+    ],
+    "abilities":[
+       {
+          "name":"Chlorophyll ",
+          "description":"Chlorophyll doubles the ability-bearer's Speed during bright sunshine."
+       },
+       {
+          "name":"Overgrow ",
+          "description":"Overgrow increases the power of Grass-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch)."
+       }
+    ]
+ }
+
+
+ 
