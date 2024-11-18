@@ -14,7 +14,7 @@ ORDER BY p.quarter, p.month, l.estado, l.cidade;
 
 -- Rollup: Quadrimestre-mês e Estado → Cidades
 SELECT 
-    COALESCE(CAST(p.quarter AS VARCHAR), 'Total Geral') AS quadrimestre,
+    COALESCE(CAST(p.quarter AS VARCHAR), 'Total Geral') AS quadrimestre, --Add coalesce apenas para nomear e facilitar identificacao
     COALESCE(CAST(p.month AS VARCHAR), 'Total Geral') AS mes,
     l.estado,
     l.cidade,
